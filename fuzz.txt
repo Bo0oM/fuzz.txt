@@ -707,6 +707,10 @@
 /blog/wp-content/backups/
 /bo0om.ru
 /bot.txt
+/Brocfile.coffee
+/Brocfile.js
+/brunch-config.coffee
+/brunch-config.js
 /buck.sql
 /build.local.xml
 /build.sh
@@ -721,6 +725,7 @@
 /c99shell.php
 /cache/
 /cache/sql_error_latest.cgi
+/Cakefile
 /Capfile
 /cc-errors.txt
 /cc-log.txt
@@ -1140,7 +1145,10 @@
 /globals
 /globals.inc
 /grabbed.html
+/Gruntfile.coffee
 /Gruntfile.js
+/gulpfile.coffee
+/gulpfile.js
 /HISTORY
 /home.rar
 /home.tar
@@ -1240,6 +1248,7 @@
 /install~/
 /invoker/JMXInvokerServlet
 /ispmgr/
+/Jakefile
 /javax.faces.resource.../WEB-INF/web.xml.jsf
 /jdbc
 /jira/
@@ -1373,6 +1382,8 @@
 /membersonly
 /mercurial.ini
 /META-INF/context.xml
+/mimosa-config.coffee
+/mimosa-config.js
 /moadmin.php
 /moderator.php
 /moderator/
