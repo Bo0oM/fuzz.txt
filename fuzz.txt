@@ -1,10 +1,8 @@
 /!.gitignore
 /!.htaccess
 /!.htpasswd
-/%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
 /%3f/
 /%ff/
-/../../../../../../../../../../../../../../../../../../../../../../../../../../../../../etc/passwd
 /.7z
 /.access
 /.addressbook
@@ -342,7 +340,7 @@
 /.SyncID
 /.SyncIgnore
 /.synthquota
-/.system/sitemap.xml
+/.system/
 /.tags
 /.tags_sorted_by_file
 /.tar
@@ -369,6 +367,8 @@
 /.web
 /.workspace/
 /.wp-config.php.swp
+/.www_acl
+/.wwwacl
 /.zeus.sock
 /.zfs/
 /.zip
@@ -411,6 +411,9 @@
 /_index.php
 /_install
 /_layouts
+/_layouts/alllibs.htm
+/_layouts/settings.htm
+/_layouts/userinfo.htm
 /_log/
 /_log/access-log
 /_log/access.log
@@ -439,11 +442,15 @@
 /_sqladm
 /_src
 /_test
+/_vti_bin/
+/_vti_pvt/
 /_WEB_INF/
 /_www
+/a%5c.aspx
 /acceptance_config.yml
 /access-log
 /access.log
+/access/
 /access_log
 /accesslog
 /account.php
@@ -488,6 +495,8 @@
 /admin/fckeditor/editor/filemanager/upload/asp/upload.asp
 /admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx
 /admin/fckeditor/editor/filemanager/upload/php/upload.php
+/admin/file.php
+/admin/files.php
 /admin/includes/configure.php~
 /admin/js/tiny_mce/
 /admin/js/tinymce/
@@ -502,6 +511,7 @@
 /admin/private/logs
 /admin/sxd/
 /admin/upload.php
+/admin/uploads.php
 /admin/user_count.txt
 /admin0
 /admin1
@@ -738,6 +748,7 @@
 /changelog.txt
 /CHANGES.html
 /changes.txt
+/check.php
 /checked_accounts.txt
 /chubb.xml
 /cidr.txtа
@@ -1108,6 +1119,7 @@
 /filemanager
 /filemanager/
 /files.md5
+/files.php
 /files/
 /fileupload/
 /flashFXP.ini
@@ -1121,6 +1133,7 @@
 /fpadmin
 /ftp.txt
 /gaza.php
+/gbpass.pl
 /Gemfile
 /Gemfile.lock
 /get.php
@@ -1170,6 +1183,8 @@
 /id_dsa
 /id_dsa.ppk
 /id_rsa
+/iiasdmpwd/
+/iisadmin/
 /images/c99.php
 /images/Sym.php
 /import.php
@@ -1287,6 +1302,7 @@
 /linusadmin-phpinfo.php
 /list_emails
 /lists/config
+/lk/
 /load.php
 /local.config.rb
 /local.properties
@@ -1332,6 +1348,7 @@
 /logs.htm
 /logs.html
 /logs.mdb
+/logs.pl
 /logs.sqlite
 /logs.txt
 /logs/
@@ -1374,6 +1391,7 @@
 /mercurial.ini
 /META-INF/context.xml
 /moadmin.php
+/mock/
 /moderator.php
 /moderator/
 /mrtg.cfg
@@ -1424,6 +1442,7 @@
 /nstview.php
 /nwp-content/plugins/disqus-comment-system/disqus.php
 /odbc
+/olap/
 /old
 /old.htaccess
 /old.htpasswd
@@ -1446,6 +1465,7 @@
 /orders_log
 /ospfd.conf
 /output-build.txt
+/OWA/
 /p.php
 /p/m/a/
 /package.json
@@ -1462,8 +1482,8 @@
 /passwd.adjunct
 /passwd.bak
 /passwd.txt
-/Password
 /password
+/Password
 /password.html
 /password.log
 /password.mdb
@@ -1500,6 +1520,8 @@
 /php.lnk
 /php.log
 /php.php
+/php/
+/php/dev/
 /php4.ini
 /php5.fcgi
 /php5.ini
@@ -1632,6 +1654,8 @@
 /pmadmin/
 /pmyadmin/
 /pom.xml
+/printenv
+/printenv.tmp
 /priv8.php
 /private.key
 /private.mdb
@@ -1645,6 +1669,7 @@
 /pws.txt
 /qa/
 /query.log
+/quikstore.cfg
 /r.php
 /r00t.php
 /r57.php
@@ -1845,8 +1870,10 @@
 /test.txt
 /test/
 /test0.php
+/test1
 /test1.php
 /test123.php
+/test2
 /test2.php
 /test3.php
 /test4.php
@@ -1904,6 +1931,7 @@
 /Trace.axd
 /Trace.axd::$DATA
 /tst
+/txt/
 /typo3/phpmyadmin/
 /typo3/phpmyadmin/scripts/setup.php
 /uber/phpMemcachedAdmin/
@@ -1976,6 +2004,7 @@
 /vb.sql
 /vb.zip
 /VERSION.txt
+/view-source
 /view.php
 /vtund.conf
 /wcx_ftp.ini
