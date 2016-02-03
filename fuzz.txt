@@ -728,6 +728,7 @@
 /build/build.properties
 /build/buildinfo.properties
 /build_config_private.ini
+/bx_1c_import.php
 /c-h.v2.php
 /c100.php
 /c22.php
@@ -996,6 +997,7 @@
 /doctrine/schema/tmx.yml
 /documentation/config.yml
 /dom.php
+/domcfg.nsf
 /download/history.csv
 /download/users.csv
 /downloader/cache.cfg
@@ -1350,6 +1352,7 @@
 /log_errors.txt
 /logexpcus.txt
 /logfile
+/logfile.txt
 /logfiles
 /login.php
 /logins.txt
@@ -1405,6 +1408,8 @@
 /mock/
 /moderator.php
 /moderator/
+/monitor/
+/monitoring/
 /mrtg.cfg
 /msql/
 /mssql/
@@ -2077,6 +2082,7 @@
 /wp-content/plugins/disqus-comment-system/disqus.php
 /wp-content/plugins/google-sitemap-generator/sitemap-core.php
 /wp-content/uploads/
+/wp-includes/rss-functions.php
 /wp-register.php
 /wp.php
 /wp.rar/
@@ -2109,4 +2115,5 @@
 /zebra.conf
 /zehir.php
 /zeroclipboard.swf
+/zf_backend.php
 /zone-h.php

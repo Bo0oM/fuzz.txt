@@ -5081,7 +5081,6 @@ wp-content/backup-db/
 wp-content/backups/
 wp-content/debug.log
 wp-content/plugins/akismet/admin.php
-wp-content/plugins/akismet/akismet.php
 wp-content/plugins/count-per-day/js/yc/d00.php
 wp-content/plugins/disqus-comment-system/disqus.php
 wp-content/plugins/google-sitemap-generator/sitemap-core.php
