@@ -161,6 +161,7 @@
 /.idea
 /.idea/
 /.idea/.name
+/munin/
 /.idea/compiler.xml
 /.idea/copyright/profiles_settings.xml
 /.idea/dataSources.ids
@@ -1458,6 +1459,7 @@
 /nstview.php
 /nwp-content/plugins/disqus-comment-system/disqus.php
 /odbc
+/Office/graph.php#xxe
 /olap/
 /old
 /old.htaccess
