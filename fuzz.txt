@@ -161,7 +161,6 @@
 /.idea
 /.idea/
 /.idea/.name
-/munin/
 /.idea/compiler.xml
 /.idea/copyright/profiles_settings.xml
 /.idea/dataSources.ids
@@ -720,6 +719,7 @@
 /bot.txt
 /Brocfile.coffee
 /Brocfile.js
+/browser/
 /brunch-config.coffee
 /brunch-config.js
 /buck.sql
@@ -992,6 +992,7 @@
 /development.esproj/
 /development/
 /df_main.sql
+/dfshealth.jsp
 /dir.php
 /dist/
 /doctrine/schema/eirec.yml
@@ -1287,6 +1288,7 @@
 /jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php
 /jscripts/tinymce/
 /jsp-examples/
+/jssresource/
 /kcfinder/browse.php
 /killer.php
 /l0gs.txt
@@ -1415,6 +1417,7 @@
 /msql/
 /mssql/
 /mt-check.cgi
+/munin/
 /muracms.esproj
 /mw-config/
 /myadm/
@@ -2022,6 +2025,7 @@
 /vb.sql
 /vb.zip
 /VERSION.txt
+/version/ 
 /view-source
 /view.php
 /vtund.conf
