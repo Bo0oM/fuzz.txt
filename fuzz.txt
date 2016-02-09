@@ -11,6 +11,7 @@
 /.adminer.php.swp
 /.apdisk
 /.AppleDB
+/bower.json
 /.AppleDesktop
 /.AppleDouble
 /.bak
