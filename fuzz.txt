@@ -1762,7 +1762,6 @@
 /revision.inc
 /revision.txt
 /robot.txt
-/robots.txt
 /RootCA.crt
 /rst.php
 /sa.php
