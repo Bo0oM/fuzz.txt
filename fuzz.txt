@@ -889,6 +889,8 @@
 /contributing.md
 /contributors.txt
 /controlpanel.php
+/cookie
+/cookie.php
 /COPYING
 /coverage.data
 /coverage.xml
