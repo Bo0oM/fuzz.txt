@@ -760,6 +760,7 @@
 /ccbill.log
 /cell.xml
 /cgi-bin/awstats.pl
+/cgi-bin/php.ini
 /cgi.pl/
 /Cgishell.pl
 /change.log
@@ -1102,6 +1103,8 @@
 /eula_en.txt
 /example.php
 /examples/
+/examples/servlets/servlet/CookieExample
+/examples/servlets/servlet/RequestHeaderExample
 /export
 /FAQ
 /FCKeditor
@@ -1952,6 +1955,7 @@
 /test_
 /test_ip.php
 /tests
+/tests/
 /tests/phpunit_report.xml
 /Thumbs.db
 /thumbs.db
@@ -2067,8 +2071,10 @@
 /vagrant-spec.config.rb
 /validator.php
 /var/backups/
+/var/cache/
 /var/log/
 /var/logs/
+/var/sessions/
 /vb.rar
 /vb.sql
 /vb.zip
