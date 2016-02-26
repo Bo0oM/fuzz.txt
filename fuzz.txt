@@ -1,6 +1,7 @@
 /!.gitignore
 /!.htaccess
 /!.htpasswd
+/%2e%2e//bo0om.ru
 /%3f/
 /%ff/
 /.7z
@@ -426,6 +427,7 @@
 /_logs/access-log
 /_logs/access.log
 /_logs/access_log
+/_logs/err.log
 /_logs/error-log
 /_logs/error.log
 /_logs/error_log
@@ -479,6 +481,14 @@
 /admin/
 /admin/.config
 /admin/.htaccess
+/admin/_logs/access-log
+/admin/_logs/access.log
+/admin/_logs/access_log
+/admin/_logs/err.log
+/admin/_logs/error-log
+/admin/_logs/error.log
+/admin/_logs/error_log
+/admin/_logs/login.txt
 /admin/access.log
 /admin/access.txt
 /admin/access_log
@@ -510,6 +520,13 @@
 /admin/js/tinymce/
 /admin/log
 /admin/logs/
+/admin/logs/access-log
+/admin/logs/access.log
+/admin/logs/access_log
+/admin/logs/err.log
+/admin/logs/error-log
+/admin/logs/error.log
+/admin/logs/error_log
 /admin/logs/login.txt
 /admin/mysql/
 /admin/phpMyAdmin
@@ -701,7 +718,6 @@
 /bin/config.sh
 /bin/reset-db-prod.sh
 /bin/reset-db.sh
-/BingSiteAuth.xml
 /bitrix/admin/index.php
 /bitrix/authorization.config
 /bitrix/backup/
@@ -728,7 +744,6 @@
 /blog/error_log
 /blog/wp-content/backup-db/
 /blog/wp-content/backups/
-/bo0om.ru
 /bot.txt
 /bower.json
 /Brocfile.coffee
@@ -1066,6 +1081,7 @@
 /engine/classes/swfupload/swfupload_f9.swf
 /environment.rb
 /err
+/err.log
 /error
 /error-log
 /error-log.txt
@@ -1347,6 +1363,8 @@
 /libraries/tinymce/
 /LICENSE.txt
 /license.txt
+/lighttpd.access.log
+/lighttpd.error.log
 /lilo.conf
 /linkhub/linkhub.log
 /linktous.html
@@ -2137,11 +2155,7 @@
 /wp-content/backup-db/
 /wp-content/backups/
 /wp-content/debug.log
-/wp-content/plugins/akismet/admin.php
-/wp-content/plugins/akismet/akismet.php
 /wp-content/plugins/count-per-day/js/yc/d00.php
-/wp-content/plugins/disqus-comment-system/disqus.php
-/wp-content/plugins/google-sitemap-generator/sitemap-core.php
 /wp-content/uploads/
 /wp-includes/rss-functions.php
 /wp-register.php
@@ -2162,6 +2176,7 @@
 /xampp/phpmyadmin/
 /xampp/phpmyadmin/scripts/setup.php
 /xd.php
+/xferlog
 /xls/
 /xml/_common.xml
 /xml/common.xml
@@ -2173,6 +2188,7 @@
 /xsl/_common.xsl
 /xsl/common.xsl
 /xsql/lib/XSQLConfig.xml
+/yum.log
 /zabbix/
 /zebra.conf
 /zehir.php
