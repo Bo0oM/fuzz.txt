@@ -718,6 +718,7 @@
 /bin/config.sh
 /bin/reset-db-prod.sh
 /bin/reset-db.sh
+/bitrix/admin/help.php
 /bitrix/admin/index.php
 /bitrix/authorization.config
 /bitrix/backup/
