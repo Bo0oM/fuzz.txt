@@ -825,7 +825,15 @@
 /composer.lock
 /composer.phar
 /conf/
+/conf/Catalina
+/conf/catalina.policy
+/conf/catalina.properties
+/conf/context.xml
+/conf/logging.properties
 /conf/server.xml
+/conf/tomcat-users.xml
+/conf/tomcat8.conf
+/conf/web.xml
 /config.bak
 /config.codekit
 /config.core
