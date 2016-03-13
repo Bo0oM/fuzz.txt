@@ -16,6 +16,7 @@
 %.inc
 %.ini
 %.java
+%.map
 %.log
 %.lst
 %.old
