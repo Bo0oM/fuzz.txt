@@ -5216,3 +5216,11 @@ zehir.php
 zeroclipboard.swf
 zf_backend.php
 zone-h.php
+conf/Catalina
+conf/catalina.policy
+conf/catalina.properties
+conf/context.xml
+conf/logging.properties
+conf/tomcat-users.xml
+conf/tomcat8.conf
+conf/web.xml

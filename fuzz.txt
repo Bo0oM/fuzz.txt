@@ -332,7 +332,9 @@
 /.sunw
 /.svn
 /.svn/
+/.svn/all-wcprops
 /.svn/entries
+/.svn/text-base/
 /.svnignore
 /.sw
 /.swf
