@@ -54,6 +54,8 @@
 .conf
 .config
 .config.php.swp
+.config/filezilla/sitemanager.xml.xml
+.config/psi+/profiles/default/accounts.xml
 .configuration.php.swp
 .contracts
 .core
@@ -94,6 +96,7 @@
 .FBCIndex
 .fhp
 .filemgr-tmp
+.filezilla/sitemanager.xml.xml
 .fishsrv.pl
 .flac
 .flowconfig
@@ -241,6 +244,7 @@
 .keep
 .komodotools
 .komodotools/
+.ksh_history
 .lesshst
 .lighttpd.conf
 .listing
@@ -278,6 +282,7 @@
 .mweval_history
 .mwsql_history
 .mysql_history
+.nano_history
 .nbproject/
 .net/
 .netrc
@@ -299,6 +304,7 @@
 .passwrd
 .patches/
 .perf
+.pgsql_history
 .php-ini
 .php-version
 .php_history
@@ -368,6 +374,7 @@
 .ssh.php
 .ssh/
 .ssh/authorized_keys
+.ssh/id_dsa
 .ssh/id_rsa
 .ssh/id_rsa.key
 .ssh/id_rsa.key~
@@ -379,6 +386,7 @@
 .ssh/know_hosts
 .ssh/know_hosts~
 .ssh/known_host
+.ssh/known_hosts
 .st_cache/
 .stats/
 .sublime-gulp.cache
@@ -410,6 +418,7 @@
 .tar
 .tar.bz2
 .tar.gz
+.tconn/tconn.conf
 .temp
 .tgitconfig
 .thumbs
@@ -436,6 +445,7 @@
 .zeus.sock
 .zfs/
 .zip
+.zsh_history
 0
 0.htpasswd
 0.php
@@ -750,6 +760,7 @@ accounts.pl
 accounts.py
 accounts.rb
 accounts.txt
+accounts.xml
 accounts/
 Accounts/
 accounts/login
@@ -2128,7 +2139,15 @@ concrete/config/banned_words.txt
 conf
 conf.html
 conf/
+conf/Catalina
+conf/catalina.policy
+conf/catalina.properties
+conf/context.xml
+conf/logging.properties
 conf/server.xml
+conf/tomcat-users.xml
+conf/tomcat8.conf
+conf/web.xml
 conferences
 config
 Config
@@ -2740,6 +2759,7 @@ fileserver
 FileTransfer
 fileupload
 fileupload/
+filezilla.xml
 FireFox_Reco
 FirmConnect.%EXT%
 fkadmin
@@ -4140,6 +4160,7 @@ products
 profile
 Profile
 profiles
+profiles.xml
 profiles/minimal/minimal.info
 profiles/standard/standard.info
 profiles/testing/testing.info
@@ -4271,6 +4292,7 @@ rss
 rst.php
 rubrique.%EXT%
 runtime_messages.jsp
+RushSite.xml
 s
 s2dshopadmin.%EXT%
 sa.php
@@ -4370,7 +4392,10 @@ server.xml
 Server/
 serveradmin
 serverindex.xml
+ServerList.cfg
+ServerList.xml
 servers
+servers.xml
 service
 service.asmx
 services
@@ -4507,11 +4532,13 @@ siteadmin/index.%EXT%
 siteadmin/login.%EXT%
 siteadmin/login.html
 sitedown.%EXT%
+sitemanager.xml
 sitemap
 sitemap.xml
 sitemap.xml.gz
 sites
 sites.ini
+sites.xml
 sites/all/libraries/fckeditor
 sites/all/modules/fckeditor
 Sites/Knowledge/Membership/Inspired/ViewCode.%EXT%
@@ -5184,6 +5211,7 @@ WS_FTP.ini
 WS_FTP.LOG
 WS_FTP.log
 WS_FTP/
+WS_FTP/Sites/ws_ftp.ini
 WSO.php
 wso.php
 wso2.5.1.php
@@ -5216,11 +5244,3 @@ zehir.php
 zeroclipboard.swf
 zf_backend.php
 zone-h.php
-conf/Catalina
-conf/catalina.policy
-conf/catalina.properties
-conf/context.xml
-conf/logging.properties
-conf/tomcat-users.xml
-conf/tomcat8.conf
-conf/web.xml

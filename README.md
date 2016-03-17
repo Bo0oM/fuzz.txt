@@ -1,2 +1,3 @@
 # fuzz.txt
-# There's Nothing so Permanent as Temporary
+
+There's Nothing so Permanent as Temporary

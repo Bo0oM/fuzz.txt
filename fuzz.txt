@@ -49,6 +49,8 @@
 /.conf
 /.config
 /.config.php.swp
+/.config/filezilla/sitemanager.xml.xml
+/.config/psi+/profiles/default/accounts.xml
 /.configuration.php.swp
 /.contracts
 /.core
@@ -87,6 +89,7 @@
 /.FBCIndex
 /.fhp
 /.filemgr-tmp
+/.filezilla/sitemanager.xml.xml
 /.fishsrv.pl
 /.flac
 /.flowconfig
@@ -200,6 +203,7 @@
 /.keep
 /.komodotools
 /.komodotools/
+/.ksh_history
 /.lesshst
 /.lighttpd.conf
 /.listing
@@ -236,6 +240,7 @@
 /.mweval_history
 /.mwsql_history
 /.mysql_history
+/.nano_history
 /.nbproject/
 /.netrc
 /.netrwhist
@@ -250,6 +255,7 @@
 /.passwd
 /.patches/
 /.perf
+/.pgsql_history
 /.php-ini
 /.php-version
 /.php_history
@@ -312,6 +318,7 @@
 /.ssh.asp
 /.ssh.php
 /.ssh/authorized_keys
+/.ssh/id_dsa
 /.ssh/id_rsa
 /.ssh/id_rsa.key
 /.ssh/id_rsa.key~
@@ -323,6 +330,7 @@
 /.ssh/know_hosts
 /.ssh/know_hosts~
 /.ssh/known_host
+/.ssh/known_hosts
 /.st_cache/
 /.sublime-gulp.cache
 /.sublime-project
@@ -349,6 +357,7 @@
 /.tar
 /.tar.bz2
 /.tar.gz
+/.tconn/tconn.conf
 /.temp
 /.tgitconfig
 /.thumbs
@@ -375,6 +384,7 @@
 /.zeus.sock
 /.zfs/
 /.zip
+/.zsh_history
 /0.htpasswd
 /0.php
 /1.htaccess
@@ -466,6 +476,7 @@
 /account.php
 /accounts
 /accounts.txt
+/accounts.xml
 /add.php
 /adm.php
 /admin%20/
@@ -1180,6 +1191,7 @@
 /files.php
 /files/
 /fileupload/
+/filezilla.xml
 /flashFXP.ini
 /forum.rar
 /forum.sql
@@ -1754,6 +1766,7 @@
 /private.mdb
 /private.sqlite
 /production.log
+/profiles.xml
 /project.xml
 /propel.ini
 /prv/
@@ -1797,6 +1810,7 @@
 /robot.txt
 /RootCA.crt
 /rst.php
+/RushSite.xml
 /sa.php
 /sa2.php
 /sales.csv
@@ -1830,6 +1844,9 @@
 /Server.php
 /server.xml
 /Server/
+/ServerList.cfg
+/ServerList.xml
+/servers.xml
 /service.asmx
 /services
 /servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
@@ -1867,7 +1884,9 @@
 /site/common.xml
 /site_admin
 /siteadmin
+/sitemanager.xml
 /sites.ini
+/sites.xml
 /slapd.conf
 /soap/
 /soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
@@ -2175,6 +2194,7 @@
 /ws.php
 /ws_ftp.ini
 /WS_FTP.LOG
+/WS_FTP/Sites/ws_ftp.ini
 /WSO.php
 /wso.php
 /wso2.5.1.php
