@@ -353,7 +353,6 @@
 /.synthquota
 /.system/
 /.tags
-/.tags_sorted_by_file
 /.tar
 /.tar.bz2
 /.tar.gz
@@ -1052,6 +1051,7 @@
 /dfshealth.jsp
 /dir.php
 /dist/
+/Dockerfile
 /doctrine/schema/eirec.yml
 /doctrine/schema/tmx.yml
 /documentation/config.yml
@@ -1964,6 +1964,7 @@
 /tar
 /tar.bz2
 /tar.gz
+/tconn.conf
 /technico.txt
 /telphin.log
 /temp.php

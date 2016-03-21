@@ -2466,6 +2466,7 @@ doc
 doc/
 doc/en/changes.html
 doc/stable.version
+Dockerfile
 docs
 docs/
 docs/CHANGELOG.html
