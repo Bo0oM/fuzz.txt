@@ -804,6 +804,7 @@
 /checked_accounts.txt
 /chubb.xml
 /cidr.txtа
+/circle.yml
 /citrix/
 /Citrix/PNAgent/config.xml
 /citydesk.xml
@@ -1785,6 +1786,7 @@
 /r57shell.php
 /r58.php
 /r99.php
+/Rakefile
 /Read
 /read.me
 /Read_Me.txt

@@ -2044,6 +2044,7 @@ checkout
 chubb.xml
 cidr.txtа
 cimjobpostadmin
+circle.yml
 citrix/
 Citrix//AccessPlatform/auth/clientscripts/cookies.js
 citrix/AccessPlatform/auth/
@@ -4215,6 +4216,7 @@ r58.php
 r99.php
 radio
 radmin
+Rakefile
 rap_admin
 rating_over.
 rcjakar/admin/login.%EXT%
