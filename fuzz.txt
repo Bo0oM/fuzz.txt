@@ -285,6 +285,7 @@
 /.revision
 /.rhosts
 /.robots.txt
+/.rsync-filter
 /.rsync_cache
 /.rsync_cache/
 /.rubocop.yml
@@ -803,7 +804,7 @@
 /check.php
 /checked_accounts.txt
 /chubb.xml
-/cidr.txtа
+/cidr.txt
 /circle.yml
 /citrix/
 /Citrix/PNAgent/config.xml

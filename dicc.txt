@@ -336,6 +336,7 @@
 .revision
 .rhosts
 .robots.txt
+.rsync-filter
 .rsync_cache
 .rsync_cache/
 .rubocop.yml
@@ -2042,7 +2043,7 @@ checkapache.html
 checked_accounts.txt
 checkout
 chubb.xml
-cidr.txtа
+cidr.txt
 cimjobpostadmin
 circle.yml
 citrix/
