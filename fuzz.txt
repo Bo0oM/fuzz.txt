@@ -211,10 +211,12 @@
 /.loadpath
 /.LOCAL
 /.local
+/.localcache/
 /.localeapp/
 /.localsettings.php.swp
 /.lock-wscript
 /.log
+/.log.txt
 /.login
 /.login_conf
 /.LSOverride
@@ -842,6 +844,7 @@
 /cc-log.txt
 /ccbill.log
 /cell.xml
+/cert/
 /cfexec.cfm
 /cgi-bin/awstats.pl
 /cgi-bin/php.ini
@@ -1207,6 +1210,7 @@
 /examples/servlets/servlet/CookieExample
 /examples/servlets/servlet/RequestHeaderExample
 /export
+/export/
 /FAQ
 /FCKeditor
 /fckeditor
@@ -1466,6 +1470,7 @@
 /local.properties
 /local.xml.additional
 /local.xml.template
+/local/
 /local/composer.lock
 /local/composer.phar
 /local_bd_new.txt
@@ -1639,6 +1644,7 @@
 /orders.xls
 /orders_log
 /ospfd.conf
+/out/
 /output-build.txt
 /OWA/
 /p.php
@@ -1974,6 +1980,7 @@
 /soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 /soapserver/
 /source.php
+/source/
 /spamlog.log
 /spec/lib/database.yml
 /spec/lib/settings.local.yml
@@ -2144,6 +2151,7 @@
 /up.php
 /UPDATE.txt
 /updates
+/upfile.php
 /UPGRADE
 /upgrade.php
 /upgrade.readme
@@ -2169,6 +2177,7 @@
 /upload_file.php
 /uploader.php
 /uploader/
+/uploadfile.asp
 /uploadfile.php
 /uploadfiles.php
 /uploadify.php
@@ -2212,6 +2221,7 @@
 /vb.rar
 /vb.sql
 /vb.zip
+/version.txt
 /VERSION.txt
 /version/ 
 /view-source
@@ -2225,6 +2235,7 @@
 /WEB-INF./web.xml
 /WEB-INF/config.xml
 /WEB-INF/web.xml
+/web.7z
 /web.config
 /web.config.bak
 /web.config.bakup
@@ -2234,8 +2245,15 @@
 /web.config.txt
 /web.config::$DATA
 /web.Debug.config
+/web.rar
 /web.Release.confiп
+/web.sql
+/web.tar
+/web.tar.bz2
+/web.tar.gz
+/web.tgz
 /web.xml
+/web.zip
 /web/phpMyAdmin/
 /web/phpMyAdmin/scripts/setup.php
 /web/scripts/setup.php
@@ -2290,7 +2308,21 @@
 /wso2.5.1.php
 /wso2.php
 /wvdial.conf
+/www.rar
+/www.sql
+/www.tar
+/www.tar.gz
+/www.tgz
+/www.zip
 /wwwboard/passwd.txt
+/wwwroot.7z
+/wwwroot.rar
+/wwwroot.sql
+/wwwroot.tar
+/wwwroot.tar.bz2
+/wwwroot.tar.gz
+/wwwroot.tgz
+/wwwroot.zip
 /wwwstats.htm
 /x.php
 /xampp/phpmyadmin/
