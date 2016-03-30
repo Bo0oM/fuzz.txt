@@ -497,9 +497,44 @@
 2008
 2009
 2010
+2010.sql
+2010.tar
+2010.tar.gz
+2010.tgz
+2010.zip
 2011
+2011.sql
+2011.tar
+2011.tar.gz
+2011.tgz
+2011.zip
 2012
+2012.sql
+2012.tar
+2012.tar.gz
+2012.tgz
+2012.zip
 2013
+2013.sql
+2013.tar
+2013.tar.gz
+2013.tgz
+2013.zip
+2014.sql
+2014.tar
+2014.tar.gz
+2014.tgz
+2014.zip
+2015.sql
+2015.tar
+2015.tar.gz
+2015.tgz
+2015.zip
+2016.sql	
+2016.tar
+2016.tar.gz
+2016.tgz
+2016.zip
 21
 22
 2257.%EXT%
@@ -723,6 +758,7 @@ access-log/
 access.1
 access.log
 access/
+access_.log
 access_admin.%EXT%
 access_log
 access_log.1
@@ -865,11 +901,14 @@ admin-wjg
 admin.
 admin.%EXT%
 Admin.%EXT%
+admin.asp
+admin.aspx
 admin.cfm
 admin.cgi
 Admin.cgi
 admin.conf
 admin.dat
+admin.do
 admin.epc
 admin.ex
 admin.exe
@@ -887,6 +926,7 @@ admin.mvc
 admin.old
 admin.passwd
 admin.php
+admin.php3
 admin.pl
 Admin.pl
 admin.py
@@ -1050,6 +1090,7 @@ admin88
 admin888
 admin99
 admin_
+admin_/
 admin_04
 admin_05
 admin_0ec
@@ -1145,8 +1186,10 @@ admin_loader.%EXT%
 admin_login
 admin_login.%EXT%
 admin_login.html
+admin_login/
 admin_logon
 admin_logon.%EXT%
+admin_logon/
 admin_logout.%EXT%
 admin_logs.%EXT%
 admin_main
@@ -1360,6 +1403,7 @@ administracion.php
 administracion/
 administracja
 administrador
+administrador/
 administraotr
 administrar
 administrare
@@ -1369,6 +1413,7 @@ administrateur
 administrateur.%EXT%
 Administrateur.%EXT%
 administrateur.php
+administrateur/
 administratie
 administration
 administration.%EXT%
@@ -1386,6 +1431,7 @@ administrative/login_history
 administrativo
 Administrator
 administrator
+administrator-login/
 administrator.%EXT%
 Administrator.%EXT%
 administrator.htm
@@ -1595,6 +1641,7 @@ apc/apc.php
 apc/index.php
 aphtpasswd.html
 api
+api.log
 api/
 api/error_log
 apibuild.pyc
@@ -1726,6 +1773,7 @@ auth/logon
 auth/signin
 auth_user_file.txt
 authadmin
+authadmin/
 authenticatedy
 author
 authorization.config
@@ -1985,6 +2033,7 @@ certenroll/
 Certificate
 certificate
 certsrv/
+cfexec.cfm
 CFIDE
 CFIDE/Administrator/
 cfide/administrator/index.cfm
@@ -2093,7 +2142,10 @@ ClusterRollout
 cm-admin
 cmadmin
 cmd
+cmd-asp-5.1.asp
 cmdasp.asp
+cmdasp.aspx
+cmdjsp.jsp
 CMS
 cms
 cms-admin
@@ -2299,6 +2351,8 @@ cron.log
 cron.php
 cron.sh
 cron/cron.sh
+cron_import.log
+cron_sku.log
 crond/logs/
 cronlog.txt
 crossdomain.xml
@@ -2619,6 +2673,7 @@ error.xml
 error/
 error1.tpl
 error404.htm
+error_import
 error_log
 error_log.gz
 error_log.txt
@@ -2796,6 +2851,7 @@ forumdisplay
 forums
 forums/cache/db_update.lock
 fpadmin
+fpadmin/
 fr
 free
 freemail
@@ -3031,6 +3087,7 @@ img_admin
 import
 import.php
 import/
+import_error.log
 imprimer.%EXT%
 imprint.html
 in
@@ -3256,6 +3313,7 @@ jscripts/tinymce/
 json
 jsp
 jsp-examples/
+jsp-reverse.jsp
 jsp/extension/login.jsp
 jspbuild
 jssresource/
@@ -3446,6 +3504,7 @@ logs.sqlite
 logs.txt
 logs/
 LOGS/
+Logs/
 logs/access.log
 logs/access_log
 logs/error.log
@@ -3482,6 +3541,7 @@ Makefile
 mambots
 mambots/editors/fckeditor
 manage.py
+manage/
 manage/fckeditor
 manage_admin
 manage_main
@@ -3782,7 +3842,10 @@ opc/services/OrderTrackingIntfPort/wsdl/
 opc/services/PurchaseOrderIntfPort
 opc/services/PurchaseOrderIntfPort/wsdl/
 openadmin
+operador/
+operator/
 opinion
+ops/
 opt
 oracle
 orasso
@@ -3898,6 +3961,8 @@ peienadmin
 people
 peradmin
 perl
+perl-reverse-shell.pl
+perlcmd.cgi
 personal
 personal.mdb
 personal.sqlite
@@ -3920,11 +3985,14 @@ php-cli.ini
 php-cs-fixer.phar
 php-error
 php-errors.log
+php-findsock-shell.php
 php-info.php
 php-my-admin
 php-my-admin/
 php-myadmin
 php-myadmin/
+php-reverse-shell.php
+php-tiny-shell.php
 php.core
 php.ini
 php.ini-orig.txt
@@ -4126,6 +4194,7 @@ popup.html
 popup_songs.%EXT%
 PORTAL
 portal
+portal/
 PORTAL2
 portal2
 PORTAL30
@@ -4201,6 +4270,7 @@ qa/
 qdadmin
 qmail
 qmailadmin
+qsd-php-backdoor.php
 query.log
 quickadmin
 quikstore.cfg
@@ -4464,6 +4534,7 @@ shared
 sharedadmin
 shell
 shell.php
+shell.sh
 shell/
 shellz.php
 shop
@@ -4532,6 +4603,7 @@ site_admin
 site_map
 siteadmin
 Siteadmin
+siteadmin/
 siteadmin/index.%EXT%
 siteadmin/login.%EXT%
 siteadmin/login.html
@@ -4636,6 +4708,7 @@ sspadmin
 sswadmin
 stadmin
 staff
+staff/
 staffadmin
 start
 start.%EXT%
@@ -4763,6 +4836,7 @@ tar.bz2
 tar.gz
 Taxonomy_admin
 tbadmin
+tconn.conf
 te_admin
 tech
 technico.txt
@@ -5062,6 +5136,8 @@ users/
 users/login
 users/login.%EXT%
 usr-bin/
+usuario/
+usuarios/
 utf8
 utilitiesadmin.%EXT%
 utils
@@ -5090,6 +5166,7 @@ VERSIONS.md
 VERSIONS.txt
 view-source
 view.php
+vpn/
 vtund.conf
 WarehouseEJB/
 WarehouseEJB/services/WarehouseFront
@@ -5173,6 +5250,8 @@ WP
 wp-admin
 wp-admin/
 wp-admin/c99.php
+wp-admin/install.php
+wp-admin/setup-config.php
 wp-app.log
 wp-config.%EXT%
 wp-config.inc
@@ -5241,6 +5320,8 @@ xsl/_common.xsl
 xsl/common.xsl
 xsql/lib/XSQLConfig.xml
 XSQLConfig.xml
+yaml.log
+yaml_cron.log
 yum.log
 zabbix/
 zebra.conf
@@ -5248,3 +5329,4 @@ zehir.php
 zeroclipboard.swf
 zf_backend.php
 zone-h.php
+~admin/
