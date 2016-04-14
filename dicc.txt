@@ -11,7 +11,7 @@
 .adm
 .admin
 .adminer.php.swp
-.administration
+.Administration
 .apdisk
 .AppleDB
 .AppleDesktop
@@ -1356,6 +1356,7 @@ adminer-4.2.0.php
 adminer.php
 adminer/
 adminer/adminer.php
+adminer_coverage.ser
 AdminEvents
 adminexec.%EXT%
 adminfeedback
@@ -4479,6 +4480,7 @@ servers.xml
 service
 service.asmx
 services
+services/config/databases.yml
 servlet
 servlet/
 servlet/aphtpassword

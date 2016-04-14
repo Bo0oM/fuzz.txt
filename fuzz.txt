@@ -430,7 +430,7 @@
 /2015.tar.gz
 /2015.tgz
 /2015.zip
-/2016.sql	
+/2016.sql
 /2016.tar
 /2016.tar.gz
 /2016.tgz
@@ -626,6 +626,7 @@
 /adminer.php
 /adminer/
 /adminer/adminer.php
+/adminer_coverage.ser
 /administracao.php
 /administracion.php
 /administracion/
@@ -1272,6 +1273,7 @@
 /fpadmin/
 /ftp.txt
 /function.require
+/functions/
 /gaza.php
 /gbpass.pl
 /Gemfile
@@ -1935,6 +1937,7 @@
 /servers.xml
 /service.asmx
 /services
+/services/config/databases.yml
 /servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 /servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 /servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
@@ -2065,6 +2068,7 @@
 /templates/beez/index.php
 /templates/ja-helio-farsi/index.php
 /templates/rhuk_milkyway/index.php
+/templates_c/
 /test
 /test.asp
 /test.aspx
