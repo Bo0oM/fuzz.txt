@@ -1855,6 +1855,7 @@
 /profiles.xml
 /project.xml
 /propel.ini
+/proxy.pac
 /prv/
 /publication_list.xml
 /putty.reg

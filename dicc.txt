@@ -532,7 +532,7 @@
 2015.tar.gz
 2015.tgz
 2015.zip
-2016.sql	
+2016.sql
 2016.tar
 2016.tar.gz
 2016.tgz
@@ -2869,6 +2869,7 @@ funcion/
 funciones.%EXT%
 function.require
 functions
+functions/
 fzadmin
 g
 gadmin
@@ -4254,6 +4255,7 @@ propel.ini
 properties
 protected_access/
 proxy
+proxy.pac
 prv
 prv/
 ps_admin.cgi
@@ -4911,6 +4913,7 @@ templates/ja-helio-farsi/index.php
 templates/rhuk_milkyway/index.php
 templates_admin
 templates_c
+templates_c/
 templets
 terms
 test
