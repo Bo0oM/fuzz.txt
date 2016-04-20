@@ -5310,6 +5310,7 @@ wp-rss2
 wp.php
 wp.rar/
 wp.zip
+wpad.dat
 ws.php
 WS_FTP
 ws_ftp.ini

@@ -1426,6 +1426,7 @@
 /joomla.zip
 /js/elfinder/elfinder.php
 /js/FCKeditor
+/js/routing
 /js/swfupload/swfupload.swf
 /js/swfupload/swfupload_f9.swf
 /js/tiny_mce/
@@ -2304,6 +2305,7 @@
 /wp.php
 /wp.rar/
 /wp.zip
+/wpad.dat
 /ws.php
 /ws_ftp.ini
 /WS_FTP.LOG
