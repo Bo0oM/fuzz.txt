@@ -724,6 +724,11 @@
 /application/logs/
 /apps/frontend/config/app.yml
 /apps/frontend/config/databases.yml
+/archive.rar
+/archive.sql
+/archive.tar
+/archive.tar.gz
+/archive.zip
 /asp.aspx
 /aspnet_webadmin
 /aspwpadmin
