@@ -856,8 +856,8 @@ adm.rb
 Adm.rb
 adm.shtml
 Adm.shtml
-Adm/
 adm/
+Adm/
 adm/admloginuser.%EXT%
 adm/fckeditor
 adm/index.%EXT%
@@ -921,8 +921,8 @@ admin.html
 Admin.html
 admin.inc.%EXT%
 admin.js
-Admin.jsp
 admin.jsp
+Admin.jsp
 admin.mdb
 admin.mvc
 admin.old
@@ -3303,6 +3303,7 @@ joomla/administrator
 js
 js/elfinder/elfinder.php
 js/FCKeditor
+js/routing
 js/swfupload/swfupload.swf
 js/swfupload/swfupload_f9.swf
 js/tiny_mce
@@ -3509,9 +3510,9 @@ logs.mdb
 logs.pl
 logs.sqlite
 logs.txt
+Logs/
 logs/
 LOGS/
-Logs/
 logs/access.log
 logs/access_log
 logs/error.log
@@ -5173,9 +5174,9 @@ vb.sql
 vb.zip
 Version.%EXT%
 VERSION.md
-VERSION.txt
 version.txt
-version/ 
+VERSION.txt
+version/
 VERSIONS.html
 VERSIONS.md
 VERSIONS.txt

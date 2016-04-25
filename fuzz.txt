@@ -724,6 +724,11 @@
 /application/logs/
 /apps/frontend/config/app.yml
 /apps/frontend/config/databases.yml
+/archive.rar
+/archive.sql
+/archive.tar
+/archive.tar.gz
+/archive.zip
 /asp.aspx
 /aspnet_webadmin
 /aspwpadmin
@@ -2229,13 +2234,13 @@
 /vb.zip
 /version.txt
 /VERSION.txt
-/version/ 
+/version/
 /view-source
 /view.php
 /vpn/
 /vtund.conf
 /wcx_ftp.ini
-/web-console/
+/web-console/	
 /web-console/Invoker
 /web-console/ServerInfo.jsp
 /WEB-INF./web.xml
