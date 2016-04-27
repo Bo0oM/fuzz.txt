@@ -787,6 +787,7 @@
 /backups/
 /base/
 /bb-admin/
+/behat.yml
 /bigdump.php
 /billing
 /billing/killer.php
@@ -1122,6 +1123,8 @@
 /dfshealth.jsp
 /dir.php
 /dist/
+/docker-compose-dev.yml
+/docker-compose.yml
 /Dockerfile
 /doctrine/schema/eirec.yml
 /doctrine/schema/tmx.yml
@@ -1462,6 +1465,7 @@
 /libraries/phpmailer/
 /libraries/tiny_mce/
 /libraries/tinymce/
+/license.php
 /LICENSE.txt
 /license.txt
 /lighttpd.access.log
@@ -1818,6 +1822,7 @@
 /phpRedisAdmin/
 /phpredmin/
 /phpsecinfo/
+/phpspec.yml
 /phpsysinfo/
 /phpThumb.php
 /phpThumb/
@@ -1888,6 +1893,7 @@
 /README.htm
 /readme.html
 /README.md
+/readme.php
 /README.txt
 /Readme.txt
 /readme.txt
