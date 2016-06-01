@@ -3587,6 +3587,7 @@ masteradmin.%EXT%
 max-admin
 maxiadmin
 mazentop-admin
+mbox
 mcadmin
 media
 media/export-criteo.xml

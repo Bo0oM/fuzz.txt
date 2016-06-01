@@ -297,6 +297,7 @@
 /.rvmrc
 /.s3backupstatus
 /.sass-cache/
+/.scrutinizer.yml
 /.selected_editor
 /.settings
 /.settings.php.swp
@@ -823,6 +824,7 @@
 /blog/wp-content/backups/
 /bot.txt
 /bower.json
+/box.json
 /Brocfile.coffee
 /Brocfile.js
 /browser/
@@ -865,6 +867,7 @@
 /Changelog.txt
 /changelog.txt
 /CHANGES.html
+/CHANGES.md
 /changes.txt
 /check.php
 /checked_accounts.txt
@@ -889,6 +892,7 @@
 /clients.sql
 /clients.sqlite
 /clients.zip
+/CMakeLists.txt
 /cmd-asp-5.1.asp
 /cmdasp.asp
 /cmdasp.aspx
@@ -993,6 +997,7 @@
 /console/base/config.json
 /console/payments/config.json
 /content/debug.log
+/CONTRIBUTING.md
 /contributing.md
 /contributors.txt
 /controlpanel.php
@@ -1556,6 +1561,7 @@
 /manifest.mf
 /master.passwd
 /master/portquotes_new/admin.log
+/mbox
 /media/export-criteo.xml
 /member
 /memberlist
@@ -1904,6 +1910,7 @@
 /reseller
 /resources.xml
 /resources/fckeditor
+/rest/
 /restore.php
 /restricted
 /revision.inc
