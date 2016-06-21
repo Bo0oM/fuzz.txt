@@ -1,9 +1,11 @@
 !.gitignore
 !.htaccess
 !.htpasswd
+%20../
 %2e%2e//bo0om.ru
 %3f/
 %EXT%
+.nuget/packages.config
 %ff/
 .7z
 .access

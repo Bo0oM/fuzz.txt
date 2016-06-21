@@ -1,9 +1,11 @@
 /!.gitignore
 /!.htaccess
 /!.htpasswd
+/%20../
 /%2e%2e//bo0om.ru
 /%3f/
 /%ff/
+/..;/
 /.7z
 /.access
 /.addressbook
@@ -103,7 +105,7 @@
 /.git
 /.git-rewrite/
 /.git/
-/.git/config
+/.git/configf
 /.git/HEAD
 /.git/index
 /.git/logs/
@@ -249,6 +251,7 @@
 /.nodelete
 /.npmignore
 /.nsconfig
+/.nuget/packages.config
 /.old
 /.oldsnippets
 /.oldstatic
@@ -1538,11 +1541,13 @@
 /logs/access_log
 /logs/error.log
 /logs/error_log
+/logs/mail.log
 /logs_console/
 /lol.php
 /madspot.php
 /madspotshell.php
 /magmi/conf/magmi.ini
+/mail.log
 /main.mdb
 /MAINTAINERS.txt
 /maintenance.flag
