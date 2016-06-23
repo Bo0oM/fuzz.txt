@@ -461,6 +461,7 @@
 /_data/error_log
 /_errors
 /_files
+/_h5ai/
 /_include
 /_index.php
 /_install

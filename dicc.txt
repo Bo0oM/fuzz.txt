@@ -5,7 +5,6 @@
 %2e%2e//bo0om.ru
 %3f/
 %EXT%
-.nuget/packages.config
 %ff/
 .7z
 .access
@@ -294,6 +293,7 @@
 .nodelete
 .npmignore
 .nsconfig
+.nuget/packages.config
 .old
 .oldsnippets
 .oldstatic
@@ -645,6 +645,7 @@ _funcion/
 _funciones/
 _function/
 _functions/
+_h5ai/
 _inc/
 _include
 _include/
