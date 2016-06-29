@@ -16,6 +16,7 @@
 /.AppleDB
 /.AppleDesktop
 /.AppleDouble
+/.babelrc
 /.bak
 /.bash_history
 /.bash_logout
@@ -70,6 +71,7 @@
 /.deployignore
 /.dev/
 /.directory
+/.drone.yml
 /.DS_Store
 /.dump
 /.eclipse
@@ -85,6 +87,8 @@
 /.env.sample.php
 /.environment
 /.error_log
+/.eslintignore
+/.eslintrc
 /.espressostorage
 /.external/data
 /.externalToolBuilders/
@@ -203,6 +207,7 @@
 /.jshintignore
 /.jshintrc
 /.keep
+/.kitchen.yml
 /.komodotools
 /.komodotools/
 /.ksh_history
@@ -793,6 +798,7 @@
 /base/
 /bb-admin/
 /behat.yml
+/Berksfile
 /bigdump.php
 /billing
 /billing/killer.php
@@ -866,6 +872,7 @@
 /change.log
 /changeall.php
 /CHANGELOG
+/CHANGELOG.md
 /CHANGELOG.txt
 /ChangeLog.txt
 /Changelog.txt
@@ -875,6 +882,8 @@
 /changes.txt
 /check.php
 /checked_accounts.txt
+/Cheffile
+/chefignore
 /chubb.xml
 /cidr.txt
 /circle.yml
@@ -1317,6 +1326,7 @@
 /grabbed.html
 /Gruntfile.coffee
 /Gruntfile.js
+/Guardfile
 /gulpfile.coffee
 /gulpfile.js
 /HISTORY
@@ -1474,6 +1484,7 @@
 /libraries/phpmailer/
 /libraries/tiny_mce/
 /libraries/tinymce/
+/LICENSE
 /license.php
 /LICENSE.txt
 /license.txt
@@ -1583,6 +1594,7 @@
 /membersonly
 /mercurial.ini
 /META-INF/context.xml
+/metadata.rb
 /mimosa-config.coffee
 /mimosa-config.js
 /moadmin.php
@@ -2125,6 +2137,7 @@
 /tests
 /tests/
 /tests/phpunit_report.xml
+/Thorfile
 /Thumbs.db
 /thumbs.db
 /tiny_mce/
@@ -2242,6 +2255,7 @@
 /usuario/
 /usuarios/
 /vagrant-spec.config.rb
+/Vagrantfile
 /validator.php
 /var/backups/
 /var/cache/
@@ -2297,6 +2311,7 @@
 /webdb/
 /webgrind
 /webmail/
+/webmail/src/configtest.php
 /webmin/
 /website.git
 /websql/

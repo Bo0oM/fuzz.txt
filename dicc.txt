@@ -17,6 +17,7 @@
 .AppleDB
 .AppleDesktop
 .AppleDouble
+.babelrc
 .bak
 .bash_history
 .bash_history.php
@@ -75,6 +76,7 @@
 .dev/
 .directory
 .domain
+.drone.yml
 .DS_Store
 .dump
 .eclipse
@@ -90,6 +92,8 @@
 .env.sample.php
 .environment
 .error_log
+.eslintignore
+.eslintrc
 .espressostorage
 .event
 .external/data
@@ -243,6 +247,7 @@
 .jshintignore
 .jshintrc
 .keep
+.kitchen.yml
 .komodotools
 .komodotools/
 .ksh_history
@@ -1894,6 +1899,7 @@ beanManaged
 BeenThere
 beheer/
 bel_admin
+Berksfile
 bestellvorgang.%EXT%
 beta
 bgadmin
@@ -2086,8 +2092,8 @@ ChangeLog
 changelog.html
 CHANGELOG.LOG
 CHANGELOG.log
-changelog.md
 CHANGELOG.md
+changelog.md
 CHANGELOG.txt
 ChangeLog.txt
 Changelog.txt
@@ -2103,6 +2109,8 @@ check.php
 checkapache.html
 checked_accounts.txt
 checkout
+Cheffile
+chefignore
 chubb.xml
 cidr.txt
 cimjobpostadmin
@@ -2947,6 +2955,7 @@ Gruntfile.js
 gs/admin
 gs/plugins/editors/fckeditor
 gsadmin
+Guardfile
 guide
 guides
 gulpfile.coffee
@@ -3387,6 +3396,7 @@ libraries/tinymce/
 library
 Library
 libs
+LICENSE
 LICENSE.txt
 license.txt
 License.txt
@@ -3655,6 +3665,7 @@ messages
 META-INF
 META-INF/context.xml
 metaadmin
+metadata.rb
 mfr_admin
 mh_admin
 mhadmin
@@ -4971,6 +4982,7 @@ ThankYou.%EXT%
 theme
 themes
 thirdparty/fckeditor
+Thorfile
 thread
 threads
 thumb
@@ -5170,6 +5182,7 @@ v1
 vadmin
 vadmin.%EXT%
 vagrant-spec.config.rb
+Vagrantfile
 validator.php
 var
 var/backups/
@@ -5245,6 +5258,7 @@ webdav/servlet/webdav/
 webdb/
 webgrind
 webmail/
+webmail/src/configtest.php
 webmin/
 WebResource.axd?d=LER8t9aS
 WebService
