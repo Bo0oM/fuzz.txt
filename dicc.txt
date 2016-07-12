@@ -977,6 +977,7 @@ admin/adminLogin.%EXT%
 admin/adminLogin.html
 admin/backup/
 admin/backups/
+admin/config.php
 admin/controlpanel.%EXT%
 admin/controlpanel.html
 admin/cp.%EXT%
@@ -3259,6 +3260,7 @@ installation.md
 installation.php
 installation/
 installer
+installer.php
 install~/
 interadmin
 internal
@@ -4970,6 +4972,7 @@ test_ip.php
 testadmin
 testimonials
 testing
+testproxy.php
 tests
 tests/
 tests/phpunit_report.xml
@@ -5110,6 +5113,7 @@ upload/
 upload/1.php
 upload/b_user.csv
 upload/b_user.xls
+upload/loginIxje.php
 upload/test.php
 upload/test.txt
 upload/upload.php
