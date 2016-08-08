@@ -1439,6 +1439,7 @@
 /INSTALL_admin
 /installation.php
 /installer
+/installer-log.txt
 /installer.php
 /install~/
 /invoker/JMXInvokerServlet
@@ -2056,6 +2057,7 @@
 /status.xsl
 /status/
 /statusicon/
+/storage/logs/laravel.log
 /stronghold-info
 /stronghold-status
 /sugarcrm.log
