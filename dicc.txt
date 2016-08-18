@@ -113,6 +113,7 @@
 .ftpquota
 .gbent
 .gem
+.gfclient/pass
 .git
 .git-rewrite/
 .git/
