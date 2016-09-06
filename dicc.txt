@@ -679,6 +679,7 @@ _logs/err.log
 _logs/error-log
 _logs/error.log
 _logs/error_log
+_LPHPMYADMIN/
 _mem_bin/
 _mem_bin/autoconfig.%EXT%
 _mem_bin/formslogin.%EXT%
@@ -1279,6 +1280,7 @@ admin_test
 admin_test.%EXT%
 admin_tool
 admin_tools
+admin_tools/
 admin_top.%EXT%
 admin_tpl
 admin_udown.%EXT%
@@ -2937,6 +2939,7 @@ google
 grabbed.html
 graffiti-admin
 graphics
+grappelli/
 Greenhouse
 Greenhouse/
 GreenhouseByWebSphere/docs/

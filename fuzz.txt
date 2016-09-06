@@ -491,6 +491,7 @@
 /_logs/error-log
 /_logs/error.log
 /_logs/error_log
+/_LPHPMYADMIN/
 /_mmServerScripts/MMHTTPDB.asp
 /_mmServerScripts/MMHTTPDB.php
 /_notes/dwsync.xml
@@ -624,6 +625,7 @@
 /admin_login/
 /admin_logon
 /admin_logon/
+/admin_tools/
 /adminconsole
 /admincontrol.php
 /admincp/
@@ -1326,6 +1328,7 @@
 /globals
 /globals.inc
 /grabbed.html
+/grappelli/
 /Gruntfile.coffee
 /Gruntfile.js
 /Guardfile
