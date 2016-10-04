@@ -3,9 +3,11 @@
 !.htpasswd
 %20../
 %2e%2e//bo0om.ru
+%2e%2e//bo0om.ru/?302
 %3f/
 %EXT%
 %ff/
+..;/
 .7z
 .access
 .addressbook
@@ -68,8 +70,8 @@
 .cshrc
 .CSV
 .csv
-.cvs
 .CVS
+.cvs
 .cvsignore
 .dat
 .deployignore
@@ -120,6 +122,7 @@
 .git/branches/
 .git/COMMIT_EDITMSG
 .git/config
+.git/configf
 .git/description
 .git/FETCH_HEAD
 .git/HEAD
@@ -356,6 +359,7 @@
 .rvmrc
 .s3backupstatus
 .sass-cache/
+.scrutinizer.yml
 .selected_editor
 .server-info/
 .server-status/
@@ -457,6 +461,9 @@
 .zfs/
 .zip
 .zsh_history
+/uploads/dump.sql
+/wp-content/debug.log
+/wp-content/uploads/dump.sql
 0
 0.htpasswd
 0.php
@@ -474,6 +481,7 @@
 1.htaccess
 1.htpasswd
 1.php
+1.sql
 1.tar.gz
 1.txt
 1.zip
@@ -494,6 +502,7 @@
 1c/
 2
 2.php
+2.sql
 2.txt
 20
 2000
@@ -1901,6 +1910,7 @@ bea_wls_internal/WebServiceServlet
 bea_wls_internal/WLDummyInitJVMIDs
 beanManaged
 BeenThere
+behat.yml
 beheer/
 bel_admin
 Berksfile
@@ -1975,6 +1985,7 @@ Bootstrap
 borat
 bot.txt
 bower.json
+box.json
 bpadmin
 Brocfile.coffee
 Brocfile.js
@@ -2105,6 +2116,7 @@ changelog.txt
 CHANGELOG.TXT
 CHANGES
 CHANGES.html
+CHANGES.md
 changes.txt
 CHANGES.txt
 chat
@@ -2165,6 +2177,7 @@ club_admin.%EXT%
 ClusterRollout
 cm-admin
 cmadmin
+CMakeLists.txt
 cmd
 cmd-asp-5.1.asp
 cmdasp.asp
@@ -2325,6 +2338,7 @@ content/debug.log
 content_admin
 contentadmin
 contents
+CONTRIBUTING.md
 contributing.md
 contributor
 contributors.txt
@@ -2359,8 +2373,8 @@ cp.php
 cp/
 cpadmin
 cpanel
-cpanel.php
 Cpanel.php
+cpanel.php
 cpanel/
 cpbackup-exclude.conf
 cpbt.php
@@ -2546,6 +2560,8 @@ doc
 doc/
 doc/en/changes.html
 doc/stable.version
+docker-compose-dev.yml
+docker-compose.yml
 Dockerfile
 docs
 docs/
@@ -2679,6 +2695,7 @@ environment.rb
 epsadmin
 err
 err.log
+err.txt
 error
 error-log
 error-log.txt
@@ -3238,19 +3255,19 @@ INSTALL.md
 install.md
 INSTALL.mysql
 install.mysql
-install.mysql.txt
 INSTALL.mysql.txt
+install.mysql.txt
 INSTALL.pgsql
 install.pgsql
-install.pgsql.txt
 INSTALL.pgsql.txt
+install.pgsql.txt
 install.php
 install.rdf
 install.sql
 install.tpl
-install.txt
 INSTALL.txt
 Install.txt
+install.txt
 INSTALL.TXT
 install/
 install/update.log
@@ -3404,6 +3421,7 @@ library
 Library
 libs
 LICENSE
+license.php
 LICENSE.txt
 license.txt
 License.txt
@@ -3542,6 +3560,7 @@ logs/access.log
 logs/access_log
 logs/error.log
 logs/error_log
+logs/mail.log
 logs_console/
 lol.php
 lostpassword
@@ -3554,6 +3573,7 @@ magazine
 magmi/conf/magmi.ini
 mail
 mail.html
+mail.log
 Mail/smtp/Admin/smadv.%EXT%
 mailadmin
 mailform.%EXT%
@@ -3911,6 +3931,7 @@ oscommerce
 ospfd.conf
 other
 out.cgi
+out.txt
 out/
 output-build.txt
 overview
@@ -3958,8 +3979,8 @@ passWD.txt
 Passwd.txt
 passwd/
 Passwd_Files/
-password
 Password
+password
 password.%EXT%
 password.html
 password.log
@@ -4020,7 +4041,10 @@ php-cgi.core
 php-cli.ini
 php-cs-fixer.phar
 php-error
+php-error.log
+php-error.txt
 php-errors.log
+php-errors.txt
 php-findsock-shell.php
 php-info.php
 php-my-admin
@@ -4157,6 +4181,7 @@ phppgadmin/
 phpRedisAdmin/
 phpredmin/
 phpsecinfo/
+phpspec.yml
 phpsysinfo/
 phpThumb.php
 phpThumb/
@@ -4202,8 +4227,8 @@ plugins/web.config
 plupload
 plus
 pma
-pma/
 PMA/
+pma/
 pma/index.php
 pma/scripts/setup.php
 PMA2005/
@@ -4339,6 +4364,7 @@ readme.html
 README.html
 README.md
 readme.md
+readme.php
 README.txt
 Readme.txt
 readme.txt
@@ -4379,6 +4405,7 @@ reset.html
 resources
 resources.xml
 resources/fckeditor
+rest/
 restore.php
 restricted
 restricted_access/
@@ -4833,8 +4860,8 @@ swfobject.js
 swfupload
 sxd/
 sxd/backup/
-sYm.php
 Sym.php
+sYm.php
 sym/root/home/
 symfony/apps/frontend/config/routing.yml
 symfony/apps/frontend/config/settings.yml
@@ -5206,8 +5233,8 @@ vb.sql
 vb.zip
 Version.%EXT%
 VERSION.md
-version.txt
 VERSION.txt
+version.txt
 version/
 VERSIONS.html
 VERSIONS.md
