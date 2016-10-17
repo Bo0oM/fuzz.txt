@@ -2097,6 +2097,7 @@ cgi-win/
 cgi.pl/
 cgi/
 cgi/account/
+cgi/common.cgi
 cgibin/
 cgis/
 Cgishell.pl
@@ -2207,6 +2208,7 @@ com
 com.ibm.ws.console.events
 com.ibm.ws.console.events/runtime_messages.jsp
 comadmin
+command.php
 comment
 comment-admin.%EXT%
 comments
@@ -2743,6 +2745,7 @@ etc
 etc/config.ini
 etc/database.xml
 etc/hosts
+etc/lib/pChart2/examples/imageMap/index.php
 etc/passwd
 eticket
 eudora.ini
@@ -3022,6 +3025,7 @@ history.txt
 HitCount
 hitcount
 HitCount.jsp
+HNAP1/
 Home
 home
 home.html
@@ -3331,6 +3335,7 @@ jmstrader
 jmx-console
 jmx-console/
 jmx-console/HtmlAdaptor
+jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
 jobadmin
 jobs
@@ -3769,6 +3774,7 @@ myadmin%EXT%
 MyAdmin/
 myadmin/
 myadmin/index.php
+MyAdmin/scripts/setup.php
 myadmin/scripts/setup.php
 myadminbreeze
 myadminscripts/setup.php
@@ -4162,8 +4168,8 @@ phpmyadmin-old
 phpMyAdmin.%EXT%
 phpMyAdmin/
 phpmyadmin/
-phpMyAdmin/scripts/setup.php
 phpmyadmin/scripts/setup.php
+phpMyAdmin/scripts/setup.php
 phpMyAdmin0/
 phpmyadmin0/
 phpMyAdmin1/

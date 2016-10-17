@@ -877,6 +877,7 @@ cfexec.cfm
 cgi-bin/awstats.pl
 cgi-bin/php.ini
 cgi.pl/
+cgi/common.cgi
 Cgishell.pl
 change.log
 changeall.php
@@ -925,6 +926,7 @@ cms/
 cms/cms.csproj
 cms/Web.config
 codeception.yml
+command.php
 common.inc
 common.xml
 common/config/api.ini
@@ -1238,6 +1240,7 @@ errors/local.xml
 etc/config.ini
 etc/database.xml
 etc/hosts
+etc/lib/pChart2/examples/imageMap/index.php
 etc/passwd
 eudora.ini
 eula.txt
@@ -1341,6 +1344,7 @@ Guardfile
 gulpfile.coffee
 gulpfile.js
 HISTORY
+HNAP1/
 home.rar
 home.tar
 home.tar.gz
@@ -1460,6 +1464,7 @@ jdbc
 jira/
 jmx-console
 jmx-console/
+jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
 joomla.rar
 joomla.xml
@@ -1628,6 +1633,7 @@ myadm/
 MyAdmin/
 myadmin/
 myadmin/index.php
+MyAdmin/scripts/setup.php
 myadmin/scripts/setup.php
 myadminscripts/setup.php
 mysql-admin/
@@ -1846,8 +1852,8 @@ phpMyAdmin-3/
 phpMyAdmin-4/
 phpMyAdmin/
 phpmyadmin/
-phpMyAdmin/scripts/setup.php
 phpmyadmin/scripts/setup.php
+phpMyAdmin/scripts/setup.php
 phpMyAdmin0/
 phpmyadmin0/
 phpMyAdmin1/
