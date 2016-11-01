@@ -4,6 +4,7 @@
 %20../
 %2e%2e//bo0om.ru
 %2e%2e//bo0om.ru/?302
+%2e%2e//hi.bo0om.ru/?302
 %3f/
 %EXT%
 %ff/
@@ -461,6 +462,8 @@
 .zfs/
 .zip
 .zsh_history
+/logs_backup/
+/pentaho/
 /uploads/dump.sql
 /wp-content/debug.log
 /wp-content/uploads/dump.sql
@@ -1647,6 +1650,7 @@ AlbumCatalogWebservlet
 AlbumCatalogWebservlet/
 albums
 all
+all/modules/ogdi_field/plugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 alm_admin
 amad.php
 amministratore.php
@@ -2049,6 +2053,7 @@ catalogsearch
 categories
 category
 cb-admin
+cbx-portal/js/zeroclipboard/ZeroClipboard.swf
 cc
 cc-errors.txt
 cc-log.txt
@@ -2780,6 +2785,7 @@ expadmin
 export
 export/
 expressInstall.swf
+extjs/resources//charts.swf
 extra_admin
 ezadmin
 f
@@ -2852,6 +2858,7 @@ FileHandler.%EXT%
 FileHandler/
 filemanager
 filemanager/
+filemanager/views/js/ZeroClipboard.swf
 fileRealm
 fileRealm.properties
 files
@@ -2868,6 +2875,7 @@ FirmConnect.%EXT%
 fkadmin
 flags
 flash
+flash/ZeroClipboard.swf
 flashFXP.ini
 folder
 fonts
@@ -3357,6 +3365,8 @@ js/tiny_mce/
 js/tinymce
 js/tinymce/
 js/yui/uploader/assets/uploader.swf
+js/ZeroClipboard.swf
+js/ZeroClipboard10.swf
 jscripts
 jscripts/tiny_mce
 jscripts/tiny_mce/
@@ -4009,6 +4019,7 @@ passWords.txt
 Passwords.txt
 passwords/
 Passwords/
+path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 patient/login.do
 patient/register.do
 payment.%EXT%
@@ -4205,6 +4216,7 @@ pinfo.php
 ping
 pip-log.txt
 pipermail
+piwigo/extensions/UserCollections/template/ZeroClipboard.swf
 piwik
 piwik/
 pix
@@ -4470,6 +4482,7 @@ schema.yml
 science
 screenshots
 script
+script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 scripts
 Scripts
 scripts/
@@ -5023,6 +5036,7 @@ thanks.%EXT%
 ThankYou.%EXT%
 theme
 themes
+themes/default/htdocs/flash/ZeroClipboard.swf
 thirdparty/fckeditor
 Thorfile
 thread

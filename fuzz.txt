@@ -2,7 +2,7 @@
 !.htaccess
 !.htpasswd
 %20../
-%2e%2e//bo0om.ru/?302
+%2e%2e//hi.bo0om.ru/?302
 %3f/
 %ff/
 ..;/
@@ -11,7 +11,6 @@
 .addressbook
 .adm
 .admin
-.adminer.php.swp
 .apdisk
 .AppleDB
 .AppleDesktop
@@ -397,6 +396,8 @@
 .zfs/
 .zip
 .zsh_history
+/logs_backup/
+/pentaho/
 /uploads/dump.sql
 /wp-content/debug.log
 /wp-content/uploads/dump.sql
@@ -677,6 +678,7 @@ admrev/.ftppass
 admrev/_files/
 affiliates.sql
 akeeba.backend.log
+all/modules/ogdi_field/plugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 amad.php
 amministratore.php
 analog.html
@@ -868,6 +870,7 @@ cachemgr.cgi
 Cakefile
 Capfile
 catalog.wci
+cbx-portal/js/zeroclipboard/ZeroClipboard.swf
 cc-errors.txt
 cc-log.txt
 ccbill.log
@@ -1251,6 +1254,7 @@ examples/servlets/servlet/CookieExample
 examples/servlets/servlet/RequestHeaderExample
 export
 export/
+extjs/resources//charts.swf
 FAQ
 FCKeditor
 fckeditor
@@ -1295,11 +1299,13 @@ fileadmin/
 filedump/
 filemanager
 filemanager/
+filemanager/views/js/ZeroClipboard.swf
 files.md5
 files.php
 files/
 fileupload/
 filezilla.xml
+flash/ZeroClipboard.swf
 flashFXP.ini
 forum.rar
 forum.sql
@@ -1477,6 +1483,8 @@ js/swfupload/swfupload_f9.swf
 js/tiny_mce/
 js/tinymce/
 js/yui/uploader/assets/uploader.swf
+js/ZeroClipboard.swf
+js/ZeroClipboard10.swf
 jscripts/tiny_mce/
 jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php
 jscripts/tinymce/
@@ -1731,6 +1739,7 @@ passwords.html
 passwords.mdb
 passwords.sqlite
 passwords.txt
+path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 pbmadmin/
 perl-reverse-shell.pl
 perlcmd.cgi
@@ -1880,6 +1889,7 @@ pi.php
 pi.php5
 pinfo.php
 pip-log.txt
+piwigo/extensions/UserCollections/template/ZeroClipboard.swf
 player.swf
 plugins.log
 plugins/editors/fckeditor
@@ -1971,6 +1981,7 @@ sample.txt
 sample.txt~
 schema.sql
 schema.yml
+script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 scripts/ckeditor/ckfinder/core/connector/asp/connector.asp
 scripts/ckeditor/ckfinder/core/connector/aspx/connector.aspx
 scripts/ckeditor/ckfinder/core/connector/php/connector.php
@@ -2161,6 +2172,7 @@ testproxy.php
 tests
 tests/
 tests/phpunit_report.xml
+themes/default/htdocs/flash/ZeroClipboard.swf
 Thorfile
 Thumbs.db
 thumbs.db
