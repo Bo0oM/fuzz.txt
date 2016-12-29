@@ -2,6 +2,7 @@
 !.htaccess
 !.htpasswd
 %20../
+%2e%2e//google.com
 %2e%2e//hi.bo0om.ru/?302
 %3f/
 %EXT%
@@ -467,6 +468,7 @@
 /log/error.log
 /log/www-error.log
 /logs/error.log
+/logs/liferay.log
 /logs/www-error.log
 /logs_backup/
 /pentaho/
@@ -771,6 +773,8 @@ _vti_txt
 _vti_txt/
 _WEB_INF/
 _webalizer/
+_wpeprivate
+_wpeprivate/config.json
 _www
 a
 a%5c.%EXT%
@@ -857,6 +861,7 @@ actions_admin
 actions_admin.%EXT%
 activation.%EXT%
 ActiveDirectoryRemoteAdminScripts/
+activity.log
 activitysessions/docs/
 ad
 ad_admin.%EXT%
@@ -957,6 +962,7 @@ admin.cfm
 admin.cgi
 Admin.cgi
 admin.conf
+admin.conf.default
 admin.dat
 admin.do
 admin.epc
@@ -2264,6 +2270,7 @@ cgi-win/
 cgi.pl/
 cgi/
 cgi/account/
+cgi/common.cg
 cgi/common.cgi
 cgibin/
 cgis/
@@ -3140,6 +3147,7 @@ gb_admin.%EXT%
 gbpass.pl
 Gemfile
 Gemfile.lock
+GEMINI/
 general
 get.php
 getFile.cfm
@@ -3282,11 +3290,14 @@ htpasswd
 htpasswd.bak
 htpasswd/htpasswd.bak
 hTTgS.mdb
+http_access.log
 HTTPClntClose
 HTTPClntLogin
 HTTPClntRecv
 HTTPClntSend
 httpd.conf
+httpd.conf.backup
+httpd.conf.default
 httpd.core
 httpd.ini
 httpd/logs/access.log
@@ -3625,6 +3636,8 @@ language
 languages
 latest
 lbadmin
+ldap.prop
+ldap.prop.sample
 legal
 lemardel_admin
 lesson_admin
@@ -3662,6 +3675,7 @@ license.php
 LICENSE.txt
 license.txt
 License.txt
+liferay.log
 lighttpd.access.log
 lighttpd.error.log
 lilo.conf
@@ -3833,6 +3847,7 @@ logs/access_log
 logs/error.log
 logs/error_log
 logs/mail.log
+logs/wsadmin.traceout
 logs_console/
 lol.php
 lostpassword
@@ -3844,6 +3859,7 @@ madmin
 madspot.php
 madspotshell.php
 magazine
+magic.default
 magmi/conf/magmi.ini
 mail
 mail.html
@@ -3858,10 +3874,12 @@ main.%EXT%
 main.mdb
 main/login
 mainadmin
+maint/
 MAINTAINERS.txt
 maintenance.flag
 maintenance.flag.bak
 maintenance.flag2
+maintenance.html
 maintenance.php
 maintenance/
 maintenance/test.php
@@ -4117,6 +4135,8 @@ nadmin
 nagios
 nagios/
 nano.save
+native_stderr.log
+native_stdout.log
 nav
 navSiteAdmin/
 nb-configuration.xml
@@ -4953,6 +4973,7 @@ ServerList.cfg
 ServerList.xml
 servers
 servers.xml
+serverStatus.log
 service
 service.asmx
 services
@@ -5228,6 +5249,7 @@ staradmin/
 start
 start.%EXT%
 start.html
+startServer.log
 stat/
 static
 statistics
@@ -5278,6 +5300,7 @@ strona_8
 strona_9
 stronghold-info
 stronghold-status
+stssys.htm
 style
 styles
 styles/prosilver/style.cfg
@@ -5347,6 +5370,7 @@ symphony/apps/frontend/config/app.yml
 symphony/apps/frontend/config/databases.yml
 symphony/config/app.yml
 symphony/config/databases.yml
+syncNode.log
 sys-admin
 sys-admin/
 sys_admin
@@ -5374,6 +5398,8 @@ system/log/
 system/logs/
 system_administration/
 systemadmin
+SystemErr.log
+SystemOut.log
 t
 t00.php
 T3AdminMain
@@ -5902,6 +5928,9 @@ WS_FTP.LOG
 WS_FTP.log
 WS_FTP/
 WS_FTP/Sites/ws_ftp.ini
+wsadmin.traceout
+wsadmin.valout
+wsadminListener.out
 WSO.php
 wso.php
 wso2.5.1.php

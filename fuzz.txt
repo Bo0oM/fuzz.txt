@@ -2,7 +2,7 @@
 !.htaccess
 !.htpasswd
 %20../
-%2e%2e//hi.bo0om.ru/?302
+%2e%2e//google.com
 %3f/
 %ff/
 ..;/
@@ -403,6 +403,7 @@
 /log/error.log
 /log/www-error.log
 /logs/error.log
+/logs/liferay.log
 /logs/www-error.log
 /logs_backup/
 /pentaho/
@@ -530,6 +531,8 @@ _vti_bin/_vti_aut/author.dll
 _vti_bin/shtml.dll
 _vti_pvt/
 _WEB_INF/
+_wpeprivate
+_wpeprivate/config.json
 _www
 a%5c.aspx
 aadmin/
@@ -555,6 +558,7 @@ accounts.txt
 accounts.xml
 accounts/
 acct_login/
+activity.log
 ad_login
 ad_manage
 add.php
@@ -581,6 +585,8 @@ admin.asp
 admin.aspx
 admin.cfm
 admin.cgi
+admin.conf
+admin.conf.default
 admin.dat
 admin.do
 admin.htm
@@ -589,6 +595,7 @@ admin.html
 admin.html.php
 admin.jsp
 admin.mdb
+admin.passwd
 admin.php
 admin.php3
 admin.pl
@@ -1102,6 +1109,7 @@ cgi-bin/login
 cgi-bin/php.ini
 cgi-bin/test.cgi
 cgi.pl/
+cgi/common.cg
 cgi/common.cgi
 Cgishell.pl
 change.log
@@ -1594,6 +1602,7 @@ gaza.php
 gbpass.pl
 Gemfile
 Gemfile.lock
+GEMINI/
 get.php
 getFile.cfm
 git-service
@@ -1649,7 +1658,10 @@ html/js/misc/swfupload/swfupload_f9.swf
 htpasswd
 htpasswd.bak
 htpasswd/htpasswd.bak
+http_access.log
 httpd.conf
+httpd.conf.backup
+httpd.conf.default
 httpd.core
 httpd.ini
 httpd/logs/access.log
@@ -1785,6 +1797,8 @@ kpanel/
 l0gs.txt
 L3b.php
 lander.logs
+ldap.prop
+ldap.prop.sample
 letmein
 letmein.php
 letmein/
@@ -1806,6 +1820,7 @@ LICENSE
 license.php
 LICENSE.txt
 license.txt
+liferay.log
 lighttpd.access.log
 lighttpd.error.log
 lilo.conf
@@ -1914,21 +1929,25 @@ logs/access_log
 logs/error.log
 logs/error_log
 logs/mail.log
+logs/wsadmin.traceout
 logs_console/
 lol.php
 Lotus_Domino_Admin/
 macadmin/
 madspot.php
 madspotshell.php
+magic.default
 magmi/conf/magmi.ini
 mail.log
 mailman/listinfo
 main.mdb
 main/login
+maint/
 MAINTAINERS.txt
 maintenance.flag
 maintenance.flag.bak
 maintenance.flag2
+maintenance.html
 maintenance.php
 maintenance/
 maintenance/test.php
@@ -2045,6 +2064,8 @@ mysqlitedb.db
 mysqlmanager/
 nagios/
 nano.save
+native_stderr.log
+native_stdout.log
 navSiteAdmin/
 nb-configuration.xml
 nbactions.xml
@@ -2501,6 +2522,7 @@ ServerAdministrator/
 ServerList.cfg
 ServerList.xml
 servers.xml
+serverStatus.log
 service.asmx
 services
 services/config/databases.yml
@@ -2610,6 +2632,7 @@ sshadmin/
 staff/
 staradmin/
 start.html
+startServer.log
 stat/
 statistics
 statistics/
@@ -2621,6 +2644,7 @@ statusicon/
 storage/logs/laravel.log
 stronghold-info
 stronghold-status
+stssys.htm
 sub-login/
 sugarcrm.log
 supe.php
@@ -2670,6 +2694,7 @@ symphony/apps/frontend/config/app.yml
 symphony/apps/frontend/config/databases.yml
 symphony/config/app.yml
 symphony/config/databases.yml
+syncNode.log
 sys-admin/
 sysadm
 sysadm.php
@@ -2689,6 +2714,8 @@ system/error.txt
 system/log/
 system/logs/
 system_administration/
+SystemErr.log
+SystemOut.log
 t00.php
 tar
 tar.bz2
@@ -2993,6 +3020,9 @@ ws.php
 ws_ftp.ini
 WS_FTP.LOG
 WS_FTP/Sites/ws_ftp.ini
+wsadmin.traceout
+wsadmin.valout
+wsadminListener.out
 WSO.php
 wso.php
 wso2.5.1.php
