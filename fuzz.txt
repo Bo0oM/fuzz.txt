@@ -256,6 +256,7 @@
 .netrwhist
 .nodelete
 .npmignore
+.npmrc
 .nsconfig
 .nuget/packages.config
 .old
@@ -357,6 +358,7 @@
 .svn/all-wcprops
 .svn/entries
 .svn/text-base/
+.svn/text-base/index.php.svn-base
 .svnignore
 .sw
 .swf

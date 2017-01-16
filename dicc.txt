@@ -3,7 +3,6 @@
 !.htpasswd
 %20../
 %2e%2e//google.com
-%2e%2e//hi.bo0om.ru/?302
 %3f/
 %EXT%
 %ff/
@@ -302,6 +301,7 @@
 .netrwhist
 .nodelete
 .npmignore
+.npmrc
 .nsconfig
 .nuget/packages.config
 .old
@@ -420,6 +420,7 @@
 .svn/prop-base/
 .svn/props/
 .svn/text-base/
+.svn/text-base/index.php.svn-base
 .svn/tmp/
 .svnignore
 .sw
