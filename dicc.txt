@@ -5807,7 +5807,7 @@ web.config.txt
 web.config::$DATA
 web.Debug.config
 web.rar
-web.Release.confiп
+web.Release.config
 web.sql
 web.tar
 web.tar.bz2

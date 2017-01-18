@@ -3,6 +3,7 @@
 !.htpasswd
 %20../
 %2e%2e//google.com
+%2e%2e;/test
 %3f/
 %ff/
 ..;/
@@ -532,6 +533,8 @@ _vti_bin/_vti_adm/admin.dll
 _vti_bin/_vti_aut/author.dll
 _vti_bin/shtml.dll
 _vti_pvt/
+_vti_pvt/service.pwt
+_vti_pvt/users.pwt
 _WEB_INF/
 _wpeprivate
 _wpeprivate/config.json
@@ -2949,7 +2952,7 @@ web.config.txt
 web.config::$DATA
 web.Debug.config
 web.rar
-web.Release.confiп
+web.Release.config
 web.sql
 web.tar
 web.tar.bz2
