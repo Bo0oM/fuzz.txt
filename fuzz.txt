@@ -1639,6 +1639,7 @@ guanli/admin.asp
 Guardfile
 gulpfile.coffee
 gulpfile.js
+h2console
 HISTORY
 HNAP1/
 home.html
