@@ -1767,6 +1767,8 @@ installer-log.txt
 installer.php
 install~/
 invoker/JMXInvokerServlet
+invoker/restricted/JMXInvokerServlet
+invoker/readonly/JMXInvokerServlet
 irc-macadmin/
 isadmin
 isadmin.php
