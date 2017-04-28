@@ -480,6 +480,7 @@
 _.htpasswd
 __cache/
 __index.php
+__init__.py
 __MACOSX
 __pma___
 __SQL
@@ -1767,8 +1768,8 @@ installer-log.txt
 installer.php
 install~/
 invoker/JMXInvokerServlet
-invoker/restricted/JMXInvokerServlet
 invoker/readonly/JMXInvokerServlet
+invoker/restricted/JMXInvokerServlet
 irc-macadmin/
 isadmin
 isadmin.php
