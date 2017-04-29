@@ -1,0 +1,17 @@
+{
+    "name": "systemfailure/sitestatus",
+    "description": "check site status",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "6.2.2",
+        "phpcurl/curlhttp": "2.0.0",
+        "monolog/monolog": "2.0.x-dev",
+        "gabordemooij/redbean": "v4.3.3"
+    },
+    "license": "MiT",
+    "minimum-stability": "stable",
+
+    "autoload": {
+        "psr-4": {"SystemFailure\\": "src"}
+    }
+}
