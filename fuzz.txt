@@ -47,6 +47,7 @@
 .codeintel
 .codekit-cache
 .codio
+.coffee_history
 .compile
 .composer
 .conf
@@ -129,6 +130,7 @@
 .gitmodules
 .gitreview
 .grunt/
+.guile_history
 .gz
 .hash
 .hg
@@ -141,6 +143,7 @@
 .hgignore
 .hgignore.global
 .hgrc
+.histfile
 .history
 .ht_wsr.txt
 .hta
@@ -311,6 +314,7 @@
 .rvmrc
 .s3backupstatus
 .sass-cache/
+.scala_history
 .scrutinizer.yml
 .selected_editor
 .settings
@@ -403,20 +407,6 @@
 .zfs/
 .zip
 .zsh_history
-/bak/
-/CFIDE/administrator/
-/log/error.log
-/log/www-error.log
-/logs/error.log
-/logs/liferay.log
-/logs/www-error.log
-/logs_backup/
-/pentaho/
-/php-fpm/error.log
-/php-fpm/www-error.log
-/uploads/dump.sql
-/wp-content/debug.log
-/wp-content/uploads/dump.sql
 0.htpasswd
 0.php
 0admin/
@@ -1022,6 +1012,7 @@ backups.tar.gz
 backups.tgz
 backups.zip
 backups/
+bak/
 banneradmin/
 base/
 bb-admin/
@@ -1111,6 +1102,7 @@ ccp14admin/
 cell.xml
 cert/
 cfexec.cfm
+CFIDE/administrator/
 cgi-bin/awstats.pl
 cgi-bin/logi.php
 cgi-bin/login
@@ -1406,6 +1398,7 @@ dbadmin.php
 dbadmin/
 dbase
 dbbackup/
+dbdump.sql
 dbfix/
 dead.letter
 debug
@@ -1614,6 +1607,7 @@ GEMINI/
 get.php
 getFile.cfm
 git-service
+github-recovery-codes.txt
 gitlog
 global
 global.asa
@@ -1762,6 +1756,7 @@ install/
 install/update.log
 install_
 INSTALL_admin
+install_mgr.log
 installation.php
 installer
 installer-log.txt
@@ -1771,6 +1766,7 @@ invoker/JMXInvokerServlet
 invoker/readonly/JMXInvokerServlet
 invoker/restricted/JMXInvokerServlet
 irc-macadmin/
+irequest/
 isadmin
 isadmin.php
 ispmgr/
@@ -1813,6 +1809,7 @@ ldap.prop.sample
 letmein
 letmein.php
 letmein/
+lg/lg.conf
 lib/fckeditor/
 lib/flex/uploader/.actionScriptProperties
 lib/flex/uploader/.flexProperties
@@ -1880,6 +1877,7 @@ log/log.txt
 log/production.log
 log/server.log
 log/test.log
+log/www-error.log
 log_1.txt
 log_errors.txt
 log_in
@@ -1939,8 +1937,11 @@ logs/access.log
 logs/access_log
 logs/error.log
 logs/error_log
+logs/liferay.log
 logs/mail.log
 logs/wsadmin.traceout
+logs/www-error.log
+logs_backup/
 logs_console/
 lol.php
 Lotus_Domino_Admin/
@@ -2097,6 +2098,7 @@ nginx-ssl.error.log
 nginx-status/
 nginx.conf
 nginx_status
+ngx_pagespeed_beacon/
 nohup.out
 npm-debug.log
 nst.php
@@ -2113,6 +2115,7 @@ old/
 old_files
 old_site/
 oldfiles
+open-flash-chart.swf?get-data=(function(){alert(document.domain)})()
 openvpnadmin/
 operador/
 operator/
@@ -2178,6 +2181,7 @@ passwords.sqlite
 passwords.txt
 path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 pbmadmin/
+pentaho/
 perl-reverse-shell.pl
 perlcmd.cgi
 personal
@@ -2197,6 +2201,9 @@ php-error.txt
 php-errors.log
 php-errors.txt
 php-findsock-shell.php
+php-fpm/
+php-fpm/error.log
+php-fpm/www-error.log
 php-info.php
 php-my-admin/
 php-myadmin/
@@ -2507,6 +2514,7 @@ scripts/ckeditor/ckfinder/core/connector/asp/connector.asp
 scripts/ckeditor/ckfinder/core/connector/aspx/connector.aspx
 scripts/ckeditor/ckfinder/core/connector/php/connector.php
 scripts/setup.php
+sdb.php
 searchreplacedb2.php
 searchreplacedb2cli.php
 secret/
@@ -2653,6 +2661,7 @@ status.xsl
 status/
 statusicon/
 storage/logs/laravel.log
+StreamingStatistics
 stronghold-info
 stronghold-status
 stssys.htm
@@ -2870,6 +2879,7 @@ uploadify.php
 uploadify/
 uploads.php
 uploads/
+uploads/dump.sql
 upstream_conf
 ur-admin
 ur-admin.php
@@ -2979,6 +2989,7 @@ webadmin/index.html
 webadmin/index.php
 webadmin/login.html
 webadmin/login.php
+webdav.password
 webdav/
 webdav/index.html
 webdav/servlet/webdav/
@@ -3017,8 +3028,10 @@ wp-config.php~
 wp-content/backup-db/
 wp-content/backups/
 wp-content/debug.log
+wp-content/plugins/adminer/inc/editor/index.php
 wp-content/plugins/count-per-day/js/yc/d00.php
 wp-content/uploads/
+wp-content/uploads/dump.sql
 wp-includes/rss-functions.php
 wp-login.php
 wp-login/
