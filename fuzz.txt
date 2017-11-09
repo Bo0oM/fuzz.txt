@@ -1454,6 +1454,7 @@ db1.sqlite
 db2
 db_admin
 db_backups/
+db_status.php
 dbaccess.log
 dbadmin.php
 dbadmin/
