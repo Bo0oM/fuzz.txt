@@ -2831,6 +2831,7 @@ sqlmanager/
 sqlmigrate.php
 sqlnet.log
 sqlweb/
+SQLyogTunnel.php
 ss_vms_admin_sm/
 sshadmin/
 staff/
