@@ -3307,6 +3307,7 @@ xphpMyAdmin/
 xsl/
 xsl/_common.xsl
 xsl/common.xsl
+xslt/
 xsql/
 xsql/lib/XSQLConfig.xml
 yaml.log
@@ -3325,3 +3326,4 @@ zeroclipboard.swf
 zf_backend.php
 zone-h.php
 ~admin/
+~/
