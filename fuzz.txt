@@ -115,6 +115,7 @@
 .gfclient/
 .gfclient/pass
 .git
+.git-credentials
 .git-rewrite/
 .git/
 .git/configf
@@ -303,6 +304,7 @@
 .pst
 .pydevproject
 .python-eggs
+.python-history
 .qqestore/
 .rar
 .raw
@@ -712,8 +714,8 @@ admin/manage/admin.asp
 admin/manage/login.asp
 admin/mysql/
 admin/phpMyAdmin
-admin/phpmyadmin/
 admin/phpMyAdmin/
+admin/phpmyadmin/
 admin/pMA/
 admin/pma/
 admin/pol_log.txt
@@ -841,10 +843,10 @@ administrator/login.asp
 administrator/login.html
 administrator/login.php
 administrator/logs
-administrator/phpmyadmin/
 administrator/phpMyAdmin/
-administrator/pma/
+administrator/phpmyadmin/
 administrator/PMA/
+administrator/pma/
 administrator/web/
 administratoraccounts/
 administratorlogin
@@ -862,8 +864,8 @@ adminitems.php
 adminitems/
 adminlogin
 adminLogin.html
-adminlogin.php
 adminLogin.php
+adminlogin.php
 adminLogin/
 adminlogon/
 adminpanel
@@ -912,6 +914,7 @@ api/
 api/error_log
 apibuild.pyc
 app.config
+app.php
 app/
 app/.htaccess
 app/bin
@@ -953,6 +956,7 @@ app/sys
 app/testing
 app/unschedule.bat
 app/vendor
+app/vendor-
 app/vendor-src
 app_dev.php
 appcache.manifest
@@ -1269,6 +1273,7 @@ config.php.bak
 config.php.dist
 config.php.inc
 config.php.inc~
+config.php.new
 config.php.old
 config.php.save
 config.php.swp
@@ -2075,6 +2080,7 @@ madspotshell.php
 magic.default
 magmi/
 magmi/conf/magmi.ini
+mail
 mail.log
 mailman/
 mailman/listinfo
@@ -2278,6 +2284,7 @@ OWA/
 p.php
 p/
 p/m/a/
+package-lock.json
 package.json
 pages/
 pages/admin/
@@ -2647,6 +2654,7 @@ README.txt
 Readme.txt
 readme.txt
 recentservers.xml
+redmine/
 register.php
 registration/
 RELEASE_NOTES.txt
@@ -2834,6 +2842,7 @@ sqlweb/
 SQLyogTunnel.php
 ss_vms_admin_sm/
 sshadmin/
+st.php
 staff/
 staradmin/
 start.html
@@ -3156,6 +3165,7 @@ vorud
 vorud.php
 vorud/
 vpn/
+vtiger/
 vtund.conf
 wcx_ftp.ini
 web-console/
@@ -3220,6 +3230,7 @@ wenzhang
 whmcs.php
 whmcs/
 whmcs/downloads/dz.php
+wiki/
 wizmysqladmin/
 wordpress/
 wordpress/wp-login.php
@@ -3324,6 +3335,7 @@ zebra.conf
 zehir.php
 zeroclipboard.swf
 zf_backend.php
+zimbra/
 zone-h.php
-~admin/
 ~/
+~admin/
