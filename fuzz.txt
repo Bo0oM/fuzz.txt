@@ -594,6 +594,9 @@ admin
 admin%20/
 admin-console
 admin-console/
+admin-database
+admin-database/
+admin-database.php
 admin-login
 admin-login.html
 admin-login.php
