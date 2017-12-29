@@ -963,6 +963,9 @@ admin-console
 admin-console/
 admin-control
 admin-custom
+admin-database
+admin-database/
+admin-database.php
 admin-footer.%EXT%
 admin-functions.%EXT%
 admin-header.%EXT%
