@@ -964,8 +964,8 @@ admin-console/
 admin-control
 admin-custom
 admin-database
-admin-database/
 admin-database.php
+admin-database/
 admin-footer.%EXT%
 admin-functions.%EXT%
 admin-header.%EXT%
@@ -1855,6 +1855,7 @@ app
 APP
 app-admin
 app.config
+app.js
 app.php
 app/
 app/.htaccess
@@ -5186,6 +5187,7 @@ server-info
 server-status
 server-status/
 server.cfg
+server.js
 server.log
 Server.php
 server.xml
