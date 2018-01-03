@@ -595,8 +595,8 @@ admin%20/
 admin-console
 admin-console/
 admin-database
-admin-database/
 admin-database.php
+admin-database/
 admin-login
 admin-login.html
 admin-login.php
@@ -917,6 +917,7 @@ api/
 api/error_log
 apibuild.pyc
 app.config
+app.js
 app.php
 app/
 app/.htaccess
@@ -2718,6 +2719,7 @@ Server
 server-info
 server-status/
 server.cfg
+server.js
 server.log
 Server.php
 server.xml
