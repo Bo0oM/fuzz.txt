@@ -1451,10 +1451,13 @@ db/dbweb/
 db/main.mdb
 db/myadmin/
 db/phpMyAdmin-2/
+db/phpMyAdmin-3/
 db/phpmyadmin/
 db/phpMyAdmin/
 db/phpmyadmin2/
 db/phpMyAdmin2/
+db/phpmyadmin3/
+db/phpMyAdmin3/
 db/webadmin/
 db/webdb/
 db/websql/
@@ -1790,6 +1793,7 @@ images/Sym.php
 import.php
 import/
 import_error.log
+in/
 inc/
 inc/config.inc
 inc/fckeditor/
@@ -1922,6 +1926,8 @@ kpanel/
 l0gs.txt
 L3b.php
 lander.logs
+latest/meta-data/hostname
+latest/user-data
 ldap.prop
 ldap.prop.sample
 letmein
@@ -2595,6 +2601,7 @@ PMA2015/
 PMA2016/
 pma2016/
 pma2017/
+PMA2017/
 PMA2018/
 pma2018/
 pma4/
