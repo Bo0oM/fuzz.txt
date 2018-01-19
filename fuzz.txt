@@ -2252,6 +2252,7 @@ nginx-status/
 nginx.conf
 nginx_status
 ngx_pagespeed_beacon/
+node_modules
 nohup.out
 npm-debug.log
 nst.php
