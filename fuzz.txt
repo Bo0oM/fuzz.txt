@@ -346,6 +346,9 @@
 .sql.bz2
 .sql.gz
 .sqlite_history
+.src/app.js
+.src/index.js
+.src/server.js
 .ssh
 .ssh.asp
 .ssh.php
@@ -2852,6 +2855,9 @@ sqlmigrate.php
 sqlnet.log
 sqlweb/
 SQLyogTunnel.php
+src/app.js
+src/index.js
+src/server.js
 ss_vms_admin_sm/
 sshadmin/
 st.php
