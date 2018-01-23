@@ -118,7 +118,7 @@
 .git-credentials
 .git-rewrite/
 .git/
-.git/configf
+.git/config
 .git/HEAD
 .git/index
 .git/logs/
