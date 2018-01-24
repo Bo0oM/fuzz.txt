@@ -2189,6 +2189,7 @@ moderator/login.php
 modules/
 modules/admin/
 monitor/
+monitoring
 monitoring/
 moving.page
 mrtg.cfg
