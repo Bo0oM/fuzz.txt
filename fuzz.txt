@@ -2874,6 +2874,7 @@ stats
 stats/
 status.xsl
 status/
+status?full=true
 statusicon/
 storage/
 storage/logs/laravel.log
