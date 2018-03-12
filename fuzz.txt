@@ -26,6 +26,7 @@
 .bower-registry
 .bower-tmp
 .build/
+.buildpacks
 .buildpath
 .buildpath/
 .builds
@@ -46,6 +47,7 @@
 .checkstyle
 .classpath
 .cobalt
+.codeclimate.yml
 .codeintel
 .codekit-cache
 .codio
@@ -75,6 +77,7 @@
 .deployignore
 .dev/
 .directory
+.dockerignore
 .drone.yml
 .DS_Store
 .dump
@@ -87,8 +90,11 @@
 .emacs.desktop.lock
 .empty-folder
 .env
+.env.development.sample
+.env.docker.dev
 .env.php
 .env.sample.php
+.env.test.sample
 .environment
 .error_log
 .eslintignore
@@ -253,6 +259,7 @@
 .meta
 .metadata
 .metadata/
+.metrics
 .modgit/
 .modman
 .modman/
@@ -310,6 +317,7 @@
 .raw
 .rbtp
 .rdsTempFiles
+.reek
 .remote-sync.json
 .revision
 .rhosts
@@ -368,6 +376,7 @@
 .ssh/known_host
 .ssh/known_hosts
 .st_cache/
+.stylelintrc
 .sublime-gulp.cache
 .sublime-project
 .sublime-workspace
@@ -499,6 +508,7 @@ _common.xsl
 _config.inc
 _data/
 _data/error_log
+_Dockerfile
 _errors
 _files
 _h5ai/
@@ -975,6 +985,7 @@ application/logs/
 apps/
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
+Aptfile
 archive.rar
 archive.sql
 archive.tar
@@ -1892,6 +1903,7 @@ ispmgr/
 Jakefile
 javax.faces.resource.../
 javax.faces.resource.../WEB-INF/web.xml.jsf
+jbossws/services
 jdbc
 jira/
 jmx-console
@@ -2623,6 +2635,10 @@ private.mdb
 private.sqlite
 processlogin
 processlogin.php
+Procfile
+Procfile.dev
+Procfile.offline
+product.json
 production.log
 profiles.xml
 program/
@@ -2779,6 +2795,7 @@ shellz.php
 shopdb/
 showcode.asp
 showlogin/
+sidekiq_monitor
 sign-in
 sign-in/
 sign_in
