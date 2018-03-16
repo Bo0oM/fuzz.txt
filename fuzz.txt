@@ -913,6 +913,7 @@ all/modules/ogdi_field/plugins/dataTables/extras/TableTools/media/swf/ZeroClipbo
 amad.php
 amministratore.php
 analog.html
+anchor/errors.log
 answers/
 answers/error_log
 apache/
@@ -1589,6 +1590,7 @@ engine/
 engine/classes/swfupload/swfupload.swf
 engine/classes/swfupload/swfupload_f9.swf
 engine/log.txt
+env
 environment.rb
 err
 err.log
@@ -2932,6 +2934,7 @@ suspended.page
 svn.revision
 SVN/
 svn/
+swagger.yaml
 swfobject.js
 swfupload
 swfupload.swf
