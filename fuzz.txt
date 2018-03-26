@@ -433,6 +433,9 @@
 .zfs/
 .zip
 .zsh_history
+/swagger-resources
+/swagger-ui.html
+/swagger/index.html
 0.htpasswd
 0.php
 0admin/
