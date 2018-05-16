@@ -2502,6 +2502,7 @@ manager/admin.asp
 manager/html
 manager/login
 manager/login.asp
+manager/status/all
 MANIFEST
 MANIFEST.bak
 MANIFEST.MF
@@ -3766,6 +3767,7 @@ web-app/WEB-INF/classes
 web-console/
 web-console/Invoker
 web-console/ServerInfo.jsp
+web-console/status?full=true
 WEB-INF./
 WEB-INF./web.xml
 WEB-INF/
