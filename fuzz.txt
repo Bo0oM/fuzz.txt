@@ -1118,6 +1118,7 @@ application.log
 application.wadl
 application/
 application/cache/
+application/configs/application.ini
 application/logs/
 AppPackages/
 apps/
