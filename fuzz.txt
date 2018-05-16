@@ -1537,6 +1537,7 @@ config/settings/production.yml
 config/site.php
 config/xml/
 config_override.php
+configprops
 configs/
 configs/conf_bdd.ini
 configs/conf_zepass.ini
@@ -1899,6 +1900,9 @@ eula.txt
 eula_en.txt
 example.php
 examples/
+examples/jsp/%252e%252e/%252e%252e/manager/html/
+examples/jsp/snp/snoop.jsp
+examples/servlet/SnoopServlet
 examples/servlets/servlet/CookieExample
 examples/servlets/servlet/RequestHeaderExample
 exception.log
@@ -2172,6 +2176,7 @@ index2.php
 index3.php
 index_manage
 Indy_admin/
+info
 info.json
 info.php
 info.txt
@@ -2232,6 +2237,7 @@ irequest/
 isadmin
 isadmin.php
 ispmgr/
+j2ee/servlet/SnoopServlet
 Jakefile
 javascripts/bundles
 javax.faces.resource.../
@@ -2270,6 +2276,7 @@ jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php
 jscripts/tinymce/
 jsp-examples/
 jsp-reverse.jsp
+jsp/viewer/snoop.jsp
 jspm_packages/
 jssresource/
 karma.conf.js
@@ -2546,6 +2553,7 @@ misc
 missing
 Mkfile.old
 moadmin.php
+moadmin/
 mock/
 modelsearch/
 modelsearch/admin.html
@@ -2818,6 +2826,8 @@ phpma/
 phpmanager/
 phpmem/
 phpmemcachedadmin/
+phpMoAdmin/
+phpmoadmin/
 phpmy-admin/
 phpmy/
 phpMy/
@@ -3213,6 +3223,7 @@ servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapCon
 servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
 servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+servlet/SnoopServlet
 session/
 sessions/
 settings.php
@@ -3278,6 +3289,7 @@ sites/README.txt
 sized/
 slapd.conf
 smblogin/
+snoop.jsp
 soap/
 soapdocs/
 soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
@@ -3577,6 +3589,7 @@ tmp/vaga.php
 tmp/whmcs.php
 tmp/xd.php
 TODO
+tomcat-docs/appdev/sample/web/hello.jsp
 tools
 tools/
 tools/_backups/
