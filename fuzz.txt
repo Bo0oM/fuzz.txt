@@ -2331,6 +2331,7 @@ linkhub/linkhub.log
 linktous.html
 linusadmin-phpinfo.php
 list_emails
+listener.log
 lists/
 lists/config
 LiveUser_Admin/
