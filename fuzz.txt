@@ -534,6 +534,8 @@
 .zfs/
 .zip
 .zsh_history
+/app/__pycache__/
+/apps/__pycache__/
 0.htpasswd
 0.php
 0admin/
