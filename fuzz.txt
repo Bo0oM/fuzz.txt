@@ -29,6 +29,7 @@
 .bower-cache
 .bower-registry
 .bower-tmp
+.bower.json
 .build/
 .buildpacks
 .buildpath
@@ -1126,6 +1127,7 @@ AppPackages/
 apps/
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
+appveyor.yml
 Aptfile
 ar-lib
 archive.rar
@@ -1452,6 +1454,7 @@ common.xml
 common/
 common/config/api.ini
 common/config/db.ini
+compass.rb
 compile
 compile_commands.json
 components/
@@ -1503,6 +1506,7 @@ config.php.swp
 config.php.txt
 config.php~
 config.rb
+config.ru
 config.sub
 config.txt
 config.xml
@@ -1601,6 +1605,7 @@ cpbt.php
 cpn.php
 craft/
 crash.log
+credentials.xml
 CREDITS
 crm/
 cron.log
@@ -2058,12 +2063,16 @@ grabbed.html
 gradle-app.setting
 grappelli/
 Gruntfile.coffee
+GruntFile.coffee
 Gruntfile.js
+gruntFile.js
 guanli
 guanli/
 guanli/admin.asp
 Guardfile
+Gulpfile.coffee
 gulpfile.coffee
+Gulpfile.js
 gulpfile.js
 gwt-unitCache/
 h2console
@@ -3712,6 +3721,7 @@ uvpanel/
 vadmind/
 vagrant-spec.config.rb
 Vagrantfile
+Vagrantfile.backup
 validator.php
 var/
 var/backups/
@@ -3843,6 +3853,7 @@ wp-admin/c99.php
 wp-admin/install.php
 wp-admin/setup-config.php
 wp-app.log
+wp-cli.yml
 wp-config.inc
 wp-config.old
 wp-config.php
