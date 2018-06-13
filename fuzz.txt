@@ -7,6 +7,7 @@
 %3f/
 %C0%AE%C0%AE%C0%AF
 %ff/
++CSCOU+/%2e%2e/+CSCOE+/
 ..;/
 .7z
 .access
@@ -163,6 +164,7 @@
 .gitignore~
 .gitk
 .gitkeep
+.gitlab-ci.yml
 .gitmodules
 .gitreview
 .gradle
