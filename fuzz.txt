@@ -55,6 +55,7 @@
 .cc-ban.txt.bak
 .cfg
 .checkstyle
+.circleci/config.yml
 .classpath
 .cobalt
 .codeclimate.yml
