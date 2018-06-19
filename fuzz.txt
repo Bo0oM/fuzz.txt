@@ -2157,6 +2157,7 @@ include/fckeditor/
 includes
 includes/
 includes/adovbs.inc
+includes/bootstrap.inc
 includes/configure.php~
 includes/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
 includes/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx
