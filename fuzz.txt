@@ -165,7 +165,11 @@
 .gitignore~
 .gitk
 .gitkeep
+.gitlab
 .gitlab-ci.yml
+.gitlab/issue_templates
+.gitlab/merge_request_templates
+.gitlab/route-map.yml
 .gitmodules
 .gitreview
 .gradle
@@ -2060,6 +2064,7 @@ getFile.cfm
 git-service
 github-cache
 github-recovery-codes.txt
+gitlab/
 gitlog
 global
 global.asa
