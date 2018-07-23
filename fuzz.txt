@@ -1383,6 +1383,7 @@ cgi-bin/logi.php
 cgi-bin/login
 cgi-bin/login.cgi
 cgi-bin/php.ini
+cgi-bin/printenv.pl
 cgi-bin/test-cgi
 cgi-bin/test.cgi
 cgi-sys/
@@ -1954,6 +1955,8 @@ examples/servlets/servlet/CookieExample
 examples/servlets/servlet/RequestHeaderExample
 exception.log
 exploded-archives/
+explore
+explore/repos
 export
 export.cfg
 export/
@@ -2314,6 +2317,7 @@ jboss/server/default/log/
 jboss/server/minimal/deploy/project.ext
 jbossws/services
 jdbc
+Jenkinsfile
 jira/
 jmx-console
 jmx-console/
@@ -2615,6 +2619,7 @@ META.json
 META.yml
 meta_login/
 metadata.rb
+metrics
 mimosa-config.coffee
 mimosa-config.js
 misc
@@ -3017,9 +3022,9 @@ phpMyAdmin-3/
 phpMyAdmin-4/
 phpmyadmin-old/index.php
 phpMyAdmin.old/index.php
+phpmyadmin/
 phpMyAdmin/
 phpMyadmin/
-phpmyadmin/
 phpmyAdmin/
 phpmyadmin/index.php
 phpMyAdmin/index.php
@@ -3052,6 +3057,7 @@ phpMyadmin_bak/index.php
 phpMyAdminBackup/
 phpMyAdminold/index.php
 phpMyAds/
+phppgadmin
 phppgadmin/
 phpPgAdmin/
 phppma/
@@ -3063,6 +3069,7 @@ phpspec.yml
 phpSQLiteAdmin/
 phpstudy.php
 phpsysinfo/
+phptest.php
 phpThumb.php
 phpThumb/
 phpunit.phar
