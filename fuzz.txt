@@ -7,8 +7,7 @@
 %3f/
 %C0%AE%C0%AE%C0%AF
 %ff/
-+CSCOU+/%2e%2e/+CSCOE+/
-..;/
++CSCOU+/../+CSCOE+/files/file_list.json
 .7z
 .access
 .addressbook
@@ -54,6 +53,7 @@
 .cc-ban.txt
 .cc-ban.txt.bak
 .cfg
+.cfignore
 .checkstyle
 .circleci/config.yml
 .classpath
@@ -538,6 +538,7 @@
 .wwwacl
 .yardoc/
 .yarn-integrity
+.yo-rc.json
 .zeus.sock
 .zfs/
 .zip
@@ -1149,7 +1150,7 @@ appveyor.yml
 Aptfile
 ar-lib
 archaius
-archaius.json 
+archaius.json
 archive.rar
 archive.sql
 archive.tar
@@ -1172,7 +1173,7 @@ asterisk.log
 AT-admin.cgi
 atlassian-ide-plugin.xml
 auditevents
-auditevents.json 
+auditevents.json
 auth
 auth.inc
 auth.php
@@ -1192,7 +1193,7 @@ authuser
 authuser.php
 auto/
 autoconfig
-autoconfig.json 
+autoconfig.json
 autologin
 autologin.php
 autologin/
@@ -1258,7 +1259,7 @@ bbs/
 bbs/admin/login
 bbs/admin_index.asp
 beans
-beans.json 
+beans.json
 behat.yml
 BenchmarkDotNet.Artifacts/
 Berksfile
@@ -1308,6 +1309,7 @@ Black.php
 blacklist.dat
 bld/
 blib/
+blockchain.json
 blog/
 blog/error_log
 blog/wp-content/backup-db/
@@ -1462,6 +1464,7 @@ classic.json
 classic.jsonp
 cleanup.log
 cli/
+client_secret.json
 client_secrets.json
 ClientAccessPolicy.xml
 ClientBin/
@@ -1651,6 +1654,8 @@ cpn.php
 craft/
 crash.log
 credentials.xml
+credentials/
+credentials/gcloud.json
 CREDITS
 crm/
 cron.log
@@ -1804,6 +1809,7 @@ denglu/admin.asp
 depcomp
 dependency-reduced-pom.xml
 deploy
+deploy.env
 deploy.rb
 deps
 deps/deps.jl
@@ -1911,7 +1917,8 @@ engine/classes/swfupload/swfupload_f9.swf
 engine/log.txt
 env
 env.bak/
-env.json 
+env.js
+env.json
 env/
 ENV/
 environment.rb
@@ -2024,7 +2031,7 @@ FCKeditor22/
 FCKeditor23/
 FCKeditor24/
 features
-features.json 
+features.json
 feixiang.php
 file.php
 file_manager/
@@ -2134,7 +2141,7 @@ gulpfile.js
 gwt-unitCache/
 h2console
 health
-health.json 
+health.json
 heapdump
 heapdump.json
 HISTORY
@@ -2366,6 +2373,7 @@ jssresource/
 karma.conf.js
 kcfinder/
 kcfinder/browse.php
+keys.json
 killer.php
 kpanel/
 l0gs.txt
@@ -2479,7 +2487,7 @@ logfile
 logfile.txt
 logfiles
 loggers
-loggers.json 
+loggers.json
 loggers/
 logi.php
 login
@@ -2555,6 +2563,7 @@ magmi/
 magmi/conf/magmi.ini
 mail
 mail.log
+mailer/.env
 mailman/
 mailman/listinfo
 main.mdb
@@ -2595,6 +2604,7 @@ MANIFEST
 MANIFEST.bak
 MANIFEST.MF
 manifest.mf
+manifest.yml
 manifest/cache/
 manifest/logs/
 manifest/tmp/
@@ -2640,9 +2650,9 @@ META.yml
 meta_login/
 metadata.rb
 metric_tracking
-metric_tracking.json 
+metric_tracking.json
 metrics
-metrics.json 
+metrics.json
 metrics/
 metrics/*.json
 mimosa-config.coffee
@@ -2858,7 +2868,7 @@ passwords.txt
 path/
 path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 pause
-pause.json 
+pause.json
 payment.log
 payment_authorizenet.log
 payment_paypal_express.log
@@ -3201,6 +3211,7 @@ project/target
 propel.ini
 protected/data/
 protected/runtime/
+providers.json
 proxy.pac
 prv/
 PSUser/
@@ -3242,7 +3253,7 @@ rcjakar/admin/login.php
 rcLogin/
 rdoc/
 Read
-Read Me.txt
+Read%20Me.txt
 read.me
 Read_Me.txt
 readme
@@ -3342,6 +3353,7 @@ secring.pgp
 secring.skr
 secure/
 security/
+sendgrid.env
 sentemails.log
 serv-u.ini
 Server
@@ -3354,6 +3366,8 @@ Server.php
 server.pid
 server.xml
 Server/
+server/config.json
+server/server.js
 server_admin_small/
 server_stats
 ServerAdministrator/
@@ -3749,9 +3763,10 @@ tools/phpMyAdmin/index.php
 trace
 Trace.axd
 Trace.axd::$DATA
-trace.json 
+trace.json
 trivia/
 tst
+twitter/.env
 txt/
 typings/
 typo3
@@ -3843,6 +3858,7 @@ users
 users.csv
 users.db
 users.ini
+users.json
 users.log
 users.mdb
 users.php
@@ -3915,6 +3931,7 @@ vqmod/vqcache/
 vtiger/
 vtund.conf
 w.php
+wallet.json
 war/gwt_bree/
 war/WEB-INF/classes/
 war/WEB-INF/deploy/
@@ -4105,6 +4122,7 @@ yaml.log
 yaml_cron.log
 yarn-debug.log
 yarn-error.log
+yarn.lock
 ylwrap
 yonetici
 yonetici.html
