@@ -3996,6 +3996,7 @@ webmaster
 webmaster.php
 webmaster/
 webmin/
+webpack.config.js
 website.git
 websql/
 webstat/
