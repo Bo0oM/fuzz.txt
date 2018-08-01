@@ -1148,6 +1148,8 @@ apps/frontend/config/databases.yml
 appveyor.yml
 Aptfile
 ar-lib
+archaius
+archaius.json 
 archive.rar
 archive.sql
 archive.tar
@@ -1169,6 +1171,8 @@ assets/npm-debug.log
 asterisk.log
 AT-admin.cgi
 atlassian-ide-plugin.xml
+auditevents
+auditevents.json 
 auth
 auth.inc
 auth.php
@@ -1187,6 +1191,8 @@ authorizenet.log
 authuser
 authuser.php
 auto/
+autoconfig
+autoconfig.json 
 autologin
 autologin.php
 autologin/
@@ -1251,6 +1257,8 @@ bbadmin/
 bbs/
 bbs/admin/login
 bbs/admin_index.asp
+beans
+beans.json 
 behat.yml
 BenchmarkDotNet.Artifacts/
 Berksfile
@@ -1859,6 +1867,7 @@ dump
 dump.7z
 dump.inc
 dump.inc.old
+dump.json
 dump.log
 dump.old
 dump.rar
@@ -1902,6 +1911,7 @@ engine/classes/swfupload/swfupload_f9.swf
 engine/log.txt
 env
 env.bak/
+env.json 
 env/
 ENV/
 environment.rb
@@ -2013,6 +2023,8 @@ FCKeditor21/
 FCKeditor22/
 FCKeditor23/
 FCKeditor24/
+features
+features.json 
 feixiang.php
 file.php
 file_manager/
@@ -2122,6 +2134,9 @@ gulpfile.js
 gwt-unitCache/
 h2console
 health
+health.json 
+heapdump
+heapdump.json
 HISTORY
 HISTORY.txt
 HNAP1/
@@ -2463,6 +2478,9 @@ logexpcus.txt
 logfile
 logfile.txt
 logfiles
+loggers
+loggers.json 
+loggers/
 logi.php
 login
 login-redirect/
@@ -2581,6 +2599,8 @@ manifest/cache/
 manifest/logs/
 manifest/tmp/
 manuallogin/
+mappings
+mappings.json
 master.passwd
 master/
 master/portquotes_new/admin.log
@@ -2619,7 +2639,12 @@ META.json
 META.yml
 meta_login/
 metadata.rb
+metric_tracking
+metric_tracking.json 
 metrics
+metrics.json 
+metrics/
+metrics/*.json
 mimosa-config.coffee
 mimosa-config.js
 misc
@@ -2832,6 +2857,8 @@ passwords.sqlite
 passwords.txt
 path/
 path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+pause
+pause.json 
 payment.log
 payment_authorizenet.log
 payment_paypal_express.log
@@ -3207,6 +3234,7 @@ r58.php
 r99.php
 radmind-1/
 radmind/
+rails/info/properties
 Rakefile
 rcf/
 rcjakar/
@@ -3240,6 +3268,8 @@ README.TXT
 ReadMe.txt
 recentservers.xml
 redmine/
+refresh
+refresh.json
 register.php
 registration/
 rel/example_project
@@ -3261,8 +3291,12 @@ resources/tmp/
 rest-api/
 rest-auth/
 rest/
+restart
+restart.json
 restore.php
 restricted
+resume
+resume.json
 revision.inc
 revision.txt
 robot.txt
@@ -3327,6 +3361,8 @@ ServerList.cfg
 ServerList.xml
 servers.xml
 serverStatus.log
+service-registry/instance-status
+service-registry/instance-status.json
 service.asmx
 ServiceFabricBackup/
 services
@@ -3713,6 +3749,7 @@ tools/phpMyAdmin/index.php
 trace
 Trace.axd
 Trace.axd::$DATA
+trace.json 
 trivia/
 tst
 txt/
@@ -3823,6 +3860,7 @@ usuarios/
 usuarios/login.php
 utility_login/
 uvpanel/
+uwsgi.ini
 vadmind/
 vagrant-spec.config.rb
 Vagrantfile
