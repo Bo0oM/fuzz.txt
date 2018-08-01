@@ -1890,6 +1890,7 @@ dump/
 dumper.php
 dumper/
 dumps/
+dwsync.xml
 dz.php
 dz0.php
 dz1.php
