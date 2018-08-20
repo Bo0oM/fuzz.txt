@@ -19,6 +19,7 @@
 .AppleDouble
 .apt_generated/
 .architect
+.aws/credentials
 .axoCover/
 .babelrc
 .bak
