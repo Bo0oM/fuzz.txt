@@ -2197,6 +2197,7 @@ httpd/logs/error.log
 httpd/logs/error_log
 hudson/
 hudson/login
+hystrix
 i.php
 id_dsa
 id_dsa.ppk
@@ -3215,6 +3216,7 @@ protected/data/
 protected/runtime/
 providers.json
 proxy.pac
+proxy.stream?origin=https://google.com
 prv/
 PSUser/
 public
