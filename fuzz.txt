@@ -3211,6 +3211,7 @@ project.lock.json
 project.xml
 project/project
 project/target
+prometheus
 propel.ini
 protected/data/
 protected/runtime/
