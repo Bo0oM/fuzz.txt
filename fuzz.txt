@@ -263,6 +263,7 @@
 .ignore
 .ignored/
 .import/
+.influx_history
 .ini
 .inst/
 .install/
@@ -407,6 +408,7 @@
 .RData
 .rdsTempFiles
 .rebar
+.rediscli_history
 .reek
 .remote-sync.json
 .repl_history
