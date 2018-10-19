@@ -50,6 +50,7 @@
 .capistrano
 .capistrano/
 .capistrano/metrics
+.capistrano/metrics/
 .cask
 .cc-ban.txt
 .cc-ban.txt.bak
