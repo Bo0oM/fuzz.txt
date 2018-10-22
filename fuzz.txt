@@ -4,11 +4,11 @@
 %20../
 %2e%2e//google.com
 %2e%2e;/test
-..;/
 %3f/
 %C0%AE%C0%AE%C0%AF
 %ff/
 +CSCOU+/../+CSCOE+/files/file_list.json
+..;/
 .7z
 .access
 .addressbook
@@ -1170,6 +1170,7 @@ asp.aspx
 aspnet_webadmin
 aspwpadmin
 aspxspy.aspx
+asset..
 assets/
 assets/fckeditor
 assets/js/fckeditor
@@ -3225,6 +3226,7 @@ proxy.stream?origin=https://google.com
 prv/
 PSUser/
 public
+public..
 public/hot
 public/storage
 public/system
@@ -3539,6 +3541,7 @@ staradmin/
 start.html
 startServer.log
 stat/
+static..
 statistics
 statistics/
 stats
