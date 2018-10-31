@@ -3542,6 +3542,7 @@ start.html
 startServer.log
 stat/
 static..
+static/dump.sql
 statistics
 statistics/
 stats
