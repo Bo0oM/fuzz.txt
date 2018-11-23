@@ -3844,6 +3844,7 @@ upstream_conf
 ur-admin
 ur-admin.php
 ur-admin/
+usage/
 user
 user.asp
 user.html
