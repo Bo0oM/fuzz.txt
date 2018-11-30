@@ -3532,6 +3532,7 @@ src/server.js
 srv/
 srv_gen/
 ss_vms_admin_sm/
+ssh/
 sshadmin/
 st.php
 stacktrace.log
