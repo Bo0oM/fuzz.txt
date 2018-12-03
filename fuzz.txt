@@ -3892,6 +3892,7 @@ usuarios/login.php
 utility_login/
 uvpanel/
 uwsgi.ini
+v2/keys/?recursive=true
 vadmind/
 vagrant-spec.config.rb
 Vagrantfile
