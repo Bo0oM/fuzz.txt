@@ -1611,8 +1611,10 @@ config/xml/
 config_override.php
 configprops
 configs/
+Configs/authServerSettings.config
 configs/conf_bdd.ini
 configs/conf_zepass.ini
+Configs/Current/authServerSettings.config
 configuration.ini
 configuration.php
 configuration.php.bak
@@ -1939,6 +1941,7 @@ env
 env.bak/
 env.js
 env.json
+env.list
 ENV/
 env/
 environment.rb
