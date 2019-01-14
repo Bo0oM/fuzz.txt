@@ -1096,6 +1096,7 @@ api
 api.log
 api/
 api/error_log
+api/swagger-ui.html
 apibuild.pyc
 app.config
 app.js
@@ -3229,6 +3230,7 @@ project.xml
 project/project
 project/target
 prometheus
+prometheus/targets
 propel.ini
 protected/data/
 protected/runtime/
@@ -3610,6 +3612,7 @@ swagger-ui.html
 swagger.json
 swagger.yaml
 swagger/index.html
+swagger/swagger-ui.html
 swfobject.js
 swfupload
 swfupload.swf
