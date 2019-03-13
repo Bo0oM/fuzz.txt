@@ -2636,6 +2636,7 @@ manuallogin/
 mappings
 mappings.json
 master.passwd
+master.zip
 master/
 master/portquotes_new/admin.log
 mbox
