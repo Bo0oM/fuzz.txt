@@ -2369,6 +2369,7 @@ jmx-console
 jmx-console/
 jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
+jolokia/
 joomla.rar
 joomla.xml
 joomla.zip
