@@ -3797,6 +3797,7 @@ trace
 Trace.axd
 Trace.axd::$DATA
 trace.json
+transmission/web/
 trivia/
 tst
 twitter/.env
