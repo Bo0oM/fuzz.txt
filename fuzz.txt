@@ -552,6 +552,7 @@
 .zsh_history
 /app/__pycache__/
 /apps/__pycache__/
+/v2/_catalog
 0.htpasswd
 0.php
 0admin/
@@ -2567,6 +2568,8 @@ logs/error.log
 logs/error_log
 logs/liferay.log
 logs/mail.log
+logs/proxy_access_ssl_log
+logs/proxy_error_log
 logs/wsadmin.traceout
 logs/www-error.log
 logs_backup/
