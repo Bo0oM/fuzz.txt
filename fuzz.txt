@@ -1299,6 +1299,7 @@ bin/RhoBundle
 bin/target
 bin/tmp
 Binaries/
+bitbucket-pipelines.yml
 bitrix/
 bitrix/admin/help.php
 bitrix/admin/index.php
