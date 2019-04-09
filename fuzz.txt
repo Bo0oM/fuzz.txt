@@ -550,9 +550,6 @@
 .zfs/
 .zip
 .zsh_history
-/app/__pycache__/
-/apps/__pycache__/
-/v2/_catalog
 0.htpasswd
 0.php
 0admin/
@@ -1104,6 +1101,7 @@ app.js
 app.php
 app/
 app/.htaccess
+app/__pycache__/
 app/bin
 app/bootstrap.php.cache
 app/cache/
@@ -1163,6 +1161,7 @@ application/configs/application.ini
 application/logs/
 AppPackages/
 apps/
+apps/__pycache__/
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
 appveyor.yml
@@ -1299,7 +1298,6 @@ bin/RhoBundle
 bin/target
 bin/tmp
 Binaries/
-bitbucket-pipelines.yml
 bitrix/
 bitrix/admin/help.php
 bitrix/admin/index.php
@@ -3917,6 +3915,7 @@ usuarios/login.php
 utility_login/
 uvpanel/
 uwsgi.ini
+v2/_catalog
 v2/keys/?recursive=true
 vadmind/
 vagrant-spec.config.rb
