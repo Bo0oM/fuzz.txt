@@ -3402,6 +3402,7 @@ robots.txt
 robots.txt.dist
 root/
 RootCA.crt
+roundcube/index.php
 rpc/
 rsconnect/
 rst.php
@@ -3602,6 +3603,7 @@ sqlnet.log
 sqlweb/
 SQLyogTunnel.php
 SqueakDebug.log
+squid-reports/
 src/
 src/app.js
 src/index.js
@@ -3679,7 +3681,7 @@ swagger.json
 swagger.yaml
 swagger/index.html
 swagger/swagger-ui.html
-swagger/v1/swagger.json/
+swagger/v1/swagger.json
 swfobject.js
 swfupload
 swfupload.swf
