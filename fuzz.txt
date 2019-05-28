@@ -2170,6 +2170,11 @@ globes_admin/
 google-services.json
 grabbed.html
 gradle-app.setting
+graphql/
+graphql/console/
+graphql.php
+graphiql/
+graphiql.php
 grappelli/
 gruntfile.coffee
 Gruntfile.coffee
