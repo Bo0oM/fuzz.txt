@@ -5,6 +5,7 @@
 %2e%2e//google.com
 %2e%2e;/test
 %3f/
+_debugbar/open
 %C0%AE%C0%AE%C0%AF
 %ff/
 +CSCOU+/../+CSCOE+/files/file_list.json
