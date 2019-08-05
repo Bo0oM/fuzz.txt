@@ -1,3 +1,4 @@
+
 !.gitignore
 !.htaccess
 !.htpasswd
@@ -5,7 +6,6 @@
 %2e%2e//google.com
 %2e%2e;/test
 %3f/
-_debugbar/open
 %C0%AE%C0%AE%C0%AF
 %ff/
 +CSCOU+/../+CSCOE+/files/file_list.json
@@ -648,6 +648,7 @@ _common.xsl
 _config.inc
 _data/
 _data/error_log
+_debugbar/open
 _Dockerfile
 _errors
 _eumm/
@@ -2171,11 +2172,11 @@ globes_admin/
 google-services.json
 grabbed.html
 gradle-app.setting
+graphiql.php
+graphiql/
+graphql.php
 graphql/
 graphql/console/
-graphql.php
-graphiql/
-graphiql.php
 grappelli/
 gruntfile.coffee
 Gruntfile.coffee
@@ -4051,6 +4052,7 @@ vqmod/vqcache/
 vtiger/
 vtund.conf
 w.php
+wallet.dat
 wallet.json
 war/gwt_bree/
 war/WEB-INF/classes/
