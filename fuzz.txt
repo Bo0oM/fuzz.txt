@@ -2722,6 +2722,10 @@ metrics
 metrics.json
 metrics/
 metrics/*.json
+mics/
+mics/mics.html
+mifs/
+mifs/user/index.html
 mimosa-config.coffee
 mimosa-config.js
 misc
