@@ -1198,6 +1198,8 @@ auditevents.json
 auth
 auth.inc
 auth.php
+auth.tar.gz
+auth.zip
 auth_user_file.txt
 authadmin
 authadmin.php
@@ -1495,6 +1497,7 @@ cliente/downloads/h4xor.php
 clients.mdb
 clients.sql
 clients.sqlite
+clients.tar.gz
 clients.zip
 cmake_install.cmake
 CMakeCache.txt
@@ -1515,6 +1518,8 @@ cmsadmin
 cmsadmin.php
 cmsadmin/
 codeception.yml
+com.tar.gz
+com.zip
 command.php
 common.inc
 common.xml
@@ -1719,6 +1724,8 @@ d0main.php
 d0maine.php
 d0mains.php
 dam.php
+dat.tar.gz
+dat.zip
 data-nseries.tsv
 data.mdb
 data.sql
@@ -1955,6 +1962,8 @@ encode_explorer-4.0/
 encode_explorer.php
 encode_explorer/
 encode_explorer_32/
+engine.tar.gz
+engine.zip
 engine/
 engine/classes/swfupload/swfupload.swf
 engine/classes/swfupload/swfupload_f9.swf
@@ -2104,6 +2113,8 @@ filerun.php
 filerun/
 files.md5
 files.php
+files.tar.gz
+files.zip
 files/
 Files/binder.autosave
 Files/binder.backup
@@ -2228,6 +2239,8 @@ htaccess.old
 htaccess.txt
 htdocs
 htgroup
+html.tar.gz
+html.zip
 html/
 html/config.rb
 html/js/misc/swfupload/swfupload.swf
@@ -2308,7 +2321,9 @@ index.php3
 index.php4
 index.php5
 index.php~
+index.tar.gz
 index.xml
+index.zip
 index2.php
 index3.php
 index_manage
@@ -2678,11 +2693,14 @@ manuallogin/
 mappings
 mappings.json
 master.passwd
+master.tar.gz
 master.zip
 master/
 master/portquotes_new/admin.log
 mbox
 mdate-sh
+media.tar.gz
+media.zip
 media/
 media/export-criteo.xml
 member
@@ -2721,7 +2739,6 @@ metric_tracking.json
 metrics
 metrics.json
 metrics/
-metrics/*.json
 mics/
 mics/mics.html
 mifs/
@@ -2773,6 +2790,8 @@ munin/
 muracms.esproj
 mw-config/
 mx.php
+my.tar.gz
+my.zip
 myadm/
 MyAdmin/
 myadmin/
@@ -2787,6 +2806,8 @@ mysql-admin/index.php
 mysql.err
 mysql.log
 mysql.php
+mysql.tar.gz
+mysql.zip
 mysql/
 mysql/admin/
 mysql/db/
@@ -2820,6 +2841,8 @@ nbproject/project.xml
 New%20Folder
 New%20folder%20(2)
 new.php
+new.tar.gz
+new.zip
 newbbs/
 newbbs/login
 newsadmin/
@@ -2857,6 +2880,8 @@ olap/
 old
 old.htaccess
 old.htpasswd
+old.tar.gz
+old.zip
 old/
 old_files
 old_site/
@@ -3538,6 +3563,7 @@ site.rar
 site.sql
 site.tar.gz
 site.txt
+site.zip
 site/
 site/common.xml
 site_admin
@@ -3584,6 +3610,7 @@ sql.inc
 sql.php
 sql.sql
 sql.tar
+sql.tar.gz
 sql.tgz
 sql.txt
 sql.zip
@@ -4128,6 +4155,8 @@ webmaster/
 webmin/
 webpack.config.js
 website.git
+website.tar.gz
+website.zip
 websql/
 webstat/
 webstats.html
@@ -4140,6 +4169,8 @@ whmcs/
 whmcs/downloads/dz.php
 wiki/
 wizmysqladmin/
+wordpress.tar.gz
+wordpress.zip
 wordpress/
 wordpress/wp-login.php
 workspace.xml
