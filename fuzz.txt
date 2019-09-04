@@ -1862,6 +1862,7 @@ development-parts/
 development.esproj/
 development.log
 development/
+DEADJOE
 df_main.sql
 dfshealth.jsp
 dir-login/
