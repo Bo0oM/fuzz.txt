@@ -1821,6 +1821,7 @@ dbdump.sql
 dbfix/
 dbweb/
 dead.letter
+DEADJOE
 debug
 debug-output.txt
 debug.inc
@@ -1862,9 +1863,9 @@ development-parts/
 development.esproj/
 development.log
 development/
-DEADJOE
 df_main.sql
 dfshealth.jsp
+dhcp_log/
 dir-login/
 dir.php
 directadmin/
@@ -3646,6 +3647,7 @@ sqlweb/
 SQLyogTunnel.php
 SqueakDebug.log
 squid-reports/
+squid3_log/
 src/
 src/app.js
 src/index.js
@@ -4228,6 +4230,7 @@ wsadmin.traceout
 wsadmin.valout
 wsadminListener.out
 wshell.php
+wsman
 WSO.php
 wso.php
 wso2.5.1.php
