@@ -1405,6 +1405,7 @@ ccbill.log
 ccp14admin/
 celerybeat-schedule
 cell.xml
+centreon/
 cert/
 cfexec.cfm
 cfg/
