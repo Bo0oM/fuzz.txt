@@ -1571,6 +1571,7 @@ config.old
 config.php
 config.php-eb
 config.php.bak
+config.php.bkp
 config.php.dist
 config.php.inc
 config.php.inc~
