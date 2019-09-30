@@ -1096,6 +1096,7 @@ api
 api.log
 api/
 api/error_log
+api/login.json
 api/swagger-ui.html
 apibuild.pyc
 app.config
@@ -2580,6 +2581,7 @@ login.asp
 login.cgi
 login.htm
 login.html
+login.json
 login.php
 login/
 login/admin/admin.asp
