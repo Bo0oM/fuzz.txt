@@ -114,10 +114,14 @@
 .empty-folder
 .env
 .env.dev
+.env.dev.local
+.env.development.local
 .env.development.sample
 .env.docker.dev
 .env.php
 .env.prod
+.env.prod.local
+.env.production.local
 .env.sample.php
 .env.test.sample
 .environment
@@ -626,6 +630,7 @@
 9678.php
 \..\..\..\..\..\..\..\..\..\etc\passwd
 _.htpasswd
+__admin
 __cache/
 __dummy.html
 __history/
@@ -1422,6 +1427,7 @@ cgi-bin/php.ini
 cgi-bin/printenv.pl
 cgi-bin/test-cgi
 cgi-bin/test.cgi
+cgi-bin/ViewLog.asp
 cgi-sys/
 cgi-sys/realsignup.cgi
 cgi.pl/
