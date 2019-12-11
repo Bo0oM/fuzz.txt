@@ -745,6 +745,8 @@ accounts.xml
 accounts/
 acct_login/
 activity.log
+actuator
+actuator/env
 ad_login
 ad_manage
 add.php
@@ -1395,6 +1397,7 @@ cache-downloads
 cache/
 cache/sql_error_latest.cgi
 cachemgr.cgi
+caches
 cadmins/
 Cakefile
 Capfile
@@ -1542,6 +1545,7 @@ composer.json
 composer.lock
 composer.phar
 composer/installed.json
+conditions
 conf/
 conf/Catalina
 conf/catalina.policy
@@ -2141,6 +2145,7 @@ flash/ZeroClipboard.swf
 flashFXP.ini
 fluent.conf
 fluent_aggregator.conf
+flyway
 formslogin/
 forum.rar
 forum.sql
@@ -2274,6 +2279,7 @@ httpd/logs/access.log
 httpd/logs/access_log
 httpd/logs/error.log
 httpd/logs/error_log
+httptrace
 hudson/
 hudson/login
 hystrix
@@ -2398,6 +2404,7 @@ installer.php
 installer_files/
 install~/
 instance/
+integrationgraph
 Intermediate/
 invoker/
 invoker/JMXInvokerServlet
@@ -2429,6 +2436,7 @@ jmx-console
 jmx-console/
 jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
+jolokia
 jolokia/
 joomla.rar
 joomla.xml
@@ -2512,6 +2520,7 @@ linkhub/
 linkhub/linkhub.log
 linktous.html
 linusadmin-phpinfo.php
+liquibase
 list_emails
 listener.log
 lists/
@@ -2685,6 +2694,8 @@ manage_index
 management
 management.php
 management/
+management/configprops
+management/env
 manager
 manager.php
 manager/
@@ -3471,6 +3482,7 @@ salesforce.schema
 sample.txt
 sample.txt~
 Saved/
+scheduledtasks
 schema.sql
 schema.yml
 script/
@@ -3530,6 +3542,7 @@ servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
 servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
 servlet/SnoopServlet
 session/
+sessions
 sessions/
 settings.php
 settings.php.bak
@@ -3559,6 +3572,7 @@ shellz.php
 shopdb/
 showcode.asp
 showlogin/
+shutdown
 sidekiq_monitor
 sign-in
 sign-in/
@@ -3863,6 +3877,7 @@ themes
 themes/
 themes/default/htdocs/flash/ZeroClipboard.swf
 Thorfile
+threaddump
 Thumbs.db
 thumbs.db
 thumbs/
