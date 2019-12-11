@@ -95,6 +95,8 @@
 .cvsignore
 .dart_tool/
 .dat
+.db.xml
+.db.yaml
 .deployignore
 .dev/
 .directory
@@ -1797,6 +1799,8 @@ Db.script
 db.sql
 db.sqlite
 db.sqlite3
+db.yaml
+db.xml
 db/
 db/db-admin/
 db/dbadmin/
