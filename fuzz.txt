@@ -23,6 +23,7 @@
 .aws/credentials
 .axoCover/
 .babelrc
+.backup
 .bak
 .bash_history
 .bash_logout
@@ -48,6 +49,7 @@
 .cabal-sandbox/
 .cache
 .cache/
+.canna
 .capistrano
 .capistrano/
 .capistrano/metrics
@@ -111,6 +113,7 @@
 .elasticbeanstalk/
 .elb
 .elc
+.emacs
 .emacs.desktop
 .emacs.desktop.lock
 .empty-folder
@@ -150,6 +153,7 @@
 .fontconfig/
 .fontcustom-manifest.json
 .forward
+.ftp
 .ftp-access
 .ftppass
 .ftpquota
@@ -188,6 +192,7 @@
 .gradletasknamecache
 .grunt
 .grunt/
+.gtkrc
 .guile_history
 .gwt-tmp/
 .gwt/
@@ -284,10 +289,13 @@
 .jekyll-metadata
 .jestrc
 .joe_state
+.jpilot
 .jscsrc
 .jshintignore
 .jshintrc
+.jsp
 .JustCode
+.kde
 .keep
 .kitchen.local.yml
 .kitchen.yml
@@ -326,6 +334,7 @@
 .maintenance2
 .mc
 .mc/
+.members
 .memdump
 .mergesources.yml
 .merlin
@@ -362,6 +371,7 @@
 .nra.cache
 .nrepl-port
 .nsconfig
+.nsf
 .ntvs_analysis.dat
 .nuget/
 .nuget/packages.config
@@ -373,7 +383,12 @@
 .ost
 .packages
 .paket/
+.pass
+.passes
 .passwd
+.password
+.passwords
+.passwrd
 .patches/
 .pdf
 .perf
@@ -403,6 +418,7 @@
 .psqlrc
 .pst
 .pub/
+.pwd
 .pydevproject
 .pytest_cache/
 .Python
@@ -425,6 +441,7 @@
 .repl_history
 .revision
 .Rhistory
+.rhost
 .rhosts
 .robots.txt
 .rocketeer/
@@ -459,6 +476,7 @@
 .sh_history
 .shrc
 .sln
+.smileys
 .smushit-status
 .spamassassin
 .spyderproject
@@ -534,7 +552,9 @@
 .Trashes
 .travis.yml
 .tx/
+.txt
 .user.ini
+.users
 .vacation.cache
 .vagrant
 .venv
@@ -557,6 +577,7 @@
 .zfs/
 .zip
 .zsh_history
+.zshrc
 0.htpasswd
 0.php
 0admin/
@@ -733,6 +754,7 @@ access-log.1
 access.1
 access.log
 access.php
+access.txt
 access/
 access_.log
 access_log
@@ -746,6 +768,7 @@ accounts.txt
 accounts.xml
 accounts/
 acct_login/
+activemq/
 activity.log
 actuator
 actuator/env
@@ -1089,6 +1112,7 @@ amad.php
 amministratore.php
 analog.html
 anchor/errors.log
+ansible/
 answers/
 answers/error_log
 apache/
@@ -1189,6 +1213,7 @@ archive.zip
 article/
 article/admin
 article/admin/admin.asp
+artifactory/
 artifacts/
 ASALocalRun/
 asp.aspx
@@ -1201,6 +1226,7 @@ assets/fckeditor
 assets/js/fckeditor
 assets/npm-debug.log
 asterisk.log
+asterisk/
 AT-admin.cgi
 atlassian-ide-plugin.xml
 auditevents
@@ -1233,6 +1259,8 @@ autologin/
 autom4te.cache
 autoscan.log
 AutoTest.Net/
+av/
+aws/
 awstats
 awstats.conf
 awstats.pl
@@ -1275,6 +1303,8 @@ backups.tgz
 backups.zip
 backups/
 bak/
+bamb/
+bamboo/
 banner.swf
 banneradmin/
 base/
@@ -1296,6 +1326,7 @@ beans.json
 behat.yml
 BenchmarkDotNet.Artifacts/
 Berksfile
+beta
 bigadmin/
 bigdump.php
 billing
@@ -1366,6 +1397,7 @@ brunch-config.coffee
 brunch-config.js
 buck.sql
 buffer.conf
+bugs
 Build
 build
 build-iPhoneOS/
@@ -1403,9 +1435,11 @@ caches
 cadmins/
 Cakefile
 Capfile
+capistrano/
 captures/
 Cargo.lock
 Carthage/Build
+cassandra/
 catalog.wci
 CATKIN_IGNORE
 cbx-portal/
@@ -1472,13 +1506,16 @@ checked_accounts.txt
 checklogin
 checklogin.php
 checkouts/
+checkstyle/
 checkuser
 checkuser.php
+chef/
 Cheffile
 chefignore
 chkadmin
 chklogin
 chubb.xml
+ci/
 cidr.txt
 circle.yml
 Citrix/
@@ -1531,6 +1568,9 @@ cmsadmin
 cmsadmin.php
 cmsadmin/
 codeception.yml
+codeship/
+collectd/
+collectl/
 com.tar.gz
 com.zip
 command.php
@@ -1548,6 +1588,7 @@ composer.lock
 composer.phar
 composer/installed.json
 conditions
+conf
 conf/
 conf/Catalina
 conf/catalina.policy
@@ -1659,6 +1700,7 @@ connect.inc
 console/
 console/base/config.json
 console/payments/config.json
+consul/
 content/
 content/debug.log
 CONTRIBUTING.md
@@ -1782,6 +1824,7 @@ Database_Administration/
 Database_Backup/
 database_credentials.inc
 databases.yml
+datadog/
 dataobject.ini
 davmail.log
 DB
@@ -1799,8 +1842,8 @@ Db.script
 db.sql
 db.sqlite
 db.sqlite3
-db.yaml
 db.xml
+db.yaml
 db/
 db/db-admin/
 db/dbadmin/
@@ -1850,6 +1893,7 @@ debug.xml
 debug/
 debug_error.jsp
 delete.php
+demo
 demo.php
 demo/
 demo/ejb/index.html
@@ -1867,9 +1911,11 @@ deps
 deps/deps.jl
 DerivedData/
 DerivedDataCache/
+desk/
 Desktop.ini
 desktop/
 desktop/index_framed.htm
+dev
 dev.php
 dev/
 devdata.db
@@ -1895,6 +1941,7 @@ doc/
 doc/api/
 docker-compose-dev.yml
 docker-compose.yml
+docker/
 Dockerfile
 DocProject/buildhelp/
 DocProject/Help/html
@@ -1961,6 +2008,8 @@ editors/
 editors/FCKeditor
 eggs/
 ehthumbs.db
+elastic/
+elasticsearch/
 elfinder/
 elfinder/elfinder.php
 elm-stuff
@@ -2027,6 +2076,7 @@ errors.txt
 errors/
 errors/creation
 errors/local.xml
+etc
 etc/
 etc/config.ini
 etc/database.xml
@@ -2037,6 +2087,7 @@ eudora.ini
 eula.txt
 eula_en.txt
 example.php
+examples
 examples/
 examples/jsp/%252e%252e/%252e%252e/manager/html/
 examples/jsp/snp/snoop.jsp
@@ -2044,6 +2095,7 @@ examples/servlet/SnoopServlet
 examples/servlets/servlet/CookieExample
 examples/servlets/servlet/RequestHeaderExample
 exception.log
+exec
 expires.conf
 exploded-archives/
 explore
@@ -2069,6 +2121,7 @@ extjs/
 extjs/resources//charts.swf
 extras/documentation
 ezsqliteadmin/
+fabric/
 fake-eggs/
 FakesAssemblies/
 FAQ
@@ -2144,6 +2197,7 @@ files/tmp/
 Files/user.lock
 fileupload/
 filezilla.xml
+findbugs/
 flash/
 flash/ZeroClipboard.swf
 flashFXP.ini
@@ -2171,6 +2225,8 @@ fuel/app/config/
 fuel/app/logs/
 function.require
 functions/
+ganglia/
+gateway/
 gaza.php
 gbpass.pl
 Gemfile
@@ -2181,10 +2237,13 @@ Generated_Code/
 get.php
 getFile.cfm
 git-service
+git/
 github-cache
 github-recovery-codes.txt
+github/
 gitlab/
 gitlog
+gl/
 global
 global.asa
 global.asa.bak
@@ -2201,15 +2260,21 @@ global.asax.tmp
 globals
 globals.inc
 globes_admin/
+glpi/
 google-services.json
 grabbed.html
 gradle-app.setting
+gradle/
+grafana/
 graphiql.php
 graphiql/
+graphite/
 graphql.php
 graphql/
 graphql/console/
 grappelli/
+graylog/
+groovy/
 gruntfile.coffee
 Gruntfile.coffee
 GruntFile.coffee
@@ -2228,6 +2293,7 @@ gulpfile.js
 Gulpfile.js
 gwt-unitCache/
 h2console
+haproxy/
 health
 health.json
 heapdump
@@ -2288,6 +2354,7 @@ hudson/
 hudson/login
 hystrix
 i.php
+icinga/
 id_dsa
 id_dsa.ppk
 id_rsa
@@ -2349,6 +2416,7 @@ index2.php
 index3.php
 index_manage
 Indy_admin/
+influxdb/
 info
 info.json
 info.php
@@ -2423,6 +2491,7 @@ isadmin
 isadmin.php
 ispmgr/
 j2ee/servlet/SnoopServlet
+jacoco/
 Jakefile
 javascripts/bundles
 javax.faces.resource.../
@@ -2434,8 +2503,10 @@ jboss/server/default/log/
 jboss/server/minimal/deploy/project.ext
 jbossws/services
 jdbc
+jenkins/
 Jenkinsfile
 jira/
+jk/
 jmx-console
 jmx-console/
 jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
@@ -2467,13 +2538,20 @@ jsp-reverse.jsp
 jsp/viewer/snoop.jsp
 jspm_packages/
 jssresource/
+juju/
+junit/
+kafka/
+kairosdb/
 karma.conf.js
 kcfinder/
 kcfinder/browse.php
 keys.json
+kibana/
 killer.php
 kpanel/
 kube/
+kuber/
+kubernetes/
 l0gs.txt
 L3b.php
 lander.logs
@@ -2482,9 +2560,11 @@ latest/user-data
 layouts/
 ldap.prop
 ldap.prop.sample
+ldap/
 letmein
 letmein.php
 letmein/
+level
 lg/
 lg/lg.conf
 lia.cache
@@ -2652,6 +2732,7 @@ logs/wsadmin.traceout
 logs/www-error.log
 logs_backup/
 logs_console/
+logstash/
 lol.php
 Lotus_Domino_Admin/
 ltmain.sh
@@ -2724,7 +2805,10 @@ master.tar.gz
 master.zip
 master/
 master/portquotes_new/admin.log
+mattermost/
+maven/
 mbox
+mcollective/
 mdate-sh
 media.tar.gz
 media.zip
@@ -2751,16 +2835,20 @@ members.txt
 members.xls
 members/
 membersonly
+memcached/
 memlogin/
 mercurial.ini
+mercurial/
 Mercury.modules
 Mercury/
+mesos/
 META-INF/
 META-INF/context.xml
 META.json
 META.yml
 meta_login/
 metadata.rb
+metric/
 metric_tracking
 metric_tracking.json
 metrics
@@ -2772,6 +2860,7 @@ mifs/
 mifs/user/index.html
 mimosa-config.coffee
 mimosa-config.js
+mirror/
 misc
 missing
 mkdocs.yml
@@ -2803,6 +2892,10 @@ Module.symvers
 modules.order
 modules/
 modules/admin/
+mongo/
+mongodb/
+monit/
+monitor
 monitor/
 monitoring
 monitoring/
@@ -2853,6 +2946,7 @@ mysqladmin/scripts/setup.php
 mysqldumper/
 mysqlitedb.db
 mysqlmanager/
+naginator/
 nagios/
 nano.save
 native_stderr.log
@@ -2865,6 +2959,7 @@ nbproject/private/private.properties
 nbproject/private/private.xml
 nbproject/project.properties
 nbproject/project.xml
+netdata/
 New%20Folder
 New%20folder%20(2)
 new.php
@@ -2873,6 +2968,7 @@ new.zip
 newbbs/
 newbbs/login
 newsadmin/
+nfs/
 ng-cli-backup.json
 nginx-access.log
 nginx-error.log
@@ -2914,8 +3010,11 @@ old_files
 old_site/
 oldfiles
 opa-debug-js
-open-flash-chart.swf?get-data=(function(){alert(document.domain)})()
+open-flash-chart.swf?get-data=xss
 OpenCover/
+openshift/
+openstack/
+opentsdb/
 openvpnadmin/
 operador/
 operator/
@@ -2935,6 +3034,7 @@ orders.xls
 orders_log
 orleans.codegen.cs
 ospfd.conf
+otrs/
 out.txt
 out/
 output
@@ -2948,7 +3048,9 @@ package-cache
 package-lock.json
 package.json
 Package.StoreAssociation.xml
+package/
 packer_cache/
+pagerduty/
 pages/
 pages/admin/
 pages/admin/admin-login
@@ -2999,6 +3101,7 @@ payment.log
 payment_authorizenet.log
 payment_paypal_express.log
 pbmadmin/
+pbx/
 pentaho/
 perl-reverse-shell.pl
 perlcmd.cgi
@@ -3011,6 +3114,7 @@ pgadmin.log
 pgadmin/
 PharoDebug.log
 phinx.yml
+phoenix
 php
 php-backdoor.php
 php-cgi.core
@@ -3076,13 +3180,14 @@ phpinfos.php
 phpini.bak
 phpldapadmin
 phpldapadmin/
-phpliteadmin 2.php
+phpliteadmin%202.php
 phpliteadmin.php
 phpLiteAdmin/
 phpLiteAdmin_/
 phpm/
 phpma/
 phpma/index.php
+phpmailer
 phpmanager/
 phpmem/
 phpmemcachedadmin/
@@ -3276,6 +3381,7 @@ play-stash
 player.swf
 playground.xcworkspace
 plugin.xml
+plugins
 plugins.log
 plugins/
 plugins/editors/fckeditor
@@ -3354,6 +3460,7 @@ project.xml
 project/project
 project/target
 prometheus
+prometheus/
 prometheus/targets
 propel.ini
 protected/data/
@@ -3361,6 +3468,7 @@ protected/runtime/
 providers.json
 proxy.pac
 proxy.stream?origin=https://google.com
+proxy/
 prv/
 PSUser/
 public
@@ -3372,6 +3480,7 @@ publication_list.xml
 publish/
 PublishScripts/
 pubspec.lock
+puppet/
 pureadmin/
 putty.reg
 pw.txt
@@ -3392,10 +3501,13 @@ r57eng.php
 r57shell.php
 r58.php
 r99.php
+rabbitmq/
+radius/
 radmind-1/
 radmind/
 rails/info/properties
 Rakefile
+raygun/
 rcf/
 rcjakar/
 rcjakar/admin/login.php
@@ -3429,11 +3541,13 @@ README.TXT
 ReadMe.txt
 Readme.txt
 recentservers.xml
+redis/
 redmine/
 refresh
 refresh.json
 register.php
 registration/
+registry/
 rel/example_project
 release.properties
 RELEASE_NOTES.txt
@@ -3443,6 +3557,7 @@ relogin.html
 relogin.php
 remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+repo/
 request.log
 rerun.txt
 reseller
@@ -3472,6 +3587,7 @@ roundcube/index.php
 rpc/
 rsconnect/
 rst.php
+rudder/
 RushSite.xml
 s.php
 sa.php
@@ -3483,9 +3599,12 @@ sales.sql.gz
 sales.txt
 sales.xls
 salesforce.schema
+saltstack/
 sample.txt
 sample.txt~
 Saved/
+sbt/
+scalyr/
 scheduledtasks
 schema.sql
 schema.yml
@@ -3501,6 +3620,7 @@ sdb.php
 sdist/
 searchreplacedb2.php
 searchreplacedb2cli.php
+secret
 Secret/
 secret/
 secrets/
@@ -3509,8 +3629,11 @@ secring.pgp
 secring.skr
 secure/
 security/
+selenium/
 sendgrid.env
+sensu/
 sentemails.log
+sentry/
 serv-u.ini
 Server
 server-info
@@ -3574,6 +3697,7 @@ shell.sh
 shell/
 shellz.php
 shopdb/
+show
 showcode.asp
 showlogin/
 shutdown
@@ -3588,6 +3712,7 @@ signin/
 signup.action
 simple-backdoor.php
 simpleLogin/
+sip/
 site
 site.rar
 site.sql
@@ -3615,10 +3740,14 @@ sized/
 slapd.conf
 smblogin/
 snoop.jsp
+snort/
 soap/
 soapdocs/
 soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 soapserver/
+sonar/
+sonarcube/
+sonarqube/
 source
 source.php
 source/
@@ -3633,6 +3762,7 @@ spec/lib/database.yml
 spec/lib/settings.local.yml
 spec/reports/
 spec/tmp
+splunk/
 spwd.db
 spy.aspx
 sql-admin/
@@ -3675,6 +3805,7 @@ sqlweb/
 SQLyogTunnel.php
 SqueakDebug.log
 squid-reports/
+squid/
 squid3_log/
 src/
 src/app.js
@@ -3687,6 +3818,7 @@ ssh/
 sshadmin/
 ssl/
 st.php
+stackstorm/
 stacktrace.log
 staff/
 stamp-h1
@@ -3695,6 +3827,8 @@ start.html
 start.sh
 startServer.log
 startup.sh
+stas/
+stash/
 stat/
 static..
 static/dump.sql
@@ -3702,6 +3836,7 @@ statistics
 statistics/
 stats
 stats/
+statsd/
 status.xsl
 status/
 status?full=true
@@ -3715,6 +3850,7 @@ stssys.htm
 StyleCopReport.xml
 stylesheets/bundles
 sub-login/
+subversion/
 sugarcrm.log
 supe.php
 super
@@ -3739,14 +3875,16 @@ supervise/
 supervise/Logi.php
 supervise/Login
 supervisor/
+supervisord/
+support/
 support_login/
 surgemail/
 surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
 surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
 suspended.page
 svn.revision
-SVN/
 svn/
+SVN/
 swagger-resources
 swagger-ui.html
 swagger.json
@@ -3814,7 +3952,9 @@ tar.bz2
 tar.gz
 target
 target/
+tasks/
 tconn.conf
+team/
 technico.txt
 telephone
 telphin.log
@@ -3832,6 +3972,7 @@ templates/protostar/
 templates/rhuk_milkyway/index.php
 templates/system/
 templates_c/
+teraform/
 test
 test-build/
 test-driver
@@ -3895,9 +4036,10 @@ tinyfilemanager-2.2.0/
 tinyfilemanager-2.3/
 tinyfilemanager.php
 tinyfilemanager/
+tinymce
 tinymce/
-TMP
 tmp
+TMP
 tmp/
 tmp/2.php
 tmp/access.log
@@ -3947,6 +4089,7 @@ Trace.axd
 Trace.axd::$DATA
 trace.json
 transmission/web/
+tripwire/
 trivia/
 tsconfig.json
 tst
@@ -3978,7 +4121,9 @@ upgrade.php
 upgrade.readme
 UPGRADE.txt
 UpgradeLog.XML
+upguard/
 upl.php
+upload
 Upload
 upload.asp
 upload.aspx
@@ -4032,6 +4177,7 @@ user_guide_src/cilexer/pycilexer.egg-info/
 user_uploads
 useradmin
 useradmin/
+userdb
 UserFile
 UserFiles
 userfiles
@@ -4066,6 +4212,7 @@ v2/_catalog
 v2/keys/?recursive=true
 vadmind/
 vagrant-spec.config.rb
+vagrant/
 Vagrantfile
 Vagrantfile.backup
 validator.php
@@ -4085,6 +4232,8 @@ var/log/payment_paypal_express.log
 var/logs/
 var/package/
 var/sessions/
+variant/
+vault/
 vb.rar
 vb.sql
 vb.zip
@@ -4102,7 +4251,9 @@ version/
 video-js.swf
 view-source
 view.php
+views
 vignettes/
+violations/
 vmailadmin/
 vorod
 vorod.php
@@ -4173,12 +4324,14 @@ webadmin/index.html
 webadmin/index.php
 webadmin/login.html
 webadmin/login.php
+webalizer
 webdav.password
 webdav/
 webdav/index.html
 webdav/servlet/webdav/
 webdb/
 webgrind
+weblogs
 webmail/
 webmail/src/configtest.php
 webmaster
@@ -4190,7 +4343,9 @@ website.git
 website.tar.gz
 website.zip
 websql/
+webstat
 webstat/
+webstats
 webstats.html
 webstats/
 weixiao.php
@@ -4278,6 +4433,7 @@ www.zip
 www/phpMyAdmin/index.php
 wwwboard/
 wwwboard/passwd.txt
+wwwlog
 wwwroot.7z
 wwwroot.rar
 wwwroot.sql
@@ -4286,6 +4442,7 @@ wwwroot.tar.bz2
 wwwroot.tar.gz
 wwwroot.tgz
 wwwroot.zip
+wwwstat
 wwwstats.htm
 x.php
 xampp/
@@ -4334,6 +4491,7 @@ zehir.php
 zeroclipboard.swf
 zf_backend.php
 zimbra/
+zipkin/
 zone-h.php
 ~/
 ~admin/
