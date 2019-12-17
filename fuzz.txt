@@ -297,6 +297,7 @@
 .JustCode
 .kde
 .keep
+.keys.yml
 .kitchen.local.yml
 .kitchen.yml
 .kitchen/
@@ -771,7 +772,11 @@ acct_login/
 activemq/
 activity.log
 actuator
+actuator/dump
 actuator/env
+actuator/logfile
+actuator/mappings
+actuator/trace
 ad_login
 ad_manage
 add.php
@@ -1126,11 +1131,14 @@ apc/
 apc/apc.php
 apc/index.php
 api
+api-doc
+api-docs
 api.log
 api/
 api/error_log
 api/login.json
 api/swagger-ui.html
+api/swagger.yml
 apibuild.pyc
 app.config
 app.js
@@ -1268,6 +1276,7 @@ awstats/
 azureadmin/
 b2badmin/
 back.sql
+backoffice/
 backup
 backup.7z
 backup.htpasswd
@@ -1336,6 +1345,7 @@ bin-debug/
 bin-release/
 bin/
 bin/config.sh
+bin/hostname
 bin/libs
 bin/reset-db-prod.sh
 bin/reset-db.sh
@@ -1549,6 +1559,7 @@ clients.sql
 clients.sqlite
 clients.tar.gz
 clients.zip
+cloud/
 cmake_install.cmake
 CMakeCache.txt
 CMakeFiles
@@ -1567,6 +1578,7 @@ cms/Web.config
 cmsadmin
 cmsadmin.php
 cmsadmin/
+cmscockpit/
 codeception.yml
 codeship/
 collectd/
@@ -1634,6 +1646,7 @@ config.php.old
 config.php.save
 config.php.swp
 config.php.txt
+config.php.zip
 config.php~
 config.rb
 config.ru
@@ -1689,6 +1702,7 @@ configuration.php.old
 configuration.php.save
 configuration.php.swp
 configuration.php.txt
+configuration.php.zip
 configuration.php~
 configuration/
 configure
@@ -1741,6 +1755,7 @@ cpbt.php
 cpn.php
 craft/
 crash.log
+credentials
 credentials.xml
 credentials/
 credentials/gcloud.json
@@ -1756,6 +1771,7 @@ cron_sku.log
 crond/
 crond/logs/
 cronlog.txt
+cscockpit/
 csdp.cache
 css.php
 csx/
@@ -1954,6 +1970,7 @@ doctrine/schema/eirec.yml
 doctrine/schema/tmx.yml
 documentation/
 documentation/config.yml
+dokuwiki/
 dom.php
 domcfg.nsf
 down/
@@ -2014,6 +2031,7 @@ elfinder/
 elfinder/elfinder.php
 elm-stuff
 elmah.axd
+email/
 encode-explorer.php
 encode-explorer_5.0/
 encode-explorer_5.1/
@@ -2269,6 +2287,7 @@ grafana/
 graphiql.php
 graphiql/
 graphite/
+graphql.js
 graphql.php
 graphql/
 graphql/console/
@@ -2293,6 +2312,7 @@ gulpfile.js
 Gulpfile.js
 gwt-unitCache/
 h2console
+hac/
 haproxy/
 health
 health.json
@@ -2300,6 +2320,7 @@ heapdump
 heapdump.json
 HISTORY
 HISTORY.txt
+hmc/
 HNAP1/
 hndUnblock.cgi
 home.html
@@ -2367,6 +2388,7 @@ images/Sym.php
 import.php
 import/
 import_error.log
+importcockpit/
 in/
 inc/
 inc/config.inc
@@ -2513,6 +2535,7 @@ jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
 jolokia
 jolokia/
+jolokia/list
 joomla.rar
 joomla.xml
 joomla.zip
@@ -2520,7 +2543,11 @@ joomla/
 joomla/administrator
 js/
 js/elfinder/elfinder.php
+js/envConfig.js
 js/FCKeditor
+js/prepod.js
+js/prod.js
+js/qa.js
 js/routing
 js/swfupload/swfupload.swf
 js/swfupload/swfupload_f9.swf
@@ -2596,6 +2623,7 @@ license.php
 license.txt
 LICENSE.txt
 liferay.log
+liferay/
 lighttpd.access.log
 lighttpd.error.log
 lilo.conf
@@ -2750,6 +2778,7 @@ magmi/
 magmi/conf/magmi.ini
 mail
 mail.log
+mail/
 mailer/.env
 mailman/
 mailman/listinfo
@@ -2968,6 +2997,7 @@ new.zip
 newbbs/
 newbbs/login
 newsadmin/
+nextcloud/
 nfs/
 ng-cli-backup.json
 nginx-access.log
@@ -3034,6 +3064,7 @@ orders.xls
 orders_log
 orleans.codegen.cs
 ospfd.conf
+osticket/
 otrs/
 out.txt
 out/
@@ -3041,6 +3072,7 @@ output
 output-build.txt
 output/
 OWA/
+owncloud/
 p.php
 p/
 p/m/a/
@@ -3448,6 +3480,7 @@ Procfile
 Procfile.dev
 Procfile.offline
 product.json
+productcockpit/
 production.log
 profiles
 profiles.xml
@@ -3701,6 +3734,7 @@ show
 showcode.asp
 showlogin/
 shutdown
+sidekiq
 sidekiq_monitor
 sign-in
 sign-in/
@@ -4109,6 +4143,7 @@ uber/
 uber/phpMemcachedAdmin/
 uber/phpMyAdmin/
 uber/phpMyAdminBackup/
+ui/
 unattend.txt
 up.php
 update
@@ -4208,6 +4243,11 @@ usuarios/login.php
 utility_login/
 uvpanel/
 uwsgi.ini
+v1/
+v1/public/yql
+v1/test/js/console.html
+v1/test/js/console_ajax.js
+v2/
 v2/_catalog
 v2/keys/?recursive=true
 vadmind/
@@ -4378,6 +4418,7 @@ wp-config.php.old
 wp-config.php.save
 wp-config.php.swp
 wp-config.php.txt
+wp-config.php.zip
 wp-config.php~
 wp-content/
 wp-content/backup-db/
