@@ -3592,6 +3592,7 @@ remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 repo/
 request.log
+requirements.txt
 rerun.txt
 reseller
 resources.xml
