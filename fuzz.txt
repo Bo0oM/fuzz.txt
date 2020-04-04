@@ -1275,6 +1275,7 @@ awstats.pl
 awstats/
 azureadmin/
 b2badmin/
+babel.config.js
 back.sql
 backoffice/
 backup
@@ -4282,6 +4283,7 @@ vendor/
 vendor/assets/bower_components
 vendor/bundle
 vendor/composer/installed.json
+vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 vendors/
 venv.bak/
 venv/
