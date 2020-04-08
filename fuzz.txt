@@ -3040,6 +3040,7 @@ old/
 old_files
 old_site/
 oldfiles
+ona
 opa-debug-js
 open-flash-chart.swf?get-data=xss
 OpenCover/
