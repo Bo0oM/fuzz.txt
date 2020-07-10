@@ -3027,6 +3027,7 @@ nwp-content/
 nwp-content/plugins/disqus-comment-system/disqus.php
 nytprof.out
 obj/
+ocp.php
 odbc
 Office/
 Office/graph.php
@@ -3874,6 +3875,7 @@ statistics/
 stats
 stats/
 statsd/
+status.php
 status.xsl
 status/
 status?full=true
@@ -4146,6 +4148,8 @@ uber/
 uber/phpMemcachedAdmin/
 uber/phpMyAdmin/
 uber/phpMyAdminBackup/
+uddi
+uddiexplorer
 ui/
 unattend.txt
 up.php
@@ -4437,6 +4441,7 @@ wp-content/plugins/hello.php
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/uploads/dump.sql
+wp-content/uploads/file-manager/log.txt
 wp-includes/
 wp-includes/rss-functions.php
 wp-json/
@@ -4507,6 +4512,7 @@ xmlrpc.php
 xmlrpc_server.php
 xphperrors.log
 xphpMyAdmin/
+xprober.php
 xshell.php
 xsl/
 xsl/_common.xsl
