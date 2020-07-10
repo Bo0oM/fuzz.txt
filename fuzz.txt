@@ -579,11 +579,6 @@
 .zip
 .zsh_history
 .zshrc
-/api/swagger-ui.html
-/swagger-ui.html
-/swagger/index.html
-/swagger/swagger-ui.html
-/v1.x/swagger-ui.html
 0.htpasswd
 0.php
 0admin/
