@@ -4577,3 +4577,5 @@ zipkin/
 zone-h.php
 ~/
 ~admin/
+bitbucket-pipelines.yml
+azure-pipelines.yml
