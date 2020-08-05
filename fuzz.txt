@@ -1212,6 +1212,7 @@ application/
 application/cache/
 application/configs/application.ini
 application/logs/
+apply.cgi
 AppPackages/
 apps/
 apps/__pycache__/
@@ -1290,6 +1291,7 @@ backoffice/
 backoffice/v1/ui
 backup
 backup.7z
+backup.cfg
 backup.htpasswd
 backup.inc
 backup.inc.old
@@ -2907,6 +2909,7 @@ mifs/
 mifs/user/index.html
 mimosa-config.coffee
 mimosa-config.js
+mirror.cfg
 mirror/
 misc
 missing
@@ -3883,6 +3886,7 @@ staradmin/
 start.html
 start.sh
 startServer.log
+startup.cfg
 startup.sh
 stas/
 stash/
