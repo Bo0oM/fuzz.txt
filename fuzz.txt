@@ -1159,6 +1159,8 @@ api
 api-doc
 api-docs
 api.log
+api.py
+api.php
 api/
 api/2/explore/
 api/error_log
@@ -2264,6 +2266,7 @@ Files/user.lock
 fileupload/
 filezilla.xml
 findbugs/
+firebase-debug.log
 flash/
 flash/ZeroClipboard.swf
 flashFXP.ini
