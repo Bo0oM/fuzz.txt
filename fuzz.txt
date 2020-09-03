@@ -2037,6 +2037,7 @@ downloader/connect.cfg
 downloads/
 downloads/dom.php
 dra.php
+duckrails/mocks/
 dummy
 dummy.php
 dump
