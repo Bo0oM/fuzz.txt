@@ -1256,6 +1256,7 @@ archive.sql
 archive.tar
 archive.tar.gz
 archive.zip
+archive.tgz
 article/
 article/admin
 article/admin/admin.asp
@@ -1316,8 +1317,10 @@ azureadmin/
 b2badmin/
 babel.config.js
 back.sql
+back_office.php
 backoffice/
 backoffice/v1/ui
+backoffice.php
 backup
 backup.7z
 backup.cfg
@@ -1682,6 +1685,8 @@ config.ini.txt
 config.json
 config.json.cfm
 config.local
+config.local.php~
+config.local.php_old
 config.old
 config.php
 config.php-eb
@@ -1806,6 +1811,7 @@ cpn.php
 craft/
 crash.log
 credentials
+credentials.txt
 credentials.xml
 credentials/
 credentials/gcloud.json
@@ -2026,6 +2032,7 @@ documentation/config.yml
 dokuwiki/
 dom.php
 domcfg.nsf
+door.php
 down/
 down/login
 download/
@@ -2056,6 +2063,8 @@ dump.tar
 dump.tar.bz2
 dump.tar.gz
 dump.tgz
+dump.txt
+dump.sql.tgz
 dump.zip
 dump/
 dumper.php
@@ -2718,6 +2727,8 @@ local_bd_new.txt
 local_bd_old.txt
 local_settings.py
 localhost.sql
+local_conf.php.bak
+local_conf.php.bac
 localsettings.php.bak
 localsettings.php.dist
 localsettings.php.old
@@ -3893,6 +3904,7 @@ spec/tmp
 splunk/
 spwd.db
 spy.aspx
+store.tgz
 sql-admin/
 sql.inc
 sql.php
@@ -4088,6 +4100,7 @@ tar.bz2
 tar.gz
 target
 target/
+tar.php
 tasks/
 tconn.conf
 team/
@@ -4176,6 +4189,7 @@ tinymce
 tinymce/
 tmp
 TMP
+tmp.php
 tmp/
 tmp/2.php
 tmp/access.log
@@ -4217,6 +4231,7 @@ tmp/xd.php
 TODO
 tomcat-docs/appdev/sample/web/hello.jsp
 tools
+tools.php
 tools/
 tools/_backups/
 tools/phpMyAdmin/index.php
