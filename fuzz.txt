@@ -1271,6 +1271,7 @@ assets/
 assets/fckeditor
 assets/js/fckeditor
 assets/npm-debug.log
+assets/pubspec.yaml
 asterisk.log
 asterisk/
 AT-admin.cgi
