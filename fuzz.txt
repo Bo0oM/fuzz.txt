@@ -594,6 +594,7 @@
 1.tar.gz
 1.txt
 1.zip
+10-flannel.conf
 123.php
 123.txt
 1c/
@@ -790,6 +791,7 @@ account.html
 account.php
 accounts
 accounts.php
+accounts.sql
 accounts.txt
 accounts.xml
 accounts/
@@ -1125,6 +1127,7 @@ admins/log.txt
 adminsite/
 AdminTools/
 adminuser
+admission_controller_config.yaml
 admloginuser.php
 admpar/
 admpar/.ftppass
@@ -1164,6 +1167,7 @@ api.py
 api/
 api/2/explore/
 api/error_log
+api/jsonws
 api/login.json
 api/package_search/v4/documentation
 api/swagger
@@ -1175,6 +1179,11 @@ api/v3
 apibuild.pyc
 apidoc
 apidocs
+apiserver-aggregator-ca.cert
+apiserver-aggregator.cert
+apiserver-aggregator.key
+apiserver-client.crt
+apiserver-key.pem
 app.config
 app.js
 app.php
@@ -1255,8 +1264,8 @@ archive.rar
 archive.sql
 archive.tar
 archive.tar.gz
-archive.zip
 archive.tgz
+archive.zip
 article/
 article/admin
 article/admin/admin.asp
@@ -1277,6 +1286,7 @@ asterisk.log
 asterisk/
 AT-admin.cgi
 atlassian-ide-plugin.xml
+audit.log
 auditevents
 auditevents.json
 auth
@@ -1319,9 +1329,9 @@ b2badmin/
 babel.config.js
 back.sql
 back_office.php
+backoffice.php
 backoffice/
 backoffice/v1/ui
-backoffice.php
 backup
 backup.7z
 backup.cfg
@@ -1363,6 +1373,7 @@ bamboo/
 banner.swf
 banneradmin/
 base/
+basic_auth.csv
 bb-admin/
 bb-admin/admin
 bb-admin/admin.html
@@ -1485,6 +1496,8 @@ c100.php
 c22.php
 c99.php
 c99shell.php
+ca.crt
+ca.kru
 cabal-dev
 cabal.project.local
 cabal.project.local~
@@ -1632,6 +1645,7 @@ cmsadmin
 cmsadmin.php
 cmsadmin/
 cmscockpit/
+cni-conf.json
 codeception.yml
 codeship/
 collectd/
@@ -1671,6 +1685,7 @@ config.core
 config.dat
 config.guess
 config.h.in
+config.hash
 config.inc
 config.inc.bak
 config.inc.old
@@ -1686,8 +1701,8 @@ config.ini.txt
 config.json
 config.json.cfm
 config.local
-config.local.php~
 config.local.php_old
+config.local.php~
 config.old
 config.php
 config.php-eb
@@ -1705,6 +1720,7 @@ config.php.zip
 config.php~
 config.rb
 config.ru
+config.source
 config.sub
 config.txt
 config.xml
@@ -1942,6 +1958,7 @@ db1.sqlite
 db2
 db__.init.php
 db_admin
+db_backup.sql
 db_backups/
 db_session.init.php
 db_status.php
@@ -1950,6 +1967,7 @@ dbadmin.php
 dbadmin/
 dbadmin/index.php
 dbase
+dbase.sql
 dbbackup/
 dbdump.sql
 dbfix/
@@ -2010,6 +2028,7 @@ dist
 dist/
 dkms.conf
 dlldata.c
+dns.alpha.kubernetes.io
 doc
 doc/
 doc/api/
@@ -2059,13 +2078,13 @@ dump.rar
 dump.rdb
 dump.sql
 dump.sql.old
+dump.sql.tgz
 dump.sqlite
 dump.tar
 dump.tar.bz2
 dump.tar.gz
 dump.tgz
 dump.txt
-dump.sql.tgz
 dump.zip
 dump/
 dumper.php
@@ -2165,6 +2184,10 @@ etc/database.xml
 etc/hosts
 etc/lib/pChart2/examples/imageMap/index.php
 etc/passwd
+etcd-apiserver-client.key
+etcd-ca.crt
+etcd-events.log
+etcd.log
 eudora.ini
 eula.txt
 eula_en.txt
@@ -2652,7 +2675,12 @@ kcfinder/browse.php
 keys.json
 kibana/
 killer.php
+known_tokens.csv
 kpanel/
+kube-apiserver.log
+kube-controller-manager.log
+kube-proxy.log
+kube-scheduler.log
 kube/
 kuber/
 kubernetes/
@@ -2726,10 +2754,10 @@ local/composer.lock
 local/composer.phar
 local_bd_new.txt
 local_bd_old.txt
+local_conf.php.bac
+local_conf.php.bak
 local_settings.py
 localhost.sql
-local_conf.php.bak
-local_conf.php.bac
 localsettings.php.bak
 localsettings.php.dist
 localsettings.php.old
@@ -3043,6 +3071,7 @@ mysql-admin/index.php
 mysql.err
 mysql.log
 mysql.php
+mysql.sql
 mysql.tar
 mysql.tar.bz2
 mysql.tar.gz
@@ -3105,6 +3134,7 @@ ngx_pagespeed_beacon/
 nia.cache
 nimcache/
 nlia.cache
+node-role.kubernetes.io
 node_modules
 node_modules/
 nohup.out
@@ -3724,6 +3754,7 @@ rpc/
 rsconnect/
 rst.php
 rudder/
+run.sh
 RushSite.xml
 s.php
 sa.php
@@ -3775,8 +3806,10 @@ serv-u.ini
 Server
 server-info
 server-status/
+server.cert
 server.cfg
 server.js
+server.key
 server.log
 Server.php
 server.pid
@@ -3794,6 +3827,7 @@ serverStatus.log
 service-registry/instance-status
 service-registry/instance-status.json
 service.asmx
+serviceaccount.crt
 ServiceFabricBackup/
 services
 services/
@@ -3905,7 +3939,6 @@ spec/tmp
 splunk/
 spwd.db
 spy.aspx
-store.tgz
 sql-admin/
 sql.inc
 sql.php
@@ -3940,6 +3973,7 @@ sqladmin/
 sqlbuddy
 sqlbuddy/
 sqlbuddy/login.php
+sqldump.sql
 sqlmanager/
 sqlmigrate.php
 sqlnet.log
@@ -3987,6 +4021,7 @@ status?full=true
 statusicon/
 storage/
 storage/logs/laravel.log
+store.tgz
 StreamingStatistics
 stronghold-info
 stronghold-status
@@ -4099,9 +4134,9 @@ tags
 tar
 tar.bz2
 tar.gz
+tar.php
 target
 target/
-tar.php
 tasks/
 tconn.conf
 team/
@@ -4110,6 +4145,7 @@ telephone
 telphin.log
 temp-testng-customsuite.xml
 temp.php
+temp.sql
 TEMP/
 temp/
 template/
