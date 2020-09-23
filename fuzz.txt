@@ -1440,6 +1440,7 @@ bitrix/php_interface/dbconn.php2
 bitrix/web.config
 bitrix_server_test.log
 bitrix_server_test.php
+bitrixsetup.php
 biy/
 biy/upload/
 Black.php
