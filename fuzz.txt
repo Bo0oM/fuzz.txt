@@ -687,6 +687,7 @@ __history/
 __index.php
 __init__.py
 __MACOSX
+__main__.py
 __pma___
 __pycache__/
 __recovery/
@@ -772,6 +773,7 @@ _yardoc/
 a%5c.aspx
 a.out
 aadmin/
+abs/
 acceptance_config.yml
 acceso
 acceso.php
@@ -808,6 +810,7 @@ ad_login
 ad_manage
 add.php
 add_admin
+adfs/services/trust/2005/windowstransport
 adm
 adm.html
 adm.php
@@ -1273,6 +1276,7 @@ artifactory/
 artifacts/
 ASALocalRun/
 asp.aspx
+aspnet_client/
 aspnet_webadmin
 aspwpadmin
 aspxspy.aspx
@@ -1311,12 +1315,14 @@ authuser.php
 auto/
 autoconfig
 autoconfig.json
+autodiscover/
 autologin
 autologin.php
 autologin/
 autom4te.cache
 autoscan.log
 AutoTest.Net/
+autoupdate/
 av/
 aws/
 awstats
@@ -1529,6 +1535,9 @@ celerybeat-schedule
 cell.xml
 centreon/
 cert/
+certenroll/
+certprov/
+certsrv/
 cfexec.cfm
 cfg/
 cfg/cpp/
@@ -2019,9 +2028,12 @@ development-parts/
 development.esproj/
 development.log
 development/
+deviceupdatefiles_ext/
+deviceupdatefiles_int/
 df_main.sql
 dfshealth.jsp
 dhcp_log/
+dialin/
 dir-login/
 dir.php
 directadmin/
@@ -2098,6 +2110,7 @@ dz1.php
 eagle.epf
 ecf/
 ecosystem.json
+ecp/
 edit.php
 editor.php
 editor/
@@ -2192,6 +2205,7 @@ etcd.log
 eudora.ini
 eula.txt
 eula_en.txt
+ews/
 example.php
 examples
 examples/
@@ -2201,6 +2215,8 @@ examples/servlet/SnoopServlet
 examples/servlets/servlet/CookieExample
 examples/servlets/servlet/RequestHeaderExample
 exception.log
+exchange/
+exchweb/
 exec
 expires.conf
 exploded-archives/
@@ -2389,6 +2405,7 @@ graphql/console/
 grappelli/
 graylog/
 groovy/
+groupexpansion/
 gruntfile.coffee
 Gruntfile.coffee
 GruntFile.coffee
@@ -2471,6 +2488,7 @@ httpd/logs/error_log
 httptrace
 hudson/
 hudson/login
+hybridconfig/
 hystrix
 i.php
 icinga/
@@ -2613,6 +2631,8 @@ irequest/
 isadmin
 isadmin.php
 ispmgr/
+iwa/authenticated.aspx
+iwa/iwa_test.aspx
 j2ee/servlet/SnoopServlet
 jacoco/
 Jakefile
@@ -2948,6 +2968,8 @@ mattermost/
 maven/
 mbox
 mcollective/
+mcx/
+mcx/mcxservice.svc
 mdate-sh
 media.tar
 media.tar.bz2
@@ -2955,6 +2977,8 @@ media.tar.gz
 media.zip
 media/
 media/export-criteo.xml
+meet/
+meeting/
 member
 member.php
 member/
@@ -2995,6 +3019,7 @@ metric_tracking.json
 metrics
 metrics.json
 metrics/
+microsoft-server-activesync/
 mics/
 mics/mics.html
 mifs/
@@ -3150,8 +3175,10 @@ nsw/admin/login.php
 nwp-content/
 nwp-content/plugins/disqus-comment-system/disqus.php
 nytprof.out
+oab/
 obj/
 ocp.php
+ocsp/
 odbc
 Office/
 Office/graph.php
@@ -3203,6 +3230,7 @@ output
 output-build.txt
 output/
 OWA/
+owa/
 owncloud/
 p.php
 p/
@@ -3268,6 +3296,7 @@ pbx/
 pentaho/
 perl-reverse-shell.pl
 perlcmd.cgi
+persistentchat/
 personal
 personal.mdb
 personal.sqlite
@@ -3278,6 +3307,7 @@ pgadmin/
 PharoDebug.log
 phinx.yml
 phoenix
+phoneconferencing/
 php
 php-backdoor.php
 php-cgi.core
@@ -3599,6 +3629,7 @@ pom.xml.versionsBackup
 portal/
 postgresql.conf
 power_user/
+powershell/
 printenv
 printenv.tmp
 priv8.php
@@ -3637,6 +3668,7 @@ prv/
 PSUser/
 public
 public..
+public/
 public/hot
 public/storage
 public/system
@@ -3677,6 +3709,7 @@ rcjakar/
 rcjakar/admin/login.php
 rcLogin/
 rdoc/
+reach/sip.svc
 Read
 Read%20Me.txt
 read.me
@@ -3723,6 +3756,8 @@ remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 repo/
 request.log
+requesthandler/
+requesthandlerext/
 requirements.txt
 rerun.txt
 reseller
@@ -3745,6 +3780,8 @@ resume
 resume.json
 revision.inc
 revision.txt
+rgs/
+rgsclients/
 robot.txt
 robots.txt
 robots.txt.dist
@@ -3752,6 +3789,7 @@ root/
 RootCA.crt
 roundcube/index.php
 rpc/
+rpcwithcert/
 rsconnect/
 rst.php
 rudder/
@@ -3774,6 +3812,7 @@ Saved/
 sbt/
 scalyr/
 scheduledtasks
+scheduler/
 schema.sql
 schema.yml
 script/
@@ -4298,11 +4337,13 @@ uber/
 uber/phpMemcachedAdmin/
 uber/phpMyAdmin/
 uber/phpMyAdminBackup/
+ucwa/
 uddi
 uddiexplorer
 ui
 ui/
 unattend.txt
+unifiedmessaging/
 up.php
 update
 update.php
@@ -4556,6 +4597,8 @@ webstat/
 webstats
 webstats.html
 webstats/
+webticket/
+webticket/webticketservice.svc
 weixiao.php
 wenzhang
 wheels/
