@@ -7,7 +7,6 @@
 %3f/
 %C0%AE%C0%AE%C0%AF
 %ff/
-+CSCOU+/../+CSCOE+/files/file_list.json
 ..;/
 .7z
 .access
@@ -122,6 +121,7 @@
 .env.dev.local
 .env.development.local
 .env.development.sample
+.env.docker
 .env.docker.dev
 .env.php
 .env.prod
@@ -1275,7 +1275,6 @@ article/admin/admin.asp
 artifactory/
 artifacts/
 ASALocalRun/
-asf/terminal
 asp.aspx
 aspnet_client/
 aspnet_webadmin
@@ -2090,6 +2089,7 @@ dump.log
 dump.old
 dump.rar
 dump.rdb
+dump.sh
 dump.sql
 dump.sql.old
 dump.sql.tgz
@@ -2793,6 +2793,7 @@ log-in.php
 log-in/
 log.htm
 log.html
+log.json
 log.mdb
 log.php
 log.sqlite
@@ -4587,6 +4588,7 @@ webmaster.php
 webmaster/
 webmin/
 webpack.config.js
+webpack.mix.js
 website.git
 website.tar
 website.tar.bz2
