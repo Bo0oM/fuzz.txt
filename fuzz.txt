@@ -1275,6 +1275,7 @@ article/admin/admin.asp
 artifactory/
 artifacts/
 ASALocalRun/
+asf/terminal
 asp.aspx
 aspnet_client/
 aspnet_webadmin
