@@ -1993,6 +1993,7 @@ debug.py
 debug.txt
 debug.xml
 debug/
+debug/pprof
 debug_error.jsp
 delete.php
 demo
