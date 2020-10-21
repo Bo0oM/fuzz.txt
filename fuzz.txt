@@ -3633,6 +3633,7 @@ portal/
 postgresql.conf
 power_user/
 powershell/
+pprof/
 printenv
 printenv.tmp
 priv8.php
@@ -4145,6 +4146,7 @@ sypex.php
 sypexdumper.php
 SypexDumper_2011/
 sys-admin/
+sys/pprof
 sysadm
 sysadm.php
 sysadm/
