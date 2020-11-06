@@ -1838,6 +1838,7 @@ cpn.php
 craft/
 crash.log
 credentials
+credentials.csv
 credentials.txt
 credentials.xml
 credentials/
