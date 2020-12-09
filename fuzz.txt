@@ -3,7 +3,6 @@
 !.htpasswd
 %20../
 %2e%2e//google.com
-healthcheck.php
 %2e%2e;/test
 %3f/
 %C0%AE%C0%AE%C0%AF
@@ -2449,6 +2448,7 @@ hac/
 haproxy/
 health
 health.json
+healthcheck.php
 heapdump
 heapdump.json
 HISTORY
@@ -3350,6 +3350,7 @@ php-myadmin/
 php-reverse-shell.php
 php-tiny-shell.php
 php.core
+php.error.log
 php.ini
 php.ini-orig.txt
 php.ini.sample
