@@ -1644,6 +1644,7 @@ ckeditor/ckfinder/core/connector/php/connector.php
 ckfinder/
 ckfinder/ckfinder.html
 claroline/phpMyAdmin/index.php
+client.ovpn
 classes/
 classes/cookie.txt
 classes_gen
@@ -3912,6 +3913,7 @@ server.cfg
 server.js
 server.key
 server.log
+server.ovpn
 Server.php
 server.pid
 server.xml
