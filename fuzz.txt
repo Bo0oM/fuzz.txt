@@ -1309,6 +1309,7 @@ authenticate
 authenticate.php
 authentication
 authentication.php
+authlog.txt
 authorization.config
 authorize.php
 authorized_keys
@@ -2752,6 +2753,8 @@ kibana/
 killer.php
 known_tokens.csv
 kpanel/
+krb.log
+krblog.txt
 kube-apiserver.log
 kube-controller-manager.log
 kube-proxy.log
