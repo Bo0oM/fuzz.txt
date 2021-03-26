@@ -59,6 +59,9 @@
 .cfg
 .cfignore
 .checkstyle
+.circleci/
+.circleci/.firebase.secrets.json
+.circleci/.firebase.secrets.json.enc
 .circleci/config.yml
 .classpath
 .cobalt
@@ -1645,7 +1648,6 @@ ckeditor/ckfinder/core/connector/php/connector.php
 ckfinder/
 ckfinder/ckfinder.html
 claroline/phpMyAdmin/index.php
-client.ovpn
 classes/
 classes/cookie.txt
 classes_gen
@@ -1653,6 +1655,7 @@ classic.json
 classic.jsonp
 cleanup.log
 cli/
+client.ovpn
 client_secret.json
 client_secrets.json
 ClientAccessPolicy.xml
