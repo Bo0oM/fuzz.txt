@@ -670,6 +670,12 @@
 2020.tar.gz
 2020.tgz
 2020.zip
+2021.sql
+2021.tar
+2021.tar.bz2
+2021.tar.gz
+2021.tgz
+2021.zip
 2phpmyadmin/
 3.php
 4.php
