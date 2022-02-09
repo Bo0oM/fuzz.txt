@@ -1199,9 +1199,11 @@ apiserver-aggregator.cert
 apiserver-aggregator.key
 apiserver-client.crt
 apiserver-key.pem
+app-service.yaml
 app.config
 app.js
 app.php
+app.yaml
 app/
 app/.htaccess
 app/__pycache__/
@@ -1877,6 +1879,7 @@ craft/
 crash.log
 credentials
 credentials.csv
+credentials.json
 credentials.txt
 credentials.xml
 credentials/
@@ -2050,6 +2053,7 @@ dependency-reduced-pom.xml
 deploy
 deploy.env
 deploy.rb
+deploy.sh
 deps
 deps/deps.jl
 DerivedData/
@@ -2617,6 +2621,7 @@ info.json
 info.php
 info.txt
 infos.php
+ingress.yaml
 init/
 inspector
 instadmin/
@@ -3226,6 +3231,7 @@ nginx-ssl.error.log
 nginx-status/
 nginx.conf
 nginx_status
+nginx_template.conf
 ngx_pagespeed_beacon/
 nia.cache
 nimcache/
@@ -3732,6 +3738,7 @@ prometheus
 prometheus/
 prometheus/targets
 propel.ini
+propel.json
 protected/data/
 protected/runtime/
 providers.json
@@ -3942,6 +3949,7 @@ serverStatus.log
 service-registry/instance-status
 service-registry/instance-status.json
 service.asmx
+service.yaml
 serviceaccount.crt
 ServiceFabricBackup/
 services
@@ -4116,6 +4124,12 @@ st.php
 stackstorm/
 stacktrace.log
 staff/
+stage_create_service.sh
+stage_create_service_dev.sh
+stage_create_service_prod.sh
+stage_deploy.sh
+stage_deploy_dev.sh
+stage_deploy_prod.sh
 stamp-h1
 staradmin/
 start.html
@@ -4387,6 +4401,7 @@ tmp/vaga.php
 tmp/whmcs.php
 tmp/xd.php
 TODO
+token.json
 tomcat-docs/appdev/sample/web/hello.jsp
 tomcat/axis/
 tools
