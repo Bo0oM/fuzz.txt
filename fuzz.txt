@@ -2177,6 +2177,7 @@ editor/tiny_mce/
 editor/tinymce/
 editors/
 editors/FCKeditor
+EemAdminService/EemAdmin?wsdl
 eggs/
 ehthumbs.db
 elastic/
