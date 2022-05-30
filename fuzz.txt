@@ -103,6 +103,7 @@
 .db.yaml
 .deployignore
 .dev/
+.devcontainer
 .directory
 .dockerignore
 .drone.yml
@@ -409,6 +410,7 @@
 .pki
 .placeholder
 .powenv
+.pre-commit-config.yaml
 .procmailrc
 .profile
 .project
@@ -424,6 +426,7 @@
 .pub/
 .pwd
 .pydevproject
+.pylintrc
 .pytest_cache/
 .Python
 .python-eggs
@@ -512,6 +515,7 @@
 .ssh/known_hosts
 .st_cache/
 .stack-work/
+.style.yapf
 .stylelintrc
 .sublime-gulp.cache
 .sublime-project
@@ -690,6 +694,7 @@
 \..\..\..\..\..\..\..\..\..\etc\passwd
 _.htpasswd
 __admin
+__bx_log.log
 __cache/
 __dummy.html
 __history/
@@ -1191,6 +1196,7 @@ api/swagger.yml
 api/v1
 api/v2
 api/v3
+api_log.txt
 apibuild.pyc
 apidoc
 apidocs
@@ -2126,7 +2132,6 @@ downloads/
 downloads/dom.php
 dra.php
 dswsbobje/
-dswsbobje//happyaxis.jsp
 dswsbobje/happyaxis.jsp
 duckrails/mocks/
 dummy
@@ -2401,6 +2406,7 @@ forums/
 forums/cache/db_update.lock
 fpadmin
 fpadmin/
+framework/yiic.php
 freeline.py
 freeline/
 freeline_project_description.json
@@ -2671,6 +2677,8 @@ installation/
 installed.json
 InstalledFiles
 installer
+installer-backup.php
+installer-data.sql
 installer-log.txt
 installer.php
 installer_files/
@@ -3745,6 +3753,7 @@ providers.json
 proxy.pac
 proxy.stream?origin=https://google.com
 proxy/
+proxy_config.json
 prv/
 PSUser/
 public
@@ -4197,6 +4206,7 @@ suspended.page
 svn.revision
 svn/
 SVN/
+svn/wc.db
 swagger
 swagger-resources
 swagger-ui
@@ -4310,7 +4320,9 @@ test.php
 test.sqlite
 test.txt
 test/
+test/php/test.html
 test/reports
+test/ssi/test.shtml
 test/tmp/
 test/version_tmp/
 test0.php
@@ -4330,6 +4342,7 @@ test_
 test_gen
 test_gen.caches
 test_ip.php
+testfile.php
 Testing
 testproxy.php
 TestResult.xml
