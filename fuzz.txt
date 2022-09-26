@@ -680,6 +680,12 @@
 2021.tar.gz
 2021.tgz
 2021.zip
+2022.sql
+2022.tar
+2022.tar.bz2
+2022.tar.gz
+2022.tgz
+2022.zip
 2phpmyadmin/
 3.php
 4.php
@@ -1718,6 +1724,7 @@ compass.rb
 compile
 compile_commands.json
 components/
+composer-bx.json
 composer.json
 composer.lock
 composer.phar
@@ -3763,6 +3770,7 @@ public/
 public/hot
 public/storage
 public/system
+public_html/
 publication_list.xml
 publish/
 PublishScripts/
