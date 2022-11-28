@@ -1499,6 +1499,8 @@ classic.json
 classic.jsonp
 cleanup.log
 cli/
+client.ovpn
+client_.ovpn
 client_secret.json
 client_secrets.json
 ClientAccessPolicy.xml
@@ -2913,6 +2915,7 @@ opa-debug-js
 open-flash-chart.swf?get-data=(function(){alert(document.domain)})()
 OpenCover/
 openvpnadmin/
+openvpn.ovpn
 operador/
 operator/
 ops/
