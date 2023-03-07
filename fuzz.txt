@@ -13,6 +13,7 @@
 .addressbook
 .adm
 .admin
+.apache.env
 .apdisk
 .AppleDB
 .AppleDesktop
@@ -99,12 +100,16 @@
 .cvsignore
 .dart_tool/
 .dat
+.database.env
+.db.env
 .db.xml
 .db.yaml
+.debug.env
 .deployignore
 .dev/
 .devcontainer
 .directory
+.django.env
 .dockerignore
 .drone.yml
 .DS_Store
@@ -113,6 +118,7 @@
 .eclipse
 .editorconfig
 .eggs/
+.elastic.env
 .elasticbeanstalk/
 .elb
 .elc
@@ -121,17 +127,26 @@
 .emacs.desktop.lock
 .empty-folder
 .env
+.env.backup
+.env.bak
+.env.copy
 .env.dev
 .env.dev.local
+.env.development
 .env.development.local
 .env.development.sample
 .env.docker
 .env.docker.dev
+.env.local
+.env.new
 .env.php
 .env.prod
 .env.prod.local
+.env.production
 .env.production.local
+.env.remote
 .env.sample.php
+.env.staging
 .env.test.sample
 .environment
 .error_log
@@ -308,6 +323,7 @@
 .komodotools
 .komodotools/
 .ksh_history
+.laravel.env
 .last_cover_stats
 .lein-deps-sum
 .lein-failures
@@ -359,6 +375,7 @@
 .mweval_history
 .mwsql_history
 .mypy_cache/
+.mysql.env
 .mysql_history
 .nano_history
 .navigation/
@@ -366,6 +383,7 @@
 .netrc
 .netrwhist
 .next
+.nginx.env
 .nia.cache
 .nlia.cache
 .node_repl_history
@@ -382,6 +400,7 @@
 .nuget/packages.config
 .nyc_output
 .old
+.old.env
 .oldsnippets
 .oldstatic
 .org-id-locations
@@ -409,9 +428,11 @@
 .phpversion
 .pki
 .placeholder
+.postgres.env
 .powenv
 .pre-commit-config.yaml
 .procmailrc
+.production
 .profile
 .project
 .project.xml
@@ -444,6 +465,7 @@
 .rebar
 .rediscli_history
 .reek
+.remote
 .remote-sync.json
 .repl_history
 .revision
@@ -573,6 +595,7 @@
 .vs/
 .web
 .web-server-pid
+.web.env
 .webassets-cache
 .workspace/
 .wp-config.php.swp
@@ -680,12 +703,19 @@
 2021.tar.gz
 2021.tgz
 2021.zip
+2022-backup.zip
 2022.sql
 2022.tar
 2022.tar.bz2
 2022.tar.gz
 2022.tgz
 2022.zip
+2023.sql
+2023.tar
+2023.tar.bz2
+2023.tar.gz
+2023.tgz
+2023.zip
 2phpmyadmin/
 3.php
 4.php
@@ -1190,6 +1220,7 @@ api-docs
 api.log
 api.php
 api.py
+api.zip
 api/
 api/2/explore/
 api/error_log
@@ -1213,9 +1244,12 @@ apiserver-client.crt
 apiserver-key.pem
 app-service.yaml
 app.config
+app.config.env
+app.env
 app.js
 app.php
 app.yaml
+app.zip
 app/
 app/.htaccess
 app/__pycache__/
@@ -1372,6 +1406,7 @@ backoffice.php
 backoffice/
 backoffice/v1/ui
 backup
+backup-2022.zip
 backup.7z
 backup.cfg
 backup.htpasswd
@@ -1392,6 +1427,7 @@ backup0/
 backup1/
 backup123/
 backup2/
+backup2022.zip
 backups
 backups.7z
 backups.inc
@@ -1437,6 +1473,7 @@ behat.yml
 BenchmarkDotNet.Artifacts/
 Berksfile
 beta
+beta.zip
 bigadmin/
 bigdump.php
 billing
@@ -1709,6 +1746,7 @@ cmsadmin.php
 cmsadmin/
 cmscockpit/
 cni-conf.json
+code.zip
 codeception.yml
 codeship/
 collectd/
@@ -1742,11 +1780,13 @@ conf/server.xml
 conf/tomcat-users.xml
 conf/tomcat8.conf
 conf/web.xml
+config
 config.bak
 config.codekit
 config.codekit3
 config.core
 config.dat
+config.env
 config.guess
 config.h.in
 config.hash
@@ -1789,6 +1829,7 @@ config.sub
 config.txt
 config.xml
 config.yml
+config.zip
 Config/
 config/
 config/apc.php
@@ -1824,6 +1865,7 @@ config/site.php
 config/xml/
 config_override.php
 configprops
+configs.zip
 configs/
 Configs/authServerSettings.config
 configs/conf_bdd.ini
@@ -1839,6 +1881,7 @@ configuration.php.swp
 configuration.php.txt
 configuration.php.zip
 configuration.php~
+configuration.zip
 configuration/
 configure
 configure.scan
@@ -1869,6 +1912,7 @@ cookie
 cookie.php
 COPYING
 COPYRIGHT.txt
+core.zip
 core/latest/swagger-ui/index.html
 count_admin
 cover
@@ -1969,6 +2013,7 @@ database.yml.pgsql
 database.yml.sqlite3
 database.yml_original
 database.yml~
+database.zip
 database/
 database/database/
 database/phpMyAdmin/
@@ -1980,6 +2025,7 @@ Database_Administration/
 Database_Backup/
 database_credentials.inc
 databases.yml
+databases.zip
 datadog/
 dataobject.ini
 davmail.log
@@ -2000,6 +2046,7 @@ db.sqlite
 db.sqlite3
 db.xml
 db.yaml
+db.zip
 db/
 db/db-admin/
 db/dbadmin/
@@ -2077,7 +2124,9 @@ Desktop.ini
 desktop/
 desktop/index_framed.htm
 dev
+dev.env
 dev.php
+dev.zip
 dev/
 devdata.db
 devel/
@@ -2127,6 +2176,7 @@ dokuwiki/
 dom.php
 domcfg.nsf
 door.php
+dotenv.env
 down/
 down/login
 download/
@@ -2293,6 +2343,7 @@ export.cfg
 export/
 export_presets.cfg
 ExportedObj/
+exports.zip
 ext/
 ext/.deps
 ext/build/
@@ -2415,6 +2466,7 @@ forums/
 forums/cache/db_update.lock
 fpadmin
 fpadmin/
+framework.zip
 framework/yiic.php
 freeline.py
 freeline/
@@ -2532,6 +2584,7 @@ htaccess.dist
 htaccess.old
 htaccess.txt
 htdocs
+htdocs.zip
 htgroup
 html.tar
 html.tar.bz2
@@ -2674,6 +2727,7 @@ INSTALL.TXT
 INSTALL.txt
 Install.txt
 install.txt
+install.zip
 install/
 install/index.php?upgrade/
 install/update.log
@@ -3002,7 +3056,9 @@ Mail/smtp/Admin/smadv.asp
 mailer/.env
 mailman/
 mailman/listinfo
+main.env
 main.mdb
+main.zip
 main/
 main/login
 maint/
@@ -3148,6 +3204,7 @@ moderator/login.php
 modern.json
 modern.jsonp
 Module.symvers
+module.zip
 modules.order
 modules/
 modules/admin/
@@ -3184,6 +3241,7 @@ myadmin/scripts/setup.php
 myadmin2/index.php
 myadminscripts/
 myadminscripts/setup.php
+myconf.env
 mysql-admin/
 mysql-admin/index.php
 mysql.err
@@ -3296,8 +3354,8 @@ OpenCover/
 openshift/
 openstack/
 opentsdb/
-openvpnadmin/
 openvpn.ovpn
+openvpnadmin/
 operador/
 operator/
 oprocmgr-service
@@ -3772,6 +3830,7 @@ public/
 public/hot
 public/storage
 public/system
+public_html.zip
 public_html/
 publication_list.xml
 publish/
@@ -3895,6 +3954,7 @@ rsconnect/
 rst.php
 rudder/
 run.sh
+run.zip
 RushSite.xml
 s.php
 sa.php
@@ -3916,9 +3976,11 @@ scheduledtasks
 scheduler/
 schema.sql
 schema.yml
+script.zip
 script/
 script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
 scripts
+scripts.zip
 scripts/
 scripts/ckeditor/ckfinder/core/connector/asp/connector.asp
 scripts/ckeditor/ckfinder/core/connector/aspx/connector.aspx
@@ -4071,6 +4133,7 @@ sonarcube/
 sonarqube/
 source
 source.php
+source.zip
 source/
 source/inspector.html
 source_gen
@@ -4272,6 +4335,7 @@ sysinfo.txt
 syslog/
 system-administration/
 system.log
+system.zip
 system/
 system/cache/
 system/cron/cron.txt
@@ -4426,6 +4490,7 @@ tmp/whmcs.php
 tmp/xd.php
 TODO
 token.json
+tokenlite.zip
 tomcat-docs/appdev/sample/web/hello.jsp
 tomcat/axis/
 tools
@@ -4490,6 +4555,7 @@ upload.html
 upload.php
 upload.php3
 upload.shtm
+upload.zip
 upload/
 upload/1.php
 upload/2.php
@@ -4511,6 +4577,7 @@ uploadfiles.php
 uploadify.php
 uploadify/
 uploads.php
+uploads.zip
 uploads/
 uploads/dump.sql
 upstream_conf
@@ -4568,12 +4635,14 @@ uwsgi.ini
 v1
 v1.0
 v1.1
+v1.zip
 v1/
 v1/public/yql
 v1/test/js/console.html
 v1/test/js/console_ajax.js
 v2
 v2.0
+v2.zip
 v2/
 v2/_catalog
 v2/keys/?recursive=true
@@ -4658,6 +4727,7 @@ WEB-INF./web.xml
 WEB-INF/
 WEB-INF/config.xml
 WEB-INF/web.xml
+web-variables.env
 web.7z
 web.config
 web.config.bak
@@ -4725,6 +4795,7 @@ webstats/
 webticket/
 webticket/webticketservice.svc
 weixiao.php
+well-known.zip
 wenzhang
 wheels/
 whmcs.php
