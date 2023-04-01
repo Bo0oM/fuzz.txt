@@ -1963,6 +1963,7 @@ clients.sqlite
 clients.tar.gz
 clients.zip
 cloud/
+cloud-config.yml
 cmake_install.cmake
 cmd-asp-5.1.asp
 cmdasp.asp
