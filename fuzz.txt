@@ -1746,6 +1746,7 @@ clients.sqlite
 clients.tar.gz
 clients.zip
 cloud/
+cloud-config.yml
 cmake_install.cmake
 CMakeCache.txt
 CMakeFiles
