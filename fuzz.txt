@@ -2,7 +2,6 @@
 !.htaccess
 !.htpasswd
 %20../
-wp-config-sample.php
 %2e%2e//google.com
 %2e%2e;test/
 %3f/
@@ -1746,8 +1745,8 @@ clients.sql
 clients.sqlite
 clients.tar.gz
 clients.zip
-cloud/
 cloud-config.yml
+cloud/
 cmake_install.cmake
 CMakeCache.txt
 CMakeFiles
@@ -4858,6 +4857,7 @@ wp-admin/install.php
 wp-admin/setup-config.php
 wp-app.log
 wp-cli.yml
+wp-config-sample.php
 wp-config.inc
 wp-config.old
 wp-config.php
