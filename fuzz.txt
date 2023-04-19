@@ -353,6 +353,7 @@
 .mailrc
 .maintenance
 .maintenance2
+.m2/settings.xml
 .mc
 .mc/
 .members
