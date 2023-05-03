@@ -284,6 +284,7 @@
 .idea/tasks.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+.idea/WebServers.xml
 .idea/woaWordpress.iml
 .idea/workspace(2).xml
 .idea/workspace(3).xml
@@ -348,12 +349,12 @@
 .login_conf
 .LSOverride
 .lynx_cookies
+.m2/settings.xml
 .magentointel-cache/
 .mail_aliases
 .mailrc
 .maintenance
 .maintenance2
-.m2/settings.xml
 .mc
 .mc/
 .members
@@ -878,6 +879,7 @@ adm_auth
 adm_auth.php
 admin
 admin%20/
+admin-authz.xml
 admin-console
 admin-console/
 admin-database
@@ -993,6 +995,7 @@ admin/login.asp
 admin/login.htm
 admin/login.html
 admin/login.php
+admin/logon.jsp
 admin/logs/
 admin/logs/access-log
 admin/logs/access.log
@@ -1021,6 +1024,7 @@ admin/PMA/index.php
 admin/pma/index.php
 admin/pol_log.txt
 admin/private/logs
+admin/secure/logon.jsp
 admin/sqladmin/
 admin/sxd/
 admin/sysadmin/
@@ -1513,6 +1517,7 @@ bitrix/.settings.php
 bitrix/.settings.php.bak
 bitrix/admin/help.php
 bitrix/admin/index.php
+bitrix/admin/site_checker.php
 bitrix/authorization.config
 bitrix/backup/
 bitrix/cache
@@ -1520,6 +1525,7 @@ bitrix/cache_image
 bitrix/components/bitrix/desktop/admin_settings.php
 bitrix/components/bitrix/map.yandex.search/settings/settings.php
 bitrix/components/bitrix/player/player_playlist_edit.php
+bitrix/components/bitrix/sender.mail.editor/ajax.php
 bitrix/dumper/
 bitrix/error.log
 bitrix/import/
@@ -1534,6 +1540,7 @@ bitrix/modules/error.log
 bitrix/modules/error.log.old
 bitrix/modules/main/admin/restore.php
 bitrix/modules/main/classes/mysql/agent.php
+bitrix/modules/main/include/virtual_file_system.php
 bitrix/modules/serverfilelog-0.dat
 bitrix/modules/serverfilelog-1.dat
 bitrix/modules/serverfilelog_tmp.dat
@@ -1550,7 +1557,10 @@ bitrix/settings.php.bak
 bitrix/stack_cache
 bitrix/tools/autosave.php
 bitrix/tools/get_catalog_menu.php
+bitrix/tools/html_editor_action.php
+bitrix/tools/mail_entry.php
 bitrix/tools/upload.php
+bitrix/tools/vote/uf.php
 bitrix/web.config
 bitrix_server_test.log
 bitrix_server_test.php
@@ -1911,6 +1921,7 @@ conflg.php
 confluence/
 conn.asp
 connect.inc
+connection.inc
 console
 console/
 console/base/config.json
@@ -2468,6 +2479,7 @@ files/tmp/
 Files/user.lock
 fileupload/
 filezilla.xml
+FileZilla.xml
 findbugs/
 firebase-debug.log
 flash/
@@ -2862,6 +2874,7 @@ kairosdb/
 karma.conf.js
 kcfinder/
 kcfinder/browse.php
+key.pem
 keys.json
 kibana/
 killer.php
@@ -2889,6 +2902,7 @@ letmein
 letmein.php
 letmein/
 level
+lfm.php
 lg/
 lg/lg.conf
 lia.cache
@@ -3271,6 +3285,7 @@ myadmin2/index.php
 myadminscripts/
 myadminscripts/setup.php
 myconf.env
+myserver.key
 mysql-admin/
 mysql-admin/index.php
 mysql.err
@@ -3296,6 +3311,7 @@ mysql_debug.sql
 mysqladmin/
 mysqladmin/index.php
 mysqladmin/scripts/setup.php
+mysqldump.sql
 mysqldumper/
 mysqlitedb.db
 mysqlmanager/
@@ -3749,6 +3765,8 @@ pip-log.txt
 piwigo/
 piwigo/extensions/UserCollections/template/ZeroClipboard.swf
 pkg/
+placeholder_one
+placeholder_two
 planning/cfg
 planning/docs
 planning/src
@@ -3822,6 +3840,7 @@ priv8.php
 private.key
 private.mdb
 private.sqlite
+privatekey.key
 processlogin
 processlogin.php
 Procfile
@@ -4038,6 +4057,7 @@ sentry/
 serv-u.ini
 Server
 server-info
+server-status
 server-status/
 server.cert
 server.cfg
@@ -4146,6 +4166,7 @@ sites.xml
 sites/all/libraries/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
+sites/default/private/files/backup_migrate/scheduled/test.txt
 sites/example.sites.php
 sites/README.txt
 sized/
@@ -4533,6 +4554,7 @@ trace
 Trace.axd
 Trace.axd::$DATA
 trace.json
+translate.sql
 transmission/web/
 tresearch/
 tresearch/happyaxis.jsp
@@ -4843,6 +4865,8 @@ whmcs.php
 whmcs/
 whmcs/downloads/dz.php
 wiki/
+winscp.ini
+WinSCP.ini
 wizmysqladmin/
 wordpress.tar
 wordpress.tar.bz2
@@ -4899,7 +4923,9 @@ wp/
 wp/wp-login.php
 wpad.dat
 ws.php
+WS_FTP.ini
 ws_ftp.ini
+WS_FTP.INI
 WS_FTP.LOG
 WS_FTP/
 WS_FTP/Sites/ws_ftp.ini
