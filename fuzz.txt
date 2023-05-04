@@ -741,6 +741,7 @@ __index.php
 __init__.py
 __MACOSX
 __main__.py
+__php_errors.log
 __pma___
 __pycache__/
 __recovery/
@@ -798,6 +799,7 @@ _novo/
 _novo/composer.lock
 _old
 _pages
+_php_errors.log
 _phpmyadmin/
 _pkginfo.txt
 _private
@@ -3473,6 +3475,7 @@ moving.page
 mrtg.cfg
 msg/
 msg_gen/
+msmtp_default.log
 msql/
 mssql/
 mt-check.cgi
