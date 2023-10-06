@@ -595,6 +595,8 @@
 .viminfo
 .vimrc
 .vs/
+.vscode
+.vscode/sftp.json
 .web
 .web-server-pid
 .web.env
@@ -5074,6 +5076,7 @@ webticket/webticketservice.svc
 weixiao.php
 well-known.zip
 wenzhang
+wget-log
 wheels/
 whmcs.php
 whmcs/
