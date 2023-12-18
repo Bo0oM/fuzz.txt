@@ -2395,6 +2395,7 @@ docs
 docs.json
 docs/
 docs/_build/
+docs/api-docs.json
 doctrine/
 doctrine/schema/eirec.yml
 doctrine/schema/tmx.yml
