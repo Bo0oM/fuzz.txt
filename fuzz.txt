@@ -702,6 +702,7 @@
 1.txt
 1.zip
 10-flannel.conf
+111.php
 123.php
 123.txt
 1c/
@@ -1557,6 +1558,7 @@ article/admin/admin.asp
 artifactory/
 artifacts/
 ASALocalRun/
+asd.php
 asp.aspx
 aspnet_client/
 aspnet_webadmin
