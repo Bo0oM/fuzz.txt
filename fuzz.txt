@@ -781,6 +781,13 @@
 2021.tar.gz
 2021.tgz
 2021.zip
+2022-backup.zip
+2022.sql
+2022.tar
+2022.tar.bz2
+2022.tar.gz
+2022.tgz
+2022.zip
 2023-backup.zip
 2023.sql
 2023.tar
@@ -1621,6 +1628,7 @@ backoffice.php
 backoffice/
 backoffice/v1/ui
 backup
+backup-2022.zip
 backup-2023.zip
 backup-2024.zip
 backup.7z
@@ -1643,6 +1651,7 @@ backup0/
 backup1/
 backup123/
 backup2/
+backup2022.zip
 backup2023.zip
 backup2024.zip
 backups
