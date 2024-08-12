@@ -1431,6 +1431,8 @@ api-doc
 api-docs
 api.log
 api.php
+api.tar.gz
+api.tgz
 api.py
 api.zip
 api/
