@@ -4133,6 +4133,7 @@ pmamy/index.php
 pmamy2/index.php
 pmd/index.php
 pmyadmin/
+pods/
 pom.xml
 pom.xml.asc
 pom.xml.next
