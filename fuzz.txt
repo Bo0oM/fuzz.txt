@@ -2139,6 +2139,7 @@ console/
 console/base/config.json
 console/payments/config.json
 consul/
+containerLogs/
 content/
 content/debug.log
 CONTRIBUTING.md
