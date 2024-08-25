@@ -4315,6 +4315,7 @@ rst.php
 rudder/
 run.sh
 run.zip
+runningpods/
 RushSite.xml
 s.php
 sa.php
