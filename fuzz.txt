@@ -1431,9 +1431,9 @@ api-doc
 api-docs
 api.log
 api.php
+api.py
 api.tar.gz
 api.tgz
-api.py
 api.zip
 api/
 api/2/explore/
@@ -5077,6 +5077,7 @@ vqmod/checked.cache
 vqmod/logs/
 vqmod/mods.cache
 vqmod/vqcache/
+vrot.php
 vtiger/
 vtigercrm/
 vtund.conf
