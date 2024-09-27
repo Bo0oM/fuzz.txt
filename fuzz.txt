@@ -5330,3 +5330,5 @@ zipkin/
 zone-h.php
 ~/
 ~admin/
+/loki/api/v1/label
+/loki/api/v1/label/pod/values
