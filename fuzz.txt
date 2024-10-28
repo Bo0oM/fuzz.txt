@@ -2346,6 +2346,7 @@ debug.txt
 debug.xml
 debug/
 debug/pprof
+debug/routes
 debug_error.jsp
 delete.php
 demo
@@ -4312,6 +4313,7 @@ root
 root/
 RootCA.crt
 roundcube/index.php
+routes
 rpc/
 rpcwithcert/
 rsconnect/
