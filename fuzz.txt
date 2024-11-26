@@ -105,6 +105,7 @@
 .db.xml
 .db.yaml
 .debug.env
+.deploy
 .deployignore
 .dev/
 .devcontainer
@@ -1534,6 +1535,7 @@ applet
 application
 application.log
 application.wadl
+application.yml
 application/
 application/cache/
 application/configs/application.ini
@@ -1935,6 +1937,7 @@ chkadmin
 chklogin
 chubb.xml
 ci/
+cicd/swarm-template.yml
 cidr.txt
 circle.yml
 Citrix/
@@ -2365,6 +2368,7 @@ deploy
 deploy.env
 deploy.rb
 deploy.sh
+deploy.yml
 deps
 deps/deps.jl
 DerivedData/
@@ -4663,6 +4667,7 @@ swagger/swagger-ui.html
 swagger/ui
 swagger/v1/swagger.json
 swaggerui
+swarm-template.yml
 swfobject.js
 swfupload
 swfupload.swf
