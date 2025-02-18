@@ -1726,6 +1726,9 @@ bin/target
 bin/tmp
 Binaries/
 bitbucket-pipelines.yml
+__bx_log.log
+__error.log
+__error.log.old
 bitrix/
 bitrix/.settings
 bitrix/.settings.bak
