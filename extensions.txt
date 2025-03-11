@@ -61,3 +61,4 @@
 .%.swn
 .%.swo
 .%.swp
+.%.yaml
