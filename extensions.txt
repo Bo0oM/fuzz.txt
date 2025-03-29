@@ -5,7 +5,11 @@
 %.3
 %.bac
 %.backup
+%.backup1
+%.backup2
+%.backup3
 %.bak
+%.bak1
 %.cache
 %.conf
 %.cs
@@ -17,6 +21,7 @@
 %.ini
 %.java
 %.map
+%.md
 %.log
 %.lst
 %.old
@@ -56,3 +61,4 @@
 .%.swn
 .%.swo
 .%.swp
+.%.yaml
