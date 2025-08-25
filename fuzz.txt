@@ -1478,6 +1478,7 @@ api/v3/playground
 api/version
 api_log.txt
 apibuild.pyc
+apiconfig.json
 apidoc
 apidocs
 apiserver-aggregator-ca.cert
