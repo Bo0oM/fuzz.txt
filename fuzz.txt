@@ -20,11 +20,17 @@
 .AppleDouble
 .apt_generated/
 .architect
+.asp
+.aspx
 .aws/credentials
 .axoCover/
 .babelrc
 .backup
+.backup1
+.backup2
+.backup3
 .bak
+.bak2
 .bash_history
 .bash_logout
 .bash_profile
@@ -2353,6 +2359,7 @@ dbase.sql
 dbbackup/
 dbdump.sql
 dbfix/
+dbs/
 dbweb/
 dead.letter
 DEADJOE
